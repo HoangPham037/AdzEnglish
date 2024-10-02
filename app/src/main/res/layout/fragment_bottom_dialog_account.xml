@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivCloseBottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/bg_bottom_dialog"
+        android:padding="@dimen/_15dp"
+        android:src="@drawable/ic_bottom_dialog" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingHorizontal="@dimen/_16dp">
+
+        <TableRow
+            android:id="@+id/btnTakePhoto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30dp"
+            android:background="@drawable/bg_answer"
+            android:gravity="center_vertical"
+            android:paddingHorizontal="@dimen/_15dp"
+            android:paddingVertical="@dimen/_20dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_camera"
+                tools:ignore="ContentDescription" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_16dp"
+                android:fontFamily="@font/plusjakartasans_regular"
+                android:text="@string/txt_take_photo"
+                android:textColor="@color/gray_01"
+                android:textSize="@dimen/_16sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/btnChooseLibrary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20dp"
+            android:background="@drawable/bg_answer"
+            android:gravity="center_vertical"
+            android:paddingHorizontal="@dimen/_15dp"
+            android:paddingVertical="@dimen/_20dp">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_photo"
+                tools:ignore="ContentDescription" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginStart="@dimen/_16dp"
+                android:fontFamily="@font/plusjakartasans_regular"
+                android:text="@string/txt_choose_library"
+                android:textColor="@color/gray_01"
+                android:textSize="@dimen/_16sp" />
+        </TableRow>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_20dp"
+            android:layout_marginBottom="@dimen/_30dp"
+            android:background="@drawable/bg_text_view"
+            android:backgroundTint="@color/gray_03"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:paddingVertical="@dimen/_18dp"
+            android:text="@string/txt_cancel_dialog"
+            android:textColor="@color/gray_01"
+            android:textSize="@dimen/_16sp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/background_app"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="185dp"
+        android:layout_height="@dimen/_200dp"
+        android:layout_marginTop="@dimen/_140dp"
+        android:src="@drawable/iv_box_nine" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvCalendar"
+        app:spanCount="7"
+        tool:itemCount="7"
+        android:paddingVertical="@dimen/_15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="@dimen/_16dp"
+        app:layoutManager="androidx.recyclerview.widget.GridLayoutManager"
+        tool:listitem="@layout/item_calendar" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:textColor="@color/blue_02"
+        android:textSize="@dimen/_24sp"
+        android:id="@+id/tvNumberDay"
+        tool:text="Chuỗi 4 ngày liên tiếp" />
+
+    <TextView
+        android:id="@+id/tvTitleContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:gravity="center"
+        android:text="@string/txt_note"
+        android:textColor="@color/gray_01"
+        android:textSize="@dimen/_16sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnContinue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_30dp"
+        android:layout_marginBottom="@dimen/_20dp"
+        android:background="@drawable/bg_text_view"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:gravity="center"
+        android:padding="@dimen/_16dp"
+        android:text="@string/txt_continue"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sp" />
+
+</LinearLayout>

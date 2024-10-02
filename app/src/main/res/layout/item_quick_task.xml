@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:layout_marginVertical="@dimen/_6dp"
+        android:layout_width="match_parent"
+        android:textSize="@dimen/_16sp"
+        tools:text="I want coffee"
+        android:id="@+id/tvContent"
+        android:background="@drawable/bg_item_quick_task_other"
+        android:padding="@dimen/_16dp"
+        android:textAlignment="center"
+        android:layout_height="wrap_content" />
+</layout>

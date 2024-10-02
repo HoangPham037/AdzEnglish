@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvGrammar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_answer"
+            android:lineHeight="@dimen/_24dp"
+            android:padding="@dimen/_18dp"
+            android:textColor="@color/blue_01"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/progressBar"
+            tools:targetApi="p"
+            tools:text="Sử dụng cấu trú:Sử dụng cấu trúc sau cho câu phủ định đối với thì hiện tại: Sử dụng cấu trú:Sử dụng cấu trúc sau cho câu phủ định đối với thì hiện tại: Sử dụng cấu trú:Sử dụng cấu trúc sau cho câu phủ định đối với thì hiện tại:Sử dụng cấu trú:Sử dụng cấu trúc sau cho câu phủ định đối với thì hiện tại:" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:text="@string/txt_create_a_phrase"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_20sp" />
+
+
+        <com.adzenglish.adzenglish.customview.NoTouchRecyclerView
+            android:id="@+id/recyclerViewDropAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            tools:listitem="@layout/item_drop_answer" />
+    </LinearLayout>
+</layout>

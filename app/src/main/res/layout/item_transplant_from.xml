@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvWord"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_10dp"
+            android:fontFamily="@font/plusjakartasans_regular"
+            android:gravity="center"
+            android:layout_marginHorizontal="@dimen/_8dp"
+            android:textColor="@color/blue_01"
+            android:textSize="16sp"
+            tools:text="afafs"/>
+    </LinearLayout>
+</layout>

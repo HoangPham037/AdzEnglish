@@ -1,0 +1,2418 @@
+ {
+  "data": [
+    {
+      "id": 185,
+      "lesson_id": 90,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cho câu khẳng định: # \r\n;Chủ ngữ;\/B-B plus ;Động từ;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:08:49",
+      "updated_at": "2023-01-17 13:29:36"
+    },
+    {
+      "id": 187,
+      "lesson_id": 91,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Thêm ;*-s*;\/B hoặc ;*-es*;\/B sau danh từ số ít để chuyển thành dạng số nhiều",
+      "created_at": "2017-07-11 05:08:52",
+      "updated_at": "2022-08-02 15:36:00"
+    },
+    {
+      "id": 189,
+      "lesson_id": 92,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau để đặt câu hỏi đối với thì hiện tại: # \r\n;Do;\/B-Y plus ;chủ ngữ;\/B-B plus ;động từ;\/B-G plus ;...;\/B-W ?",
+      "created_at": "2017-07-11 05:08:56",
+      "updated_at": "2023-05-17 12:39:42"
+    },
+    {
+      "id": 191,
+      "lesson_id": 93,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cho câu phủ định đối với thì hiện tại: # \r\n;Chủ ngữ;\/B-B plus ;do + not;\/B-YR plus ;động từ;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:08:59",
+      "updated_at": "2022-07-20 11:57:13"
+    },
+    {
+      "id": 193,
+      "lesson_id": 94,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu như bạn có gì đó - bạn sẽ nói \"*tôi có*\" (có–;*have*;\/G).# \r\nKhi ấy cấu trúc sẽ là:# \r\n;Chủ ngữ;\/B-B plus ;have;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:09:03",
+      "updated_at": "2022-07-20 12:13:39"
+    },
+    {
+      "id": 197,
+      "lesson_id": 95,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Những dạng động từ ;*be*;\/G (*là, ở*): # \r\n;*I*;\/B  – ;*am*;\/G (viết tắt *I'm*) # \r\n;*he, she, it*;\/B  – ;*is*;\/G  (viết tắt *'s*) # \r\n;*you, we, they*;\/B  – ;*are*;\/G (viết tắt *'re*)",
+      "created_at": "2017-07-11 05:09:07",
+      "updated_at": "2020-02-28 09:22:22"
+    },
+    {
+      "id": 198,
+      "lesson_id": 96,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cùng động từ  ;*be*;\/G cho câu phủ định ở thì hiện tại: # \r\n;Chủ ngữ + am | is | are;\/B-BG plus ;not;\/B-R plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:09:07",
+      "updated_at": "2020-02-28 09:24:15"
+    },
+    {
+      "id": 200,
+      "lesson_id": 97,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cùng động từ ;*be*;\/G cho câu nghi vấn: # \r\n;Am | Is | Are;\/B-G plus ;chủ ngữ;\/B-B plus ;...;\/B-W ?",
+      "created_at": "2017-07-11 05:09:11",
+      "updated_at": "2020-02-28 09:26:42"
+    },
+    {
+      "id": 201,
+      "lesson_id": 98,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Vị trí của trạng từ trong câu: # \r\n;Chủ ngữ;\/B-B plus ;trạng từ;\/B-P plus ;động từ;\/B-G plus ;...;\/B-W # \r\n;*always*;\/P — luôn luôn # \r\n;*never*;\/P — thỉnh thoảng",
+      "created_at": "2017-07-11 05:09:11",
+      "updated_at": "2019-12-08 08:09:29"
+    },
+    {
+      "id": 204,
+      "lesson_id": 99,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Where* — ở đâu, đi đâu # \r\n*When* — khi nào # \r\n*How* — thế nào # \r\n*Why* — tại sao",
+      "created_at": "2017-07-11 05:09:14",
+      "updated_at": "2019-11-06 10:00:17"
+    },
+    {
+      "id": 207,
+      "lesson_id": 100,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Câu trả lời ngắn *có*: # \r\n;Yes;\/B-W plus ;chủ ngữ;\/B-B plus ;trợ động từ;\/B-Y",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2019-12-08 08:57:25"
+    },
+    {
+      "id": 210,
+      "lesson_id": 101,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Thêm ; *-ed*;\/G sau động từ trong câu khẳng định ở thì quá khứ: # \r\n;Chủ ngữ;\/B-B plus ;động từ+ed;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2020-02-28 09:35:05"
+    },
+    {
+      "id": 211,
+      "lesson_id": 102,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cho câu nghi vấn trong thì quá khứ: # \r\n;Did;\/B-Y plus ;chủ ngữ;\/B-B plus ;động từ;\/B-G plus ;...;\/B-W ?",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2020-02-28 09:35:51"
+    },
+    {
+      "id": 213,
+      "lesson_id": 103,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Các dạng của động từ ;*be*;\/G trong thời quá khứ: # \r\n;*Was*;\/G — chủ ngữ ở dạng số ít ;*I, he, she, it*;\/B# \r\n;*Were*;\/G — chủ ngữ ở dạng số nhiều ;*we, they, you*;\/B",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2020-02-28 09:39:04"
+    },
+    {
+      "id": 214,
+      "lesson_id": 104,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cho câu nghi vấn cùng với động từ ;*be*;\/G trong thì quá khứ: # \r\n;Was | Were;\/B-G plus ;chủ ngữ;\/B-B plus ;...;\/B-W ?",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2020-02-28 09:40:15"
+    },
+    {
+      "id": 216,
+      "lesson_id": 105,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": ";*yesterday*;\/P — *hôm qua*# \r\n;*last week*;\/P — *tuần trước*# \r\nnhững trạng từ này được đặt ở đầu hoặc cuối câu",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-11-12 06:06:01"
+    },
+    {
+      "id": 218,
+      "lesson_id": 106,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cho câu khẳng định trong thì tương lai: # \r\n;Chủ ngữ;\/B-B plus ;will;\/B-O plus ;động từ;\/B-G plus ;...;\/B-W # \r\n;*Will*;\/O khi cùng đại từ nhân xưng được viết tắt ;*'ll*;\/O",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2021-12-17 09:47:25"
+    },
+    {
+      "id": 219,
+      "lesson_id": 107,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cho câu nghi vấn trong thì tương lai: # \r\n;Will;\/B-O plus ;chủ ngữ;\/B-B plus ;động từ;\/B-G plus ;...;\/B-W ?",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-12-09 16:09:47"
+    },
+    {
+      "id": 221,
+      "lesson_id": 108,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Đại từ nhân xưng khi là tân ngữ: # \r\n*Me* — tôi;  *You* — bạn\r\n*Us* — chúng tôi; *Them* — họ",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-11-13 09:47:57"
+    },
+    {
+      "id": 223,
+      "lesson_id": 109,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sử dụng cấu trúc sau cho câu nghi vấn cùng động từ ;*be*;\/G trong thì hiện tại: # \r\n;Từ để hỏi;\/B-W plus ;am | is | are;\/B-G plus ;chủ ngữ;\/B-B plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2020-02-28 09:44:29"
+    },
+    {
+      "id": 226,
+      "lesson_id": 110,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*graduate from* — tốt nghiệp# \r\n*move* — chuyển, di chuyển",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-12-09 12:03:06"
+    },
+    {
+      "id": 228,
+      "lesson_id": 111,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*see* — nhìn thấy (thì quá khứ: *saw*) # \r\n*hear* — nghe (thì quá khứ: *heard*)",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-12-09 12:14:58"
+    },
+    {
+      "id": 230,
+      "lesson_id": 112,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*choose* — chọn (thì quá khứ: *chose*) # \r\n*buy* — mua (thì quá khứ: *bought*)",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-11-14 08:58:53"
+    },
+    {
+      "id": 232,
+      "lesson_id": 113,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*think* — nghĩ (thì quá khứ: *thought*) # \r\n*understand* — hiểu (thì quá khứ: *understood*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-11-14 16:37:55"
+    },
+    {
+      "id": 234,
+      "lesson_id": 114,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*put* — đặt, để (thì quá khứ: *put*) # \r\n*throw* — ném (thì quá khứ: *threw*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-12-05 11:04:20"
+    },
+    {
+      "id": 236,
+      "lesson_id": 115,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*wake up* — thức dậy (thì quá khứ: *woke up*) # \r\n*get* — nhận được, đạt được (thì quá khứ: *got*) # \r\n*have* — có (thì quá khứ: *had*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2020-03-10 08:38:07"
+    },
+    {
+      "id": 238,
+      "lesson_id": 116,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*take* — cầm, nắm, lấy đi (thì quá khứ: *took*) # \r\n*bring* — mang, làm cho (thì quá khứ: *brought*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-11-15 09:32:46"
+    },
+    {
+      "id": 240,
+      "lesson_id": 117,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*eat* — ăn (thì quá khứ: *ate*) # \r\n*drink* — uống (thì quá khứ: *drank*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-12-09 14:10:52"
+    },
+    {
+      "id": 242,
+      "lesson_id": 118,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Tính từ sở hữu: # \r\n*My* — của tôi, *Your* — của bạn # \r\n*Our* — của chúng tôi, *Their* — của họ",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-11-18 13:25:48"
+    },
+    {
+      "id": 245,
+      "lesson_id": 119,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Hi* —  Chào # \r\n*Bye* — Tạm biệt # \r\n*Hello* — Xin chào # \r\n*Goodbye* — Tạm biệt",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2020-01-19 12:12:24"
+    },
+    {
+      "id": 248,
+      "lesson_id": 120,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Monday* — Thứ hai # \r\n*Tuesday* — Thứ ba # \r\n*Wednesday* — Thứ tư # \r\n*Thursday* — Thứ năm",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2019-11-19 03:57:00"
+    },
+    {
+      "id": 250,
+      "lesson_id": 121,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Các số: # \r\n*one* — một,  *two* — hai, # \r\n*three* — ba,  *four* —bốn, # \r\n*five* — năm",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2019-11-19 05:55:51"
+    },
+    {
+      "id": 252,
+      "lesson_id": 122,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Số thứ tự: # \r\n*first* — thứ nhất,  *second* — thứ hai, #  \r\n*third* — thứ ba,  *fifth* — thứ tư # \r\nNhững số thứ tự khác chỉ cần thêm [*-th*] sau các số đếm",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2020-02-28 09:51:54"
+    },
+    {
+      "id": 253,
+      "lesson_id": 123,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*January* — Tháng riêng, tháng một #    \r\n*February* — Tháng hai #  \r\n*March* — Tháng ba # \r\n*April* — Tháng tư",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2019-11-19 07:44:01"
+    },
+    {
+      "id": 256,
+      "lesson_id": 124,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*At* — thời gian trong ngày # \r\n*On* — ngày trong tuần hoặc ngày tháng # \r\n*In* — tháng, mùa, năm và lớn hơn",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2020-01-19 12:30:11"
+    },
+    {
+      "id": 257,
+      "lesson_id": 125,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Giới từ *at*, *on* và *in* không đứng trước: # \r\n;last;\/B-W — trước, qua ;next;\/B-W — sau # \r\n;this;\/B-W — này ;every;\/B-W — mỗi",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2020-02-28 09:58:33"
+    },
+    {
+      "id": 258,
+      "lesson_id": 126,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*at the weekend* — vào cuối tuần # \r\n*at night* — vào ban đêm # \r\n*at lunchtime* — vào giờ ăn trưa",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2019-12-09 15:16:47"
+    },
+    {
+      "id": 261,
+      "lesson_id": 127,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Câu mệnh lệnh: # \r\n;Động từ;\/B-G plus ;...;\/B-W # \r\n;Don't;\/B-YR plus ;động từ;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2019-11-22 10:08:47"
+    },
+    {
+      "id": 263,
+      "lesson_id": 128,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Lời đề nghị làm điều gì đó: # \r\n*Let's* — Nào... # \r\n*Why don't we* — Tại sao chúng ta không...",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2019-12-10 12:56:18"
+    },
+    {
+      "id": 264,
+      "lesson_id": 129,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Giới từ chỉ vị trí: # \r\n*in* — trong # \r\n*on* — trên # \r\n*at* — ở | ở tại",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2020-01-19 12:47:47"
+    },
+    {
+      "id": 266,
+      "lesson_id": 130,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*here* — ở đây | đến đây # \r\n*there* — ở kia, ở đó | đến kia, đến đấy",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2020-02-28 09:59:57"
+    },
+    {
+      "id": 268,
+      "lesson_id": 131,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": ";*Can*;\/O — *có thể*.# \r\nCâu khẳng định sử dụng ;*can*;\/O có cấu trúc: # \r\n;Chủ ngữ;\/B-B plus ;can;\/B-O plus ;động từ;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:33:23",
+      "updated_at": "2020-02-28 10:02:07"
+    },
+    {
+      "id": 271,
+      "lesson_id": 132,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*some* — một ít (dùng cho câu khẳng định)# \r\n*any* — một vài, một ít (dùng cho câu nghi vấn)# \r\n*not ... any* — hoàn toàn không, không có tí nào (dùng cho câu phủ định)",
+      "created_at": "2017-07-26 03:40:45",
+      "updated_at": "2022-08-03 11:47:45"
+    },
+    {
+      "id": 273,
+      "lesson_id": 133,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Các từ có ý nghĩa là: *nhiều*:# \r\n*many* — đối với danh từ đếm được# \r\n*much* — đối với danh từ  không đếm được# \r\n*a lot of* — đối với cả hai trường hợp",
+      "created_at": "2017-07-26 03:40:45",
+      "updated_at": "2022-08-03 12:34:00"
+    },
+    {
+      "id": 275,
+      "lesson_id": 134,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Các từ có ý nghĩa là *ít*:# \r\n*few* — đối với đối tượng đếm được# \r\n*little* — đối với đối tượng không đếm được",
+      "created_at": "2017-07-26 03:40:45",
+      "updated_at": "2022-07-25 15:55:18"
+    },
+    {
+      "id": 278,
+      "lesson_id": 135,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Mạo từ cho biết danh từ nhắc đến một đối tượng xác định hay không xác định:# \r\n*the* — nhắc đến đối tượng xác định# \r\n*a (an)* — nhắc đến đối tượng không xác định",
+      "created_at": "2017-07-26 03:40:46",
+      "updated_at": "2022-07-25 13:32:54"
+    },
+    {
+      "id": 281,
+      "lesson_id": 136,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu như trước đối tượng đã có đại từ thì *mạo từ không được sử dụng nữa*. Ví dụ, this - này, that - kia, my - của tôi, her - của cô ấy v.v",
+      "created_at": "2017-07-26 03:40:46",
+      "updated_at": "2020-02-28 10:23:11"
+    },
+    {
+      "id": 284,
+      "lesson_id": 137,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu như hành động đang diễn ra ngay bây giờ và vẫn còn chưa kết thúc:# \r\n;Chủ ngữ;\/B-B plus ;am | is | are;\/B-G plus ;động từ + ing;\/B-W",
+      "created_at": "2017-07-26 03:40:46",
+      "updated_at": "2019-12-07 13:22:02"
+    },
+    {
+      "id": 285,
+      "lesson_id": 138,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Câu nghi vấn — hành động *xảy ra hay chăng* ở thời hiện tại:# \r\n;Am | Is | Are;\/B-G plus ;chủ ngữ;\/B-B plus ;động từ + ing;\/B-W ?",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-12-12 07:53:51"
+    },
+    {
+      "id": 287,
+      "lesson_id": 139,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*understand* – hiểu# \r\n*believe* – tin tưởng# \r\nThường không được dùng trong thì tiếp diễn",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-11-29 08:12:03"
+    },
+    {
+      "id": 290,
+      "lesson_id": 140,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Hành động đã xảy ra trong quá khứ và tới thời điểm đấy vẫn *chưa hoàn thành*:# \r\n;Chủ ngữ;\/B-B plus ;was | were;\/B-G plus ;động từ + ing;\/B-W",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-12-12 08:53:33"
+    },
+    {
+      "id": 293,
+      "lesson_id": 141,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Hành động sẽ xảy ra tại thời điểm xác định nhưng vẫn chưa kết thúc:# \r\n;Chủ ngữ;\/B-B plus ;will;\/B-O plus ;be;\/B-G plus ;động từ + ing;\/B-W",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-12-12 09:28:38"
+    },
+    {
+      "id": 296,
+      "lesson_id": 142,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu như không thể xác định được ai là người thực hiện hành động, thì ta sử dụng cấu trúc *it* + *be*:# \r\n;It;\/B-B plus ;is | was;\/B-G plus ;...;\/B-W# \r\n;It;\/B-B plus ;will;\/B-O plus ;be;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2020-02-28 10:26:51"
+    },
+    {
+      "id": 300,
+      "lesson_id": 143,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu quan trọng không phải là đối tượng nằm ở đâu, mà là *cái gì nằm* ở một vị trí cụ thể:# \r\n;There;\/B-W plus ;is | was;\/B-G plus ;chủ ngữ;\/B-B plus ;vị trí;\/B-W",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2020-01-19 13:47:07"
+    },
+    {
+      "id": 304,
+      "lesson_id": 144,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Trong thành phần của vị ngữ, một trong số các động từ có thể đứng cùng trợ từ *to*:# \r\n;Động từ chính;\/B-G plus ;to + động từ;\/B-W# \r\n*to + động từ* — nguyên thể(dạng đầu tiên)",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2020-02-28 10:29:57"
+    },
+    {
+      "id": 307,
+      "lesson_id": 145,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu như đối tượng đứng giữa động từ và động từ nguyên thể thì nó sẽ bắt đầu thực hiện hành động của động từ nguyên thể.# \r\n;Động từ;\/B-G plus ;đối tượng;\/B-W plus ;to + động từ;\/B-W#",
+      "created_at": "2017-07-26 03:40:49",
+      "updated_at": "2020-03-08 14:40:23"
+    },
+    {
+      "id": 308,
+      "lesson_id": 146,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Một số động từ trong thành phần của vị từ có đuôi *-ing*:# \r\n;Động từ chính;\/B-G plus ;động từ + ing;\/B-W# \r\n*động từ + ing* — danh động từ",
+      "created_at": "2017-07-26 03:40:49",
+      "updated_at": "2019-12-16 16:26:06"
+    },
+    {
+      "id": 311,
+      "lesson_id": 147,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*black* — màu đen# \r\n*white* — màu trắng# \r\n*red* — màu đỏ# \r\n*green* — màu xanh lá cây",
+      "created_at": "2017-07-26 03:40:49",
+      "updated_at": "2019-12-03 08:53:51"
+    },
+    {
+      "id": 313,
+      "lesson_id": 148,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Be going to* — có ý định làm điều gì đó:# \r\n;Chủ ngữ;\/B-B plus ;am | is | are;\/B-G plus ;going to;\/B-W plus ;hành động;\/B-W",
+      "created_at": "2017-07-26 03:40:50",
+      "updated_at": "2019-12-29 10:29:50"
+    },
+    {
+      "id": 316,
+      "lesson_id": 149,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Hành động này đã nằm trong kế hoạch:# \r\n;Chủ ngữ;\/B-B plus ;was | were;\/B-G plus ;going to;\/B-W plus ;hành động;\/B-W",
+      "created_at": "2017-07-26 03:40:50",
+      "updated_at": "2019-12-17 13:44:22"
+    },
+    {
+      "id": 319,
+      "lesson_id": 150,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu tin tưởng 100% vào kế hoạch của mình thì có thể miêu tả chúng ở thì *hiện tại* tiếp diễn",
+      "created_at": "2017-07-26 03:40:50",
+      "updated_at": "2020-02-28 10:31:48"
+    },
+    {
+      "id": 320,
+      "lesson_id": 151,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Đại từ phản thân được dịch là *tự*, *chính mình*:# \r\n*I* — myself, *you* — yourself# \r\n*you* (số nhiều) — yourselves",
+      "created_at": "2017-07-26 03:40:51",
+      "updated_at": "2020-02-28 13:59:36"
+    },
+    {
+      "id": 323,
+      "lesson_id": 152,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*from...  to | till*  —  từ và đến# \r\n*before* — đến, trước# \r\n*after* — sau",
+      "created_at": "2017-07-26 03:40:51",
+      "updated_at": "2019-12-06 09:53:03"
+    },
+    {
+      "id": 326,
+      "lesson_id": 153,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*in front of* — trước, đối diện# \r\n*behind* — đằng sau, sau# \r\n*next to* — bên cạnh, kế bên",
+      "created_at": "2017-07-26 03:40:51",
+      "updated_at": "2019-12-08 14:31:13"
+    },
+    {
+      "id": 328,
+      "lesson_id": 154,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*around* — vòng quanh, xung quanh# \r\n*across* — qua, ngang qua# \r\n*along* — dọc theo",
+      "created_at": "2017-07-26 03:40:52",
+      "updated_at": "2019-12-09 05:37:11"
+    },
+    {
+      "id": 330,
+      "lesson_id": 155,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*eleven* — mười một# \r\n*twelve* — mười hai# \r\n*thirteen* — mười ba# \r\n*fifteen* — mười lăm",
+      "created_at": "2017-07-26 03:40:52",
+      "updated_at": "2019-12-09 06:36:47"
+    },
+    {
+      "id": 332,
+      "lesson_id": 156,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*wait for* — chờ# \r\n*listen to* — nghe# \r\n*look at* — xem vào",
+      "created_at": "2017-08-15 09:20:43",
+      "updated_at": "2019-12-10 04:31:31"
+    },
+    {
+      "id": 334,
+      "lesson_id": 157,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Sự kiện xác định sẽ xảy ra trong tương lai với một điều kiện nào đó:# \r\n;If;\/B-W plus ;điều kiện ở thì hiện tại;\/B-W plus ;sự kiện ở tương lai;\/B-W",
+      "created_at": "2017-08-15 10:07:53",
+      "updated_at": "2022-07-25 15:57:18"
+    },
+    {
+      "id": 335,
+      "lesson_id": 158,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Cụm động từ gồm động từ đi kèm giới từ, giới từ có chức năng làm thay đổi ý nghĩa của động từ:# \r\n;look;\/G *for* — tìm kiếm# \r\n;look;\/G *after* — quan tâm",
+      "created_at": "2017-08-15 10:07:54",
+      "updated_at": "2022-08-03 13:22:11"
+    },
+    {
+      "id": 337,
+      "lesson_id": 159,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": ";get;\/G *up* — đứng dậy, thức dậy# \r\n;get;\/G *along* — hòa thuận# \r\n;get;\/G *away with* — thoát khỏi, đi khỏi",
+      "created_at": "2017-08-15 10:07:54",
+      "updated_at": "2020-01-10 17:57:45"
+    },
+    {
+      "id": 339,
+      "lesson_id": 160,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Để diễn tả về một hành động đã hoàn thành cho đến thời điểm hiện tại (không quan trọng khi nào):# \r\n;Chủ ngữ;\/B-B plus ;have | has;\/B-O plus ;động từ(-ed);\/B-G",
+      "created_at": "2017-08-15 10:07:54",
+      "updated_at": "2022-07-30 15:59:31"
+    },
+    {
+      "id": 342,
+      "lesson_id": 161,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Thì quá khứ đơn* cho biết thời điểm mà hành động đã xảy ra trong quá khứ.# \r\n*Thì hoàn thành tiếp diễn* cho biết hành động đã được thực hiện hay chăng nhưng nói chung chung",
+      "created_at": "2017-08-15 10:07:55",
+      "updated_at": "2022-07-30 16:05:07"
+    },
+    {
+      "id": 344,
+      "lesson_id": 162,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": ";already;\/P — đã (đứng trước động từ)# \r\n;yet;\/P — còn, vẫn còn (đứng cuối câu)",
+      "created_at": "2017-08-15 10:07:55",
+      "updated_at": "2019-12-11 11:49:42"
+    },
+    {
+      "id": 347,
+      "lesson_id": 163,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Động từ bất quy tắc ở thì hiện tại có dạng phân từ 3:# \r\n*be* — ;been;\/G, *do* — ;done;\/G# \r\n*have* — ;had;\/G, *go* — ;gone;\/G",
+      "created_at": "2017-08-15 10:07:55",
+      "updated_at": "2019-12-19 07:15:30"
+    },
+    {
+      "id": 349,
+      "lesson_id": 164,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Dạng hoàn thành của một số động từ bất quy tắc:# \r\n*meet* — ;met;\/G# \r\n*leave* — ;left;\/G# \r\n*come* — ;come;\/G",
+      "created_at": "2017-08-15 10:07:56",
+      "updated_at": "2022-07-30 17:05:56"
+    },
+    {
+      "id": 351,
+      "lesson_id": 165,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Dạng quá khứ phân từ 3 (dạng hoàn thành) của một số động từ bất quy tắc:# \r\n*read* — ;read;\/G (được đọc là *red*)# \r\n*write* — ;written;\/G# \r\n*know* — ;known;\/G",
+      "created_at": "2017-08-15 10:07:56",
+      "updated_at": "2022-07-30 17:17:45"
+    },
+    {
+      "id": 353,
+      "lesson_id": 166,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Dạng quá khứ phân từ 3 (dạng hoàn hành) của một số động từ bất quy tắc:# \r\n*lose* — ;lost;\/G, *find* — ;found;\/G# \r\n*take* — ;taken;\/G, *give* — ;given;\/G",
+      "created_at": "2017-08-15 10:07:56",
+      "updated_at": "2022-07-30 17:25:56"
+    },
+    {
+      "id": 355,
+      "lesson_id": 167,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu hành động kéo dài đã được một khoảng thời gian và hiện tại vẫn tiếp tục:# \r\n;Chủ ngữ;\/B-B plus ;have | has;\/B-O plus ;been;\/B-Y plus ;động từ(-ing);\/B-G",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2020-02-28 14:24:08"
+    },
+    {
+      "id": 358,
+      "lesson_id": 168,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu muốn nhấn mạnh hành động sẽ được hoàn thành vào thời điểm xác định:# \r\n;Chủ ngữ;\/B-B plus ;will;\/B-O plus ;have;\/B-O plus ;động từ ở dạng hoàn thành;\/B-G",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2019-12-19 11:13:23"
+    },
+    {
+      "id": 361,
+      "lesson_id": 169,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Hành động đã xảy ra sớm hơn một sự kiện khác hoặc là trước một thời điểm trong quá khứ:# \r\n;Chủ ngữ;\/B-B plus ;had;\/B-O plus ;động từ ở dạng hoàn thành;\/B-G",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2020-02-28 14:36:03"
+    },
+    {
+      "id": 364,
+      "lesson_id": 170,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Tôi có thể sẽ, tôi sẽ biết làm:# \r\n;Chủ ngữ;\/B-B plus ;will;\/B-O plus ;be;\/B-G plus ;able to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-08-15 10:07:58",
+      "updated_at": "2020-03-02 11:13:16"
+    },
+    {
+      "id": 367,
+      "lesson_id": 171,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Hãy sử dụng ;could;\/O thay cho *can*, khi cần kể về khả năng hoặc cơ hội trong thì quá khứ",
+      "created_at": "2017-08-15 10:07:58",
+      "updated_at": "2020-03-02 11:19:23"
+    },
+    {
+      "id": 368,
+      "lesson_id": 172,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Tôi đã có thể, tôi đã thành công:# \r\n;Chủ ngữ;\/B-B plus ;was | were;\/B-G plus ;able to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-08-15 10:07:58",
+      "updated_at": "2020-03-02 11:22:04"
+    },
+    {
+      "id": 371,
+      "lesson_id": 173,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Should* — cần phải, nên.# \r\nCâu khẳng định:# \r\n;Chủ ngữ;\/B-B plus ;should;\/B-O plus ;động từ;\/B-G",
+      "created_at": "2017-08-15 10:07:59",
+      "updated_at": "2020-03-02 11:25:40"
+    },
+    {
+      "id": 374,
+      "lesson_id": 174,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Have to* — có trách nhiệm, phải# \r\nCâu khẳng định:# \r\n;Chủ ngữ;\/B-B plus ;have | has;\/B-G plus ;to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-08-15 10:07:59",
+      "updated_at": "2020-03-02 11:27:53"
+    },
+    {
+      "id": 377,
+      "lesson_id": 175,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Must* - phải làm# \r\n;Chủ ngữ;\/B-B plus ;must;\/B-O plus ;động từ;\/B-G",
+      "created_at": "2017-08-15 10:07:59",
+      "updated_at": "2020-03-02 11:29:19"
+    },
+    {
+      "id": 379,
+      "lesson_id": 176,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*Trạng từ chỉ mức độ*:# \r\n;barely;\/P - hầu như không, vừa mới, ;almost;\/P - gần như# \r\n;pretty;\/P - khá, vừa phải, ;extremely;\/P - vô cùng, cực độ# \r\n;really;\/P - thực sự",
+      "created_at": "2017-08-15 10:08:00",
+      "updated_at": "2020-03-02 11:39:51"
+    },
+    {
+      "id": 383,
+      "lesson_id": 177,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Trạng từ chỉ cách thức được hình thành như sau: ;tính từ(+ly);\/P.# \r\n;quickly;\/P - nhanh, ;slowly;\/P - chậm# \r\n;loudly;\/P - to, to tiếng, ;quietly;\/P - lặng lẽ, êm đềm, nhỏ",
+      "created_at": "2017-08-15 10:08:00",
+      "updated_at": "2020-03-02 11:54:30"
+    },
+    {
+      "id": 387,
+      "lesson_id": 178,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Câu hỏi *Bao nhiêu*:# \r\n*How many* — đối với đối tượng đếm được# \r\n*How much* — đối với đối tượng không đếm được (ý nghĩa bổ sung *giá bao nhiêu*)",
+      "created_at": "2017-08-15 10:08:01",
+      "updated_at": "2019-12-27 14:21:51"
+    },
+    {
+      "id": 389,
+      "lesson_id": 179,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Các mức độ so sánh của tính từ *ngắn*:# \r\nfast — nhanh, fast;er;\/R — nhanh hơn# \r\n;the;\/R fast;est;\/R — nhanh nhất",
+      "created_at": "2017-08-15 10:08:01",
+      "updated_at": "2020-03-04 08:37:55"
+    },
+    {
+      "id": 392,
+      "lesson_id": 180,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Những tính từ sau có dạng so sánh đặc biệt:# \r\n*good* — better — the best# \r\n*bad* — worse — the worst",
+      "created_at": "2017-08-15 10:08:02",
+      "updated_at": "2019-12-19 07:42:56"
+    },
+    {
+      "id": 394,
+      "lesson_id": 181,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Thức giả định được hình thành bởi *would* — giá mà# \r\n;Chủ ngữ;\/B-B plus ;would;\/B-O plus ;động từ;\/B-G# \r\nwould được viết tắt là *'d* khi đứng cạnh đại từ nhân xưng",
+      "created_at": "2017-08-15 10:08:02",
+      "updated_at": "2020-03-02 12:22:41"
+    },
+    {
+      "id": 397,
+      "lesson_id": 182,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Dưới một điều kiện nào đó trái thực tế, sự kiện cụ thể sẽ xảy ra ngay bây giờ :# \r\n;If;\/B-W plus ;điều kiện ở thì quá khứ;\/B-W plus ;sự kiện cùng would;\/B-W",
+      "created_at": "2017-08-15 10:08:02",
+      "updated_at": "2020-03-02 12:24:21"
+    },
+    {
+      "id": 399,
+      "lesson_id": 183,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu như sự việc hoàn toàn có thể thì sử dụng *may*, *might* hoặc *could*:# \r\n;Chủ ngữ;\/B-B plus ;may | might | could;\/B-O plus ;động từ;\/B-G",
+      "created_at": "2017-08-15 10:08:03",
+      "updated_at": "2020-03-02 12:33:07"
+    },
+    {
+      "id": 401,
+      "lesson_id": 184,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*twenty* — hai mươi, *thirty* — ba mươi# \r\n*forty* — bốn mươi, *fifty* — năm mươi# \r\n*sixty* — sáu mươi",
+      "created_at": "2017-08-15 10:08:03",
+      "updated_at": "2019-12-20 09:18:11"
+    },
+    {
+      "id": 404,
+      "lesson_id": 185,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu như đối tượng *tự* thực hiện hành động:# \r\n;Tính từ;\/B-W = ;động từ;\/B-G plus ;ing;\/B-W# \r\nVí dụ: âm thanh nào đó ;làm bạn khó chịu,;\/G# \r\nâm thanh này — khó chịu (;annoy;\/Ging)",
+      "created_at": "2017-10-02 08:20:44",
+      "updated_at": "2022-08-03 13:53:32"
+    },
+    {
+      "id": 406,
+      "lesson_id": 186,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Chủ ngữ bị chịu tác động bởi hành động:# \r\n;Chủ ngữ;\/B-B plus ;\"tobe\" ở dạng cần thiết;\/B-G plus ;động từ+ed (V3);\/B-W plus ;...;\/B-W",
+      "created_at": "2017-10-02 08:20:44",
+      "updated_at": "2022-08-03 13:58:17"
+    },
+    {
+      "id": 409,
+      "lesson_id": 187,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu chủ ngữ tự mình trải qua một hành động nào đó *ngay bây giờ*:# \r\n;Chủ ngữ;\/B-B plus ;am | is | are;\/B-G plus ;being;\/B-W plus ;động từ + ed (V3);\/B-W",
+      "created_at": "2017-10-02 08:20:45",
+      "updated_at": "2020-01-19 03:46:32"
+    },
+    {
+      "id": 413,
+      "lesson_id": 188,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Nếu chủ ngữ đã tự mình trải qua một hành động nào đó *đến thời điểm hiện tại*:# \r\n;Chủ ngữ;\/B-B plus ;have | has;\/B-O plus ;been;\/B-G plus ;động từ + ed (V3);\/B-W",
+      "created_at": "2017-10-02 08:20:45",
+      "updated_at": "2020-01-19 03:55:08"
+    },
+    {
+      "id": 417,
+      "lesson_id": 189,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Câu phủ định cùng phụ từ  ;not;\/R tương đương câu khẳng định sử dụng từ phủ định:# \r\n*no* — không một chút nào, chẳng chút nào# \r\n*never* — không bao giờ",
+      "created_at": "2017-10-02 08:20:46",
+      "updated_at": "2020-03-02 12:53:04"
+    },
+    {
+      "id": 420,
+      "lesson_id": 190,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Làm thế nào để nói về những thói quen và phong tục, nhưng chúng đã không còn có trong hiện tại:# \r\n;Chủ ngữ;\/B-B plus ;used to;\/B-G plus ;động từ;\/B-W",
+      "created_at": "2017-10-02 08:20:46",
+      "updated_at": "2022-09-13 15:41:59"
+    },
+    {
+      "id": 422,
+      "lesson_id": 191,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Các câu được liên kết với nhau bởi:# \r\n*and* — và# \r\n*but* — nhưng# \r\n*or* — hoặc",
+      "created_at": "2017-10-02 08:20:46",
+      "updated_at": "2019-12-23 07:07:06"
+    },
+    {
+      "id": 424,
+      "lesson_id": 192,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Các câu có thể được liên kết với nhau bởi *các từ để hỏi*, chúng đóng vai trò như các liên từ",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2022-09-13 15:57:04"
+    },
+    {
+      "id": 427,
+      "lesson_id": 193,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Liên từ cho cấu trúc chỉ thời gian:# \r\n*as soon as* — ngay sau khi# \r\n*whenever* — bất cứ lúc nào",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2022-09-13 16:06:48"
+    },
+    {
+      "id": 430,
+      "lesson_id": 194,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Trong câu tường thuật thời gian được dịch chuyển về thì quá khứ:# \r\n;Hiện tại đơn;\/B-W → ;Quá khứ đơn;\/B-W# \r\n;Hiện tại tiếp diễn;\/B-W → ;Quá khứ tiếp diễn;\/B-W",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2020-01-19 04:19:21"
+    },
+    {
+      "id": 434,
+      "lesson_id": 195,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Các dạng động từ tình thái khi tường thuật:# \r\n*will* → would, *can* → could# \r\n*may* → might, *have to* → had to# \r\n*must* → must, had to",
+      "created_at": "2017-10-02 08:20:48",
+      "updated_at": "2020-03-02 13:13:25"
+    },
+    {
+      "id": 436,
+      "lesson_id": 196,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Khi tường thuật câu nghi vấn, sử dụng *thứ tự khẳng định của từ* và khi cần thiết *thực hiện dịch chuyển* về thì quá khứ",
+      "created_at": "2017-10-02 08:20:48",
+      "updated_at": "2019-12-22 15:31:27"
+    },
+    {
+      "id": 438,
+      "lesson_id": 197,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Kể lại yêu cầu làm điều gì đó:# \r\n;Ai;\/B-B plus ;asked;\/B-G plus ;ai;\/B-W plus ;to ...;\/B-W# \r\nKể lại yêu cầu không làm điều gì đó:# \r\n;Ai;\/B-B plus ;asked;\/B-G plus ;ai;\/B-W plus ;not;\/B-R plus ;to ...;\/B-W",
+      "created_at": "2017-10-02 08:20:49",
+      "updated_at": "2019-12-25 07:18:35"
+    },
+    {
+      "id": 440,
+      "lesson_id": 198,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Hành động cụ thể đã có thể xảy ra *đến trước thời điểm hiện tại* dưới một điều kiện nào đó:# \r\n;If;\/B-W plus ;điều kiện ở thì quá khứ.;\/B-W plus ;sự kiện ở thì hiện tại hoàn thành cùng would;\/B-W",
+      "created_at": "2017-10-02 08:20:49",
+      "updated_at": "2019-12-23 13:41:23"
+    },
+    {
+      "id": 441,
+      "lesson_id": 199,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Cách nói về những hành động *có thể được thực hiện* sớm hơn:# \r\n;Chủ ngữ;\/B-B plus ;could | might | may;\/B-O plus ;have;\/B-Y plus ;động từ+ed (V3.);\/B-W",
+      "created_at": "2017-10-02 08:20:50",
+      "updated_at": "2019-12-24 08:10:06"
+    },
+    {
+      "id": 444,
+      "lesson_id": 200,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "Cách nói \"đã phải, đã cần\" *trong quá khứ*:# \r\n;Chủ ngữ;\/B-B plus ;had;\/B-G plus ;to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-10-02 08:20:50",
+      "updated_at": "2020-01-19 05:17:44"
+    },
+    {
+      "id": 446,
+      "lesson_id": 201,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*wanna* — want to# \r\n*gonna* — going to# \r\n*gotta* — have got to (have to)",
+      "created_at": "2017-10-02 08:20:50",
+      "updated_at": "2019-12-22 14:58:56"
+    },
+    {
+      "id": 447,
+      "lesson_id": 202,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": "*come over* — đến# \r\n*drop by* — ghé thăm# \r\n*ask somebody out* — rủ ai đó đi chơi",
+      "created_at": "2017-10-02 08:20:51",
+      "updated_at": "2019-12-20 14:41:33"
+    },
+    {
+      "id": 449,
+      "lesson_id": 203,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": ";say;\/G — nói cái gì đó.# \r\n;say ... to;\/G — nói cho ai đó.# \r\n;tell;\/G — nói hoặc ra lệnh cho ai đó.",
+      "created_at": "2017-10-05 05:10:53",
+      "updated_at": "2021-12-17 09:47:27"
+    },
+    {
+      "id": 452,
+      "lesson_id": 204,
+      "lesson_position": 1,
+      "number": 1,
+      "rule": ";talk;\/G và ;speak;\/G — nói, nói chuyện.# \r\n;talk;\/G — thân mật hơn.# \r\n;nói cùng với ...;\/B-W = ;talk, speak;\/B-G plus ;to, with;\/B-W",
+      "created_at": "2017-10-05 05:10:53",
+      "updated_at": "2021-12-17 09:47:27"
+    },
+    {
+      "id": 186,
+      "lesson_id": 90,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Thêm ;*-s*;\/G hoặc ;*-es*;\/G sau các động từ nếu chủ ngữ ở dạng ngôi thứ ba số ít (;*he*;\/B - anh ấy, ;*she*;\/B - chị ấy, ;*it*;\/B - nó)",
+      "created_at": "2017-07-11 05:08:49",
+      "updated_at": "2023-01-17 13:33:13"
+    },
+    {
+      "id": 188,
+      "lesson_id": 91,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Các trường hợp ngoại lệ: # \r\n;*man*;\/B — người đàn ông (những người đàn ông ;*men*;\/B) # \r\n;*woman*;\/B — người phụ nữ (những người phụ nữ ;*women*;\/B) # \r\n;*child*;\/B — đứa trẻ (những đứa trẻ ;*children*;\/B)",
+      "created_at": "2017-07-11 05:08:52",
+      "updated_at": "2020-01-13 10:39:48"
+    },
+    {
+      "id": 190,
+      "lesson_id": 92,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Sử dụng ;*Does*;\/Y thay cho ;*Do*;\/Y khi chủ ngữ ở ngôi thứ 3 số ít (;*He*;\/B – chị ấy, cô ấy, bà ấy, ;*She*;\/B – anh ấy, chú ấy, ông ấy, ;*It*;\/B  – nó)",
+      "created_at": "2017-07-11 05:08:56",
+      "updated_at": "2020-01-13 11:45:07"
+    },
+    {
+      "id": 192,
+      "lesson_id": 93,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Sử dụng  ;*doesn't*;\/Y thay cho ;*don't*;\/Y khi chủ ngữ ở ngôi thứ 3 số ít (;*He, She, It*;\/B)",
+      "created_at": "2017-07-11 05:08:59",
+      "updated_at": "2022-07-18 15:15:35"
+    },
+    {
+      "id": 194,
+      "lesson_id": 94,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": ";*Have*;\/G sẽ chuyển thành ;*has*;\/G khi chủ ngữ ở ngôi thứ ba số ít (;*He, She, It*;\/B)",
+      "created_at": "2017-07-11 05:09:03",
+      "updated_at": "2020-02-01 16:01:21"
+    },
+    {
+      "id": 199,
+      "lesson_id": 96,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Cách viết tắt động từ be ở dạng câu phủ định: # ;*am*;\/G + *not* — không viết tắt #;*is*;\/G + *not* = ;*isn't*;\/G #;*are*;\/G + *not* = ;*aren't*;\/G",
+      "created_at": "2017-07-11 05:09:07",
+      "updated_at": "2020-02-28 09:25:26"
+    },
+    {
+      "id": 202,
+      "lesson_id": 98,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Trạng từ trong câu có động từ ;*be*;\/G: # \r\n;Chủ ngữ + am\/is\/are;\/B-BG plus ;trạng từ;\/B-P plus ;...;\/B-W # \r\n;*often*;\/P — thường xuyên # \r\n;*usually*;\/P — thường",
+      "created_at": "2017-07-11 05:09:11",
+      "updated_at": "2020-02-28 09:29:22"
+    },
+    {
+      "id": 205,
+      "lesson_id": 99,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*Who* — ai # \r\n*What* — cái gì, gì # \r\n*Which* — cái nào, người nào",
+      "created_at": "2017-07-11 05:09:14",
+      "updated_at": "2020-02-28 09:31:28"
+    },
+    {
+      "id": 208,
+      "lesson_id": 100,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu trả lời ngắn *không*: # \r\n;No;\/B-W plus ;chủ ngữ;\/B-B plus ;trợ động từ + not;\/B-YR",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2019-12-08 08:57:07"
+    },
+    {
+      "id": 212,
+      "lesson_id": 102,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Sử dụng cấu trúc sau cho câu phủ định trong thì quá khứ: # \r\n;Chủ ngữ;\/B-B plus ;did + not;\/B-YR plus ;động từ;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2019-12-08 13:55:24"
+    },
+    {
+      "id": 215,
+      "lesson_id": 104,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Sử dụng cấu trúc sau cho câu phủ định cùng với động từ ;*be*;\/G trong thì quá khứ: # \r\n;Chủ ngữ;\/B-B plus ;wasn't | weren't;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2020-02-28 09:41:23"
+    },
+    {
+      "id": 217,
+      "lesson_id": 105,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": ";*two days ago*;\/P — *hai ngày trước*# \r\n;*once*;\/P — *một lần*# \r\nnhững trạng từ này được đặt ở đầu hoặc cuối câu",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-11-12 06:15:25"
+    },
+    {
+      "id": 220,
+      "lesson_id": 107,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Sử dụng cấu trúc sau cho câu phủ định trong thì tương lai: # \r\n;Chủ ngữ;\/B-B plus ;will;\/B-O plus ;not;\/B-R plus ;động từ;\/B-G plus ;...;\/B-W # \r\n;*Will*;\/O và ;*not*;\/R được viết tắt ;*won't*;\/O",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-12-09 16:11:14"
+    },
+    {
+      "id": 222,
+      "lesson_id": 108,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Đại từ nhân xưng khi là tân ngữ: # \r\n*Him* — anh ấy # \r\n*Her* — cô ấy # \r\n*It* —nó",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-11-13 09:55:12"
+    },
+    {
+      "id": 224,
+      "lesson_id": 109,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Sử dụng cấu trúc sau cho câu nghi vấn cùng động từ ;*be*;\/G trong thì quá khứ: # \r\n;Từ để hỏi;\/B-W plus ;was | were;\/B-G plus ;chủ ngữ;\/B-B plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2020-02-28 09:47:29"
+    },
+    {
+      "id": 227,
+      "lesson_id": 110,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*travel* — du dịch # \r\n*meet* — gặp gỡ (thì quá khứ: *met*)",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-12-09 12:03:51"
+    },
+    {
+      "id": 229,
+      "lesson_id": 111,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*feel* — cảm thấy (thì quá khứ: *felt*)# \r\n*smell* — ngửi thấy# \r\n*taste* — nếm, có vị",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2021-12-17 09:47:25"
+    },
+    {
+      "id": 231,
+      "lesson_id": 112,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*pay* — thanh toán, trả tiền (thì quá khứ: *paid*) # \r\n*give* — đưa (thì quá kh: *gave*)",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2019-11-14 09:04:59"
+    },
+    {
+      "id": 233,
+      "lesson_id": 113,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*forget* — quên (thì quá khứ: *forgot*) # \r\n*know* — biết (thì quá khứ: *knew*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-11-14 16:44:58"
+    },
+    {
+      "id": 235,
+      "lesson_id": 114,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*fall* — rơi (thì quá khứ: *fell*) # \r\n*stand* — đứng, ở (thì quá khứ: *stood*) # \r\n*go* — đi (thời quá khứ: *went*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-11-15 08:17:43"
+    },
+    {
+      "id": 237,
+      "lesson_id": 115,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*spend* — tiêu, chi tiêu, dành (thì quá khứ: *spent*) # \r\n*make* — làm, tạo ra (thì quá khứ: *made*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-11-15 09:00:04"
+    },
+    {
+      "id": 239,
+      "lesson_id": 116,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*lose* — mất (thì quá khứ: *lost*) # \r\n*find* — tìm thấy, nhận thấy (thì quá khứ: *found*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-11-15 09:37:52"
+    },
+    {
+      "id": 241,
+      "lesson_id": 117,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*sleep* — ngủ (thì quá khứ: *slept*) # \r\n*do* — làm (thì quá khứ: *did*)",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-12-09 14:11:38"
+    },
+    {
+      "id": 243,
+      "lesson_id": 118,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Tính từ sở hữu: # \r\n*His* — của anh ấy # \r\n*Her* — của cô ấy # \r\n*Its* — của nó",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2019-11-18 13:35:15"
+    },
+    {
+      "id": 246,
+      "lesson_id": 119,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*Thank you* — Cảm ơn # \r\n*You're welcome* — Không có gì # \r\n*Sorry* — Xin lỗi",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2019-11-18 14:47:41"
+    },
+    {
+      "id": 249,
+      "lesson_id": 120,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*Friday* — Thứ sáu # \r\n*Saturday* — Thứ bảy # \r\n*Sunday* — Chủ nhật",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2019-11-19 05:26:08"
+    },
+    {
+      "id": 251,
+      "lesson_id": 121,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Các số: # \r\n*six* — sáu,  *seven* — bảy, # \r\n*eight* — tám,  *nine* — chín, #  \r\n*ten* — mười",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2019-11-19 06:01:31"
+    },
+    {
+      "id": 254,
+      "lesson_id": 123,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*May* — Tháng năm # \r\n*June* — Tháng sáu #   \r\n*July* — Tháng bảy # \r\n*August* — Tháng tám",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2019-11-19 07:49:52"
+    },
+    {
+      "id": 259,
+      "lesson_id": 126,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*on the weekend* — vào cuối tuần # \r\n*on Monday morning* — vào sáng thứ hai",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2019-12-09 15:16:00"
+    },
+    {
+      "id": 262,
+      "lesson_id": 127,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Yêu cầu lịch sự: # \r\n;Please;\/B-W plus ;động từ;\/B-G # \r\n;Could you;\/B-W plus ;động từ;\/B-G ?",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2020-02-28 09:59:20"
+    },
+    {
+      "id": 265,
+      "lesson_id": 129,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Giới từ chỉ phương hướng: # \r\n*to* — đến# \r\n*into* — trong# \r\n*out of* — ngoài, ra khỏi, *off* — khỏi, rời",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2019-12-10 13:20:41"
+    },
+    {
+      "id": 267,
+      "lesson_id": 130,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*this* — này # \r\n*that* — kia # \r\n*these* — những cái này # \r\n*those* — những cái kia",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2020-01-19 12:52:13"
+    },
+    {
+      "id": 269,
+      "lesson_id": 131,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu nghi vấn sử dụng ;*can*;\/O có cấu trúc: # \r\n;Can;\/B-O plus ;chủ ngữ;\/B-B plus ;động từ;\/B-G plus ;...;\/B-W ?",
+      "created_at": "2017-07-11 05:33:23",
+      "updated_at": "2020-02-28 10:02:40"
+    },
+    {
+      "id": 272,
+      "lesson_id": 132,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*something* — cái gì đó, điều gì đó # \r\n*somewhere* — ở đâu đó # \r\n*anything* —  bất kỳ cái gì đó, bất kỳ điều gì đó # \r\n*anywhere* — ở bất kỳ đâu, ở bất kỳ nơi nào",
+      "created_at": "2017-07-26 03:40:45",
+      "updated_at": "2022-07-25 11:39:29"
+    },
+    {
+      "id": 274,
+      "lesson_id": 133,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*A lot of* được sử dùng nhiều hơn trong câu khẳng định# \r\n*much* và *many* — được sử dụng nhiều hơn trong câu nghi vấn và câu phủ định",
+      "created_at": "2017-07-26 03:40:45",
+      "updated_at": "2022-08-03 12:46:22"
+    },
+    {
+      "id": 276,
+      "lesson_id": 134,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Số lượng không nhiều của điều gì đó có thể được thể hiện qua câu phủ định# \r\n;not ...;\/B-R plus ;much hoặc many;\/B-W",
+      "created_at": "2017-07-26 03:40:45",
+      "updated_at": "2020-01-19 13:12:49"
+    },
+    {
+      "id": 279,
+      "lesson_id": 135,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*the* sử dụng, nếu đối tượng:# \r\n1. được nhắc đến, kể *lại*# \r\n2. ở dạng *duy nhất*# \r\n3. được *giải thích rõ hơn* (cái mà, người mà)",
+      "created_at": "2017-07-26 03:40:46",
+      "updated_at": "2022-07-25 13:42:12"
+    },
+    {
+      "id": 282,
+      "lesson_id": 136,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*Mạo từ không được đặt trước tên riêng* (trừ tên sông, biển, đại dương — trước chúng, ta dùng the)",
+      "created_at": "2017-07-26 03:40:46",
+      "updated_at": "2019-12-07 12:37:33"
+    },
+    {
+      "id": 286,
+      "lesson_id": 138,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu phủ định nói về hành động không xảy ra ở thời điểm hiện tại:# \r\n;Chủ ngữ;\/B-B plus ;am | is | are;\/B-G plus ;not;\/B-R plus ;động từ + ing;\/B-W",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2022-07-24 09:21:25"
+    },
+    {
+      "id": 288,
+      "lesson_id": 139,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*promise* – hứa# \r\n*remember* – nhớ# \r\nThường không được dùng trong thì tiếp diễn",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-12-12 08:44:18"
+    },
+    {
+      "id": 291,
+      "lesson_id": 140,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Hành động đã xảy ra hay chăng trong thời điểm nào đó ở quá khứ:# \r\n;Was | Were;\/B-G plus ;chủ ngữ;\/B-B plus ;động từ + ing;\/B-W ?",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-12-12 09:06:17"
+    },
+    {
+      "id": 294,
+      "lesson_id": 141,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Sẽ xảy ra hay chăng hành động tại thời điểm xác định:# \r\n;Will;\/B-O plus ;chủ ngữ;\/B-B plus ;be;\/B-G plus ;động từ + ing;\/B-W ?",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2020-01-19 13:41:55"
+    },
+    {
+      "id": 297,
+      "lesson_id": 142,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu nghi vấn khi không rõ đối tượng cụ thể thực hiện hành động có dạng:# \r\n;Is | Was;\/B-G plus ;it;\/B-B plus ;...;\/B-W ?# \r\n;Will;\/B-O plus ;it;\/B-B plus ;be;\/B-G plus ;...;\/B-W ?",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2019-12-12 09:59:56"
+    },
+    {
+      "id": 301,
+      "lesson_id": 143,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu nghi vấn — *có hay chăng* cái gì đó ở vị trí cụ thể:# \r\n;Is | Was;\/B-G plus ;there;\/B-W plus ;chủ ngữ;\/B-B plus ;vị trí;\/B-W ?",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2019-12-29 10:51:20"
+    },
+    {
+      "id": 305,
+      "lesson_id": 144,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Trợ từ *to* có thể được dịch giống như từ *để*",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2020-03-08 08:44:36"
+    },
+    {
+      "id": 309,
+      "lesson_id": 146,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Danh động từ có thể thực hiện vai trò không chỉ của động từ, mà còn của danh từ",
+      "created_at": "2017-07-26 03:40:49",
+      "updated_at": "2020-01-19 13:59:41"
+    },
+    {
+      "id": 312,
+      "lesson_id": 147,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*yellow* — màu vàng# \r\n*blue* — màu xanh da trời# \r\n*purple* — màu tím# \r\n*pink* — màu hồng",
+      "created_at": "2017-07-26 03:40:49",
+      "updated_at": "2019-12-03 09:01:22"
+    },
+    {
+      "id": 314,
+      "lesson_id": 148,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Lập kế hoạch hay chăng sẽ làm một hành động cụ thể:# \r\n;Am | Is | Are;\/B-G plus ;chủ ngữ;\/B-B plus ;going to;\/B-W plus ;hành động;\/B-W ?",
+      "created_at": "2017-07-26 03:40:50",
+      "updated_at": "2019-12-17 11:16:56"
+    },
+    {
+      "id": 317,
+      "lesson_id": 149,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Đã nằm hay chăng trong kế hoạch:# \r\n;Was | Were;\/B-G plus ;chủ ngữ;\/B-B plus ;going to;\/B-W plus ;hành động;\/B-W ?",
+      "created_at": "2017-07-26 03:40:50",
+      "updated_at": "2019-12-17 13:57:03"
+    },
+    {
+      "id": 321,
+      "lesson_id": 151,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*we* — ourselves# \r\n*they* — themselves",
+      "created_at": "2017-07-26 03:40:51",
+      "updated_at": "2019-12-05 05:38:10"
+    },
+    {
+      "id": 324,
+      "lesson_id": 152,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*for* — trong suốt# \r\n*during* — trong lúc, trong thời gian# \r\n*while* — trong lúc, trong khi",
+      "created_at": "2017-07-26 03:40:51",
+      "updated_at": "2019-12-06 11:21:47"
+    },
+    {
+      "id": 327,
+      "lesson_id": 153,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*above* — trên# \r\n*under* — dưới# \r\n*between* — giữa",
+      "created_at": "2017-07-26 03:40:51",
+      "updated_at": "2020-01-19 14:48:59"
+    },
+    {
+      "id": 329,
+      "lesson_id": 154,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*up* — lên phía trên# \r\n*down* — xuống phía dưới# \r\n*through* — xuyên qua# \r\n*over* — ở trên",
+      "created_at": "2017-07-26 03:40:52",
+      "updated_at": "2020-02-28 14:01:02"
+    },
+    {
+      "id": 331,
+      "lesson_id": 155,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Thêm *-th* sau số đếm để được số thứ tự. Trường hợp ngoại lệ twelve - *twelfth* (số thứ mười hai)",
+      "created_at": "2017-07-26 03:40:52",
+      "updated_at": "2020-02-28 14:11:18"
+    },
+    {
+      "id": 333,
+      "lesson_id": 156,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*approve of* — tán thành# \r\n*ask for* — yêu cầu về# \r\n*depend on* — phụ thuộc vào",
+      "created_at": "2017-08-15 09:20:43",
+      "updated_at": "2020-02-11 09:58:03"
+    },
+    {
+      "id": 336,
+      "lesson_id": 158,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": ";turn;\/G *on* — bật# \r\n;turn;\/G *off* — tắt# \r\n;turn;\/G *up* — vặn to# \r\n;turn;\/G *down* — vặn nhỏ",
+      "created_at": "2017-08-15 10:07:54",
+      "updated_at": "2019-12-10 12:10:36"
+    },
+    {
+      "id": 338,
+      "lesson_id": 159,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": ";find;\/G *out* — tìm ra#    \r\n;give;\/G *up* — bỏ cuộc# \r\n;come;\/G *up with* — nãy ra, nghĩ ra",
+      "created_at": "2017-08-15 10:07:54",
+      "updated_at": "2020-03-04 01:34:43"
+    },
+    {
+      "id": 340,
+      "lesson_id": 160,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Hành động đã hoàn thành hay chăng cho đến thời điểm hiện tại:# \r\n;Have | Has;\/B-O plus ;chủ ngữ;\/B-B plus ;động từ(-ed);\/B-G ?",
+      "created_at": "2017-08-15 10:07:54",
+      "updated_at": "2022-07-30 16:06:02"
+    },
+    {
+      "id": 343,
+      "lesson_id": 161,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Khi trả lời câu hỏi, chúng ta sử dụng thì tương ứng với thì trong câu hỏi được sử dụng",
+      "created_at": "2017-08-15 10:07:55",
+      "updated_at": "2019-12-11 11:10:04"
+    },
+    {
+      "id": 345,
+      "lesson_id": 162,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": ";for;\/P — trong suốt# \r\n;since;\/P — từ thời điểm",
+      "created_at": "2017-08-15 10:07:55",
+      "updated_at": "2019-12-12 03:25:49"
+    },
+    {
+      "id": 348,
+      "lesson_id": 163,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*see* — ;seen;\/G# \r\n*hear* — ;heard;\/G# \r\n*feel* — ;felt;\/G",
+      "created_at": "2017-08-15 10:07:55",
+      "updated_at": "2020-01-20 09:46:43"
+    },
+    {
+      "id": 350,
+      "lesson_id": 164,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*sleep* — ;slept;\/G# \r\n*wake* — ;woken;\/G# \r\n*make* — ;made;\/G",
+      "created_at": "2017-08-15 10:07:56",
+      "updated_at": "2019-12-13 03:39:13"
+    },
+    {
+      "id": 352,
+      "lesson_id": 165,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*say* — ;said;\/G# \r\n*tell* — ;told;\/G# \r\n*think* — ;thought;\/G",
+      "created_at": "2017-08-15 10:07:56",
+      "updated_at": "2022-07-30 17:21:54"
+    },
+    {
+      "id": 354,
+      "lesson_id": 166,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*cut* — ;cut;\/G# \r\n*put* — ;put;\/G# \r\n*eat* — ;eaten;\/G",
+      "created_at": "2017-08-15 10:07:56",
+      "updated_at": "2022-07-30 17:26:34"
+    },
+    {
+      "id": 356,
+      "lesson_id": 167,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Hành động *kéo dài hay chăng* được một khoảng thời gian đến thời điểm hiện tại:# \r\n;Have | has;\/B-O plus ;chủ ngữ;\/B-B plus ;been;\/B-Y plus ;động từ(-ing);\/B-G ?",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2019-12-19 10:38:18"
+    },
+    {
+      "id": 359,
+      "lesson_id": 168,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Hành động *sẽ được thực hiện hay chăng* ở thời điểm cụ thể:# \r\n;Will;\/B-O plus ;chủ ngữ;\/B-B plus ;have;\/B-O plus ;động từ ở dạng hoàn thành;\/B-G ?",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2020-03-02 11:02:54"
+    },
+    {
+      "id": 362,
+      "lesson_id": 169,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Hành động *đã xảy ra hay chăng* trước sự kiện khác hoặc là trước một thời điểm trong quá khứ:# \r\n;Had;\/B-O plus ;chủ ngữ;\/B-B plus ;động từ ở dạng hoàn thành;\/B-G ?",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2020-02-28 14:44:55"
+    },
+    {
+      "id": 365,
+      "lesson_id": 170,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu nghi vấn về những khả năng trong thì tương lai:# \r\n;Will;\/B-O plus ;chủ ngữ;\/B-B plus ;be;\/B-G plus ;able to;\/B-W plus ;động từ;\/B-W ?",
+      "created_at": "2017-08-15 10:07:58",
+      "updated_at": "2019-12-20 03:44:55"
+    },
+    {
+      "id": 369,
+      "lesson_id": 172,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu nghi vấn về khả năng trong quá khứ:# \r\n;Was | were;\/B-G plus ;chủ ngữ;\/B-B plus ;able to;\/B-W plus ;động từ;\/B-W ?",
+      "created_at": "2017-08-15 10:07:58",
+      "updated_at": "2019-12-22 06:34:34"
+    },
+    {
+      "id": 372,
+      "lesson_id": 173,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu nghi vấn về sự cần thiết:# \r\n;Should;\/B-O plus ;chủ ngữ;\/B-B plus ;động từ;\/B-G ?",
+      "created_at": "2017-08-15 10:07:59",
+      "updated_at": "2019-12-22 07:11:36"
+    },
+    {
+      "id": 375,
+      "lesson_id": 174,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu nghi vấn về lời cam kết, trách nhiệm:# \r\n;Do | Does;\/B-Y plus ;chủ ngữ;\/B-B plus ;have;\/B-G plus ;to;\/B-W plus ;động từ;\/B-W ?",
+      "created_at": "2017-08-15 10:07:59",
+      "updated_at": "2019-12-22 07:22:08"
+    },
+    {
+      "id": 378,
+      "lesson_id": 175,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*Must not* — không được làm# \r\n;Chủ ngữ;\/B-B plus ;must;\/B-O plus ;not;\/B-R plus ;động từ;\/B-G",
+      "created_at": "2017-08-15 10:07:59",
+      "updated_at": "2020-03-02 11:29:39"
+    },
+    {
+      "id": 380,
+      "lesson_id": 176,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Trạng từ chỉ mức độ thường đứng trước *động từ*. Nhưng đứng sau *be và động từ tình thái*.",
+      "created_at": "2017-08-15 10:08:00",
+      "updated_at": "2020-03-02 11:45:36"
+    },
+    {
+      "id": 384,
+      "lesson_id": 177,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Đối với những động từ sau không sử dụng trạng từ, mà sử dụng tính từ *không có -ly*:# \r\n;look;\/G - nhìn, trông, ;sound;\/G - kêu, có vẻ và ;feel;\/G - cảm thấy",
+      "created_at": "2017-08-15 10:08:00",
+      "updated_at": "2020-03-02 11:59:39"
+    },
+    {
+      "id": 388,
+      "lesson_id": 178,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*How far* — bao xa# \r\n*How big* — lớn như thế nào, rộng bao nhiêu# \r\n*How old* — bao nhiêu tuổi",
+      "created_at": "2017-08-15 10:08:01",
+      "updated_at": "2019-12-18 18:51:41"
+    },
+    {
+      "id": 390,
+      "lesson_id": 179,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Những tính từ có từ hai âm tiết trở lên và kết thúc là *-y, -ow, -le* thì các mức độ so sánh cũng được hình thành như vậy",
+      "created_at": "2017-08-15 10:08:01",
+      "updated_at": "2020-03-02 12:18:40"
+    },
+    {
+      "id": 393,
+      "lesson_id": 180,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Các mức độ so sánh *far* — xa:# \r\nfurther hoặc farther — xa hơn# \r\nthe furthest hoặc the farthest — xa nhất",
+      "created_at": "2017-08-15 10:08:02",
+      "updated_at": "2019-12-19 08:06:38"
+    },
+    {
+      "id": 395,
+      "lesson_id": 181,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu nghi vấn ở thức giả định:# \r\n;Would;\/B-O plus ;chủ ngữ;\/B-B plus ;động từ;\/B-G ?",
+      "created_at": "2017-08-15 10:08:02",
+      "updated_at": "2019-12-29 08:17:52"
+    },
+    {
+      "id": 398,
+      "lesson_id": 182,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Động từ *be* trong câu điều kiện luôn ở dạng *were* với mọi chủ ngữ",
+      "created_at": "2017-08-15 10:08:02",
+      "updated_at": "2019-12-19 19:08:36"
+    },
+    {
+      "id": 400,
+      "lesson_id": 183,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Những từ biểu thị sự tin tưởng:# \r\n*should, must* - phải, *can't* - không thể# \r\n;Chủ ngữ;\/B-B plus ;should | must | can't;\/B-O plus ;động từ;\/B-G#",
+      "created_at": "2017-08-15 10:08:03",
+      "updated_at": "2020-03-02 12:34:00"
+    },
+    {
+      "id": 402,
+      "lesson_id": 184,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*seventy* — bảy mươi# \r\n*eighty* — tám mươi# \r\n*ninety* — chín mươi# \r\n*hundred* — một trăm, *thousand* — một nghìn",
+      "created_at": "2017-08-15 10:08:03",
+      "updated_at": "2019-12-20 09:24:04"
+    },
+    {
+      "id": 405,
+      "lesson_id": 185,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Nếu đối tượng chịu ảnh hưởng nào đó:# \r\n;Tính từ;\/B-W = ;động từ;\/B-G plus ;ed;\/B-W (V3)# \r\nVí dụ: Tiếng ồn nào đó ;làm phiền;\/G bạn,# \r\nBạn bị làm phiền (;annoy;\/Ged)",
+      "created_at": "2017-10-02 08:20:44",
+      "updated_at": "2022-08-03 13:55:49"
+    },
+    {
+      "id": 407,
+      "lesson_id": 186,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Chủ ngữ có chịu tác động nào đó hay không:# \r\n;\"tobe\" ở dạng cần thiết;\/B-G plus ;chủ ngữ;\/B-B plus ;động từ+ed (V3);\/B-W plus ;...;\/B-W ?",
+      "created_at": "2017-10-02 08:20:44",
+      "updated_at": "2022-08-03 14:00:54"
+    },
+    {
+      "id": 410,
+      "lesson_id": 187,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Chủ ngữ tự mình trải qua một hành động nào đó hay chăng *ngay bây giờ*:# \r\n;Am | Is | Are;\/B-G plus ;chủ ngữ;\/B-B plus ;being;\/B-W plus ;động từ + ed (V3);\/B-W ?",
+      "created_at": "2017-10-02 08:20:45",
+      "updated_at": "2022-07-23 12:11:53"
+    },
+    {
+      "id": 414,
+      "lesson_id": 188,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Chủ ngữ đã tự mình trải qua một hành động nào đó *đến thời điểm hiện tại* hay chăng:# \r\n;Have | Has;\/B-O plus ;chủ ngữ;\/B-B plus ;been;\/B-G plus ;động từ + ed (V3);\/B-W ?",
+      "created_at": "2017-10-02 08:20:45",
+      "updated_at": "2022-07-23 12:27:06"
+    },
+    {
+      "id": 418,
+      "lesson_id": 189,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Câu phủ định cùng phụ từ ;not;\/R tương đương câu khẳng định sử dụng từ phủ định:# \r\n*nobody* — không ai# \r\n*nothing* — không gì, không có gì",
+      "created_at": "2017-10-02 08:20:46",
+      "updated_at": "2020-03-02 12:54:07"
+    },
+    {
+      "id": 421,
+      "lesson_id": 190,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Có thể sử dụng *would* đối với những sự kiện lặp đi lặp lại trong quá khứ :# \r\n;Chủ ngữ;\/B-B plus ;would;\/B-O plus ;động từ;\/B-G",
+      "created_at": "2017-10-02 08:20:46",
+      "updated_at": "2020-03-02 12:55:24"
+    },
+    {
+      "id": 423,
+      "lesson_id": 191,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Các câu được liên kết với nhau bởi:# \r\n*so* — như thế, như vậy# \r\n*because* — tại vì# \r\n*yet* — song, tuy nhiên",
+      "created_at": "2017-10-02 08:20:46",
+      "updated_at": "2019-12-23 07:16:51"
+    },
+    {
+      "id": 425,
+      "lesson_id": 192,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Liên từ dùng để giải thích rõ hơn:# \r\n*who, that* — người mà# \r\n*which, that* — vật mà# \r\n*whose* — của ai",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2019-12-27 08:03:06"
+    },
+    {
+      "id": 428,
+      "lesson_id": 193,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Liên từ cho cấu trúc chỉ thời gian:# \r\n*while* — trong khi# \r\n*before* — trước khi# \r\n*after* — sau khi",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2019-12-26 06:36:52"
+    },
+    {
+      "id": 431,
+      "lesson_id": 194,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Dịch chuyển về thì *quá khứ hoàn thành*:# \r\n;Quá khứ đơn;\/B-W → ;Quá khứ hoàn thành;\/B-W# \r\n;Hiện tại hoàn thành.;\/B-W → ;Quá khứ hoàn thành;\/B-W",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2020-01-19 04:20:26"
+    },
+    {
+      "id": 435,
+      "lesson_id": 195,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Động từ tình thái *could*, *would*, *might* và *should* trong câu tường thuật *Không thay đổi*",
+      "created_at": "2017-10-02 08:20:48",
+      "updated_at": "2020-03-02 13:15:01"
+    },
+    {
+      "id": 437,
+      "lesson_id": 196,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Nếu trong câu nghi vẫn không có từ để hỏi thì khi tường thuật để thay thế cho từ để hỏi ta thêm *if hoặc whether*",
+      "created_at": "2017-10-02 08:20:48",
+      "updated_at": "2020-03-02 13:42:16"
+    },
+    {
+      "id": 439,
+      "lesson_id": 197,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Kể lại đòi hỏi làm điều gì đó:# \r\n;Ai;\/B-B plus ;told;\/B-G plus ;cho ai;\/B-W plus ;to ...;\/B-W# \r\nKể lại yêu cầu không làm điều gì đó:# \r\n;Ai;\/B-B plus ;told;\/B-G plus ;cho ai;\/B-W plus ;not;\/B-R plus ;to ...;\/B-W",
+      "created_at": "2017-10-02 08:20:49",
+      "updated_at": "2019-12-25 06:35:49"
+    },
+    {
+      "id": 442,
+      "lesson_id": 199,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Cách nói *nên, yêu cầu làm* sớm hơn:# \r\n;Chủ ngữ;\/B-B plus ;should;\/B-O plus ;have;\/B-Y plus ;động từ+ed (V3.);\/B-W",
+      "created_at": "2017-10-02 08:20:50",
+      "updated_at": "2019-12-24 08:25:58"
+    },
+    {
+      "id": 445,
+      "lesson_id": 200,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Cách nói \"sẽ phải, sẽ cần\" *trong tương lai*:# \r\n;Chủ ngữ;\/B-B plus ;will;\/B-O plus ;have;\/B-G plus ;to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-10-02 08:20:50",
+      "updated_at": "2020-01-19 05:18:40"
+    },
+    {
+      "id": 448,
+      "lesson_id": 202,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*hang up* — cúp máy# \r\n*add up* — hợp lý# \r\n*make up* — giảng hòa",
+      "created_at": "2017-10-02 08:20:51",
+      "updated_at": "2020-01-19 05:26:01"
+    },
+    {
+      "id": 450,
+      "lesson_id": 203,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "*say a word* —nói một từ# \r\n*say somebody's name* — nói tên của ai đó# \r\n*say a prayer* — nói lời cầu nguyện# \r\n*say hello* — nói tạm biệt#",
+      "created_at": "2017-10-05 05:10:53",
+      "updated_at": "2019-12-25 16:01:38"
+    },
+    {
+      "id": 453,
+      "lesson_id": 204,
+      "lesson_position": 2,
+      "number": 2,
+      "rule": "Sử dụng ;speak;\/G khi nói *về ngôn ngữ*",
+      "created_at": "2017-10-05 05:10:53",
+      "updated_at": "2019-12-27 14:24:11"
+    },
+    {
+      "id": 195,
+      "lesson_id": 94,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Chúng ta sử dụng cấu trúc có ;*have*;\/G để đặt câu hỏi: # \r\n;Do | Does;\/B-Y plus ;chủ ngữ;\/B-B plus ;have;\/B-G plus ;...;\/B-W ?",
+      "created_at": "2017-07-11 05:09:03",
+      "updated_at": "2022-07-18 15:28:18"
+    },
+    {
+      "id": 203,
+      "lesson_id": 98,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Những trạng từ sau thường đặt ở đầu hoặc ở cuối câu: # \r\n;*sometimes*;\/P — thỉnh thoảng # \r\n;*every day*;\/P — mỗi ngày",
+      "created_at": "2017-07-11 05:09:11",
+      "updated_at": "2019-12-08 08:20:43"
+    },
+    {
+      "id": 206,
+      "lesson_id": 99,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu nghi vấn có cấu trúc như câu khẳng định khi đại từ nghi vấn đóng vai trò như chủ ngữ: # \r\n;Who | What;\/B-W plus ;động từ;\/B-G plus ;...;\/B-W  ?",
+      "created_at": "2017-07-11 05:09:14",
+      "updated_at": "2019-12-08 08:39:49"
+    },
+    {
+      "id": 209,
+      "lesson_id": 100,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu trả lời ngắn cùng với động từ ;*be*;\/G: # \r\n;Yes;\/B-W plus ;chủ ngữ + am | is | are;\/B-BG # \r\n;No;\/B-W plus ;chủ ngữ + am | is | are;\/B-BG plus ;not;\/B-R",
+      "created_at": "2017-07-11 05:33:18",
+      "updated_at": "2020-02-28 09:32:44"
+    },
+    {
+      "id": 225,
+      "lesson_id": 109,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Sử dụng cấu trúc sau cho câu nghi vấn cùng động từ ;*be*;\/G trong thì tương lai: # \r\n;Từ để hỏi;\/B-W plus ;will;\/B-O plus ;chủ ngữ;\/B-B plus ;be;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:33:19",
+      "updated_at": "2020-02-28 09:47:44"
+    },
+    {
+      "id": 244,
+      "lesson_id": 118,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Để diễn đạt sở hữu cách của đối tượng nào đó, chúng ta thêm sau đối tượng *'s* hoặc đối với số nhiều — *s'*",
+      "created_at": "2017-07-11 05:33:20",
+      "updated_at": "2020-02-28 09:50:48"
+    },
+    {
+      "id": 247,
+      "lesson_id": 119,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "*Good morning* —Chào buổi sáng # \r\n*Good evening* — Chào buổi tối # \r\n*Good night* — Chúc ngủ ngon",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2020-01-19 12:13:49"
+    },
+    {
+      "id": 255,
+      "lesson_id": 123,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "*September* — Tháng chín # \r\n*October* — Tháng mười # \r\n*November* — Tháng mười một # \r\n*December* — Tháng mười hai",
+      "created_at": "2017-07-11 05:33:21",
+      "updated_at": "2019-12-20 05:55:46"
+    },
+    {
+      "id": 260,
+      "lesson_id": 126,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "*in the morning* — vào buổi sáng # \r\n*in the afternoon* — vào buổi trưa # \r\n*in the evening* — vào buổi tối",
+      "created_at": "2017-07-11 05:33:22",
+      "updated_at": "2019-12-09 15:19:18"
+    },
+    {
+      "id": 270,
+      "lesson_id": 131,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu phủ định sử dụng ;*can*;\/O có cấu trúc: # \r\n;Chủ ngữ;\/B-B plus ;can + not;\/B-OR plus ;động từ;\/B-G plus ;...;\/B-W # \r\n;*Can*;\/O và ;*not*;\/R được viết tắt là ;*can't*;\/O và ;*cannot*;\/O",
+      "created_at": "2017-07-11 05:33:23",
+      "updated_at": "2020-02-28 10:04:17"
+    },
+    {
+      "id": 277,
+      "lesson_id": 134,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Mạo từ *a (an)* thay đổi ý nghĩa:# \r\n*a few* — một số, không nhiều (đi với danh từ đếm được)# \r\n*a little* — một số, không nhiều (đi với danh từ đếm được)",
+      "created_at": "2017-07-26 03:40:45",
+      "updated_at": "2022-07-25 13:07:24"
+    },
+    {
+      "id": 280,
+      "lesson_id": 135,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Mạo từ *the* được dùng với danh từ ở dạng số nhiều, còn mạo từ *a (an)* thì không.",
+      "created_at": "2017-07-26 03:40:46",
+      "updated_at": "2022-07-25 13:47:58"
+    },
+    {
+      "id": 283,
+      "lesson_id": 136,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Khi đối tượng được xem là duy nhất thì trước nó luôn sử dụng mạo từ *the*",
+      "created_at": "2017-07-26 03:40:46",
+      "updated_at": "2020-02-28 10:24:16"
+    },
+    {
+      "id": 289,
+      "lesson_id": 139,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "*see* – nhìn# \r\n*hear* – nghe# \r\nThường không được dùng trong thì tiếp diễn",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-11-29 08:26:01"
+    },
+    {
+      "id": 292,
+      "lesson_id": 140,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Hành động đã *không sảy ra* ở thời điểm nào đó trong quá khứ:# \r\n;Chủ ngữ;\/B-B plus ;was | were;\/B-G plus ;not;\/B-R plus ;động từ + ing;\/B-W",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-12-12 09:10:35"
+    },
+    {
+      "id": 295,
+      "lesson_id": 141,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Hành động sẽ không xảy ra tại thời điểm xác định:# \r\n;Chủ ngữ;\/B-B plus ;won't;\/B-OR plus ;be;\/B-G plus ;động từ + ing;\/B-W",
+      "created_at": "2017-07-26 03:40:47",
+      "updated_at": "2019-12-12 09:39:06"
+    },
+    {
+      "id": 298,
+      "lesson_id": 142,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu phủ định khi không rõ đối tượng cụ thể thực hiện hành động có dạng:# \r\n;It;\/B-B plus ;is | was;\/B-G plus ;not;\/B-R plus ;...;\/B-W# \r\n;It;\/B-B plus ;won't;\/B-OR plus ;be;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2019-12-12 10:03:52"
+    },
+    {
+      "id": 302,
+      "lesson_id": 143,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Khi *không* có gì đó ở vị trí cụ thể# \r\n;There;\/B-W plus ;is | was;\/B-G plus ;not;\/B-R plus ;chủ ngữ;\/B-B plus ;vị trí;\/B-W",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2019-12-16 08:15:37"
+    },
+    {
+      "id": 306,
+      "lesson_id": 144,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Động từ nguyên thể có thể đứng sau tính từ và danh từ",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2020-03-08 13:09:21"
+    },
+    {
+      "id": 315,
+      "lesson_id": 148,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Không có kế hoạch làm một hành động cụ thể:# \r\n;Chủ ngữ;\/B-B plus ;am | is | are;\/B-G plus ;not;\/B-R plus ;going to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-07-26 03:40:50",
+      "updated_at": "2019-12-17 11:17:50"
+    },
+    {
+      "id": 318,
+      "lesson_id": 149,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Đã không có kế hoạch từ trước:# \r\n;Chủ ngữ;\/B-B plus ;was | were;\/B-G plus ;not;\/B-R plus ;going to;\/B-W plus ;hành động;\/B-W",
+      "created_at": "2017-07-26 03:40:50",
+      "updated_at": "2019-12-17 14:06:01"
+    },
+    {
+      "id": 322,
+      "lesson_id": 151,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "*he* — himself# \r\n*she* — herself# \r\n*it* — itself",
+      "created_at": "2017-07-26 03:40:51",
+      "updated_at": "2019-12-05 05:44:57"
+    },
+    {
+      "id": 325,
+      "lesson_id": 152,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "*in* — sau khoảng# \r\n*by* — trước thời điểm nào đó# \r\n*till, until* — cho đến",
+      "created_at": "2017-07-26 03:40:51",
+      "updated_at": "2020-01-19 14:45:28"
+    },
+    {
+      "id": 341,
+      "lesson_id": 160,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Hành động đã không được hoàn thành cho đến thời điểm hiện tại:# \r\n;Chủ ngữ;\/B-B plus ;haven't | hasn't;\/B-OR plus ;động từ(-ed);\/B-G",
+      "created_at": "2017-08-15 10:07:54",
+      "updated_at": "2022-07-23 11:08:41"
+    },
+    {
+      "id": 346,
+      "lesson_id": 162,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": ";ever;\/P — khi nào đó, bao giờ# \r\n;never;\/P — không bao giờ# \r\n;so far;\/P — cho đến nay (đứng ở đầu hoặc cuối câu)",
+      "created_at": "2017-08-15 10:07:55",
+      "updated_at": "2022-07-23 11:16:15"
+    },
+    {
+      "id": 357,
+      "lesson_id": 167,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Hành động *không được thực hiện* đến thời điểm hiện tại:# \r\n;Chủ ngữ;\/B-B plus ;haven't | hasn't;\/B-OR plus ;been;\/B-Y plus ;động từ(-ing);\/B-G",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2020-02-28 14:33:07"
+    },
+    {
+      "id": 360,
+      "lesson_id": 168,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Hành động *sẽ không được hoàn thành* ở thời điểm xác định:# \r\n;Chủ ngữ;\/B-B plus ;won't;\/B-OR plus ;have;\/B-O plus ;động từ ở dạng hoàn thành;\/B-G",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2020-02-28 14:31:29"
+    },
+    {
+      "id": 363,
+      "lesson_id": 169,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Hành động *đã không xảy ra* trước sự kiện khác hoặc là trước một thời điểm trong quá khứ::# \r\n;Chủ ngữ;\/B-B plus ;hadn't;\/B-OR plus ;động từ ở dạng hoàn thành;\/B-G",
+      "created_at": "2017-08-15 10:07:57",
+      "updated_at": "2022-08-02 15:46:07"
+    },
+    {
+      "id": 366,
+      "lesson_id": 170,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu phủ định về những khả năng trong tương lai:# \r\n;Chủ ngữ;\/B-B plus ;won't;\/B-OR plus ;be;\/B-G plus ;able to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-08-15 10:07:58",
+      "updated_at": "2019-12-20 03:48:06"
+    },
+    {
+      "id": 370,
+      "lesson_id": 172,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu phủ định về khả năng trong thì quá khứ:# \r\n;Chủ ngữ;\/B-B plus ;was | were;\/B-G plus ;not;\/B-R plus ;able to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-08-15 10:07:58",
+      "updated_at": "2019-12-22 06:36:21"
+    },
+    {
+      "id": 373,
+      "lesson_id": 173,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu phủ định về sự cần thiết:# \r\n;Chủ ngữ;\/B-B plus ;shouldn't;\/B-OR plus ;động từ;\/B-G",
+      "created_at": "2017-08-15 10:07:59",
+      "updated_at": "2019-12-22 07:13:14"
+    },
+    {
+      "id": 376,
+      "lesson_id": 174,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu phủ định về lời cam kết, trách nhiệm:# \r\n;Chủ ngữ;\/B-B plus ;don't | doesn't;\/B-YR plus ;have;\/B-G plus ;to;\/B-W plus ;động từ;\/B-W",
+      "created_at": "2017-08-15 10:07:59",
+      "updated_at": "2019-12-22 07:25:11"
+    },
+    {
+      "id": 381,
+      "lesson_id": 176,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "*Trạng từ chỉ tần suất*:# \r\n;maybe;\/P —có lẽ# \r\n;perhaps;\/P, ;probably;\/P — có thể# \r\n;definitely;\/P — chắc chắn",
+      "created_at": "2017-08-15 10:08:00",
+      "updated_at": "2020-03-02 11:46:57"
+    },
+    {
+      "id": 385,
+      "lesson_id": 177,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Những trạng từ chỉ cách thức sau không có hậu tố -ly:# \r\n;fast;\/P - nhanh, ;well;\/P - tốt, giỏi, ;hard;\/P - khó, nặng, siêng năng",
+      "created_at": "2017-08-15 10:08:00",
+      "updated_at": "2019-12-18 14:18:28"
+    },
+    {
+      "id": 391,
+      "lesson_id": 179,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Hai và nhiều hơn hai âm tiết:# \r\n;more;\/R expensive - đắt hơn# \r\n;the most;\/R expensive - đắt nhất",
+      "created_at": "2017-08-15 10:08:01",
+      "updated_at": "2019-12-18 20:03:57"
+    },
+    {
+      "id": 396,
+      "lesson_id": 181,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu phủ định ở thức giả định:# \r\n;Chủ ngữ;\/B-B plus ;wouldn't;\/B-OR plus ;động từ;\/B-G",
+      "created_at": "2017-08-15 10:08:02",
+      "updated_at": "2019-12-22 12:57:01"
+    },
+    {
+      "id": 403,
+      "lesson_id": 184,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Thêm *-th* hoặc *-eth* sau số đếm để được số thứ tự.# \r\nY ở cuối câu thay đổi thành -i",
+      "created_at": "2017-08-15 10:08:03",
+      "updated_at": "2020-03-02 12:37:07"
+    },
+    {
+      "id": 408,
+      "lesson_id": 186,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Chủ ngữ không chịu tác đông của hành động:# \r\n;Chủ ngữ;\/B-B plus ;\"tobe\" ở dạng cần thiết;\/B-G plus ;not;\/B-R plus ;động từ+ed (V3);\/B-W plus ;...;\/B-W",
+      "created_at": "2017-10-02 08:20:44",
+      "updated_at": "2022-08-03 14:02:17"
+    },
+    {
+      "id": 411,
+      "lesson_id": 187,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Chủ ngữ không tự mình trải qua một hành động nào đó *ngay bây giờ*:# \r\n;Chủ ngữ;\/B-B plus ;am | is | are;\/B-G plus ;not;\/B-R plus ;being;\/B-W plus ;động từ + ed (V3);\/B-W",
+      "created_at": "2017-10-02 08:20:45",
+      "updated_at": "2019-12-26 07:28:10"
+    },
+    {
+      "id": 415,
+      "lesson_id": 188,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Nếu chủ ngữ không tự mình trải qua một hành động nào đó *đến tới điểm hiện tại*# \r\n;Chủ ngữ;\/B-B plus ;have | has;\/B-O plus ;not;\/B-R plus ;been;\/B-G plus ;động từ + ed (V3);\/B-W",
+      "created_at": "2017-10-02 08:20:45",
+      "updated_at": "2020-01-19 03:56:45"
+    },
+    {
+      "id": 419,
+      "lesson_id": 189,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Câu phủ định cùng phụ từ ;not;\/R tương đương câu khẳng định sử dụng từ phủ định::# \r\n*nowhere* — không ở đâu# \r\n*none* — chẳng một ai",
+      "created_at": "2017-10-02 08:20:46",
+      "updated_at": "2020-02-07 05:13:19"
+    },
+    {
+      "id": 426,
+      "lesson_id": 192,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Trong trường hợp giải thích cụ thể hơn nhưng các từ *who, which* hoặc *that* không phải là chủ ngữ, thì chúng *có thể được bỏ qua*",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2020-03-02 13:05:29"
+    },
+    {
+      "id": 429,
+      "lesson_id": 193,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Sử dụng *thì hiện tại* thay thế cho thì quá khứ trong cấu trúc giải thích về thời gian",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2019-12-26 06:42:12"
+    },
+    {
+      "id": 432,
+      "lesson_id": 194,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Nếu thay thế câu \"*Anh ấy đã nói*...\" chúng ta kể lại lời nói ở hiện tại: \"*Anh ấy nói*...\", thì dịch chuyển thời gian thực hiện *KHÔNG cần*",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2019-12-26 19:31:31"
+    },
+    {
+      "id": 443,
+      "lesson_id": 199,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "Cách nói về *khả năng cao đã xảy ra* trong quá khứ:# \r\n;Chủ ngữ;\/B-B plus ;must;\/B-O plus ;have;\/B-Y plus ;động từ+ed (V3.);\/B-W",
+      "created_at": "2017-10-02 08:20:50",
+      "updated_at": "2019-12-24 08:42:52"
+    },
+    {
+      "id": 451,
+      "lesson_id": 203,
+      "lesson_position": 3,
+      "number": 3,
+      "rule": "*tell the truth* - nói sự thật# \r\n*tell a lie* - nói dối# \r\n*tell a story* - kể một câu chuyện# \r\n*tell time* - nói thời gian",
+      "created_at": "2017-10-05 05:10:53",
+      "updated_at": "2019-12-25 16:13:36"
+    },
+    {
+      "id": 196,
+      "lesson_id": 94,
+      "lesson_position": 4,
+      "number": 4,
+      "rule": "Đối với câu phủ định chúng ta sử dụng cấu trúc có ;*have*;\/G: # \r\n;Chủ ngữ;\/B-B plus ;do | does + not;\/B-YR plus ;have;\/B-G plus ;...;\/B-W",
+      "created_at": "2017-07-11 05:09:03",
+      "updated_at": "2022-07-18 15:32:26"
+    },
+    {
+      "id": 299,
+      "lesson_id": 142,
+      "lesson_position": 4,
+      "number": 4,
+      "rule": "Dạng vô nhân xưng cùng động từ:# \r\n*get* — đạt được, có được# \r\n*rain* — mưa# \r\n*snow* — tuyết, rơi",
+
+
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2019-12-12 10:06:53"
+    },
+    {
+      "id": 303,
+      "lesson_id": 143,
+      "lesson_position": 4,
+      "number": 4,
+      "rule": "Thời tương lai:# \r\n;There;\/B-W plus ;will;\/B-O plus ;be;\/B-G plus ;chủ ngữ;\/B-B# \r\n;Will;\/B-O plus ;there;\/B-W plus ;be;\/B-G plus ;chủ ngữ;\/B-B ?# \r\n;There;\/B-W plus ;won't;\/B-OR plus ;be;\/B-G plus ;chủ ngữ;\/B-B",
+      "created_at": "2017-07-26 03:40:48",
+      "updated_at": "2019-12-02 06:35:31"
+    },
+    {
+      "id": 382,
+      "lesson_id": 176,
+      "lesson_position": 4,
+      "number": 4,
+      "rule": "Maybe và perhaps đứng ở đầu câu. Còn những từ khác đứng trước động từ và sau be.",
+      "created_at": "2017-08-15 10:08:00",
+      "updated_at": "2020-03-04 08:19:29"
+    },
+    {
+      "id": 386,
+      "lesson_id": 177,
+      "lesson_position": 4,
+      "number": 4,
+      "rule": "Những trạng từ chỉ cách thức thường được đặt *ở cuối câu*",
+      "created_at": "2017-08-15 10:08:00",
+      "updated_at": "2019-12-22 09:35:33"
+    },
+    {
+      "id": 412,
+      "lesson_id": 187,
+      "lesson_position": 4,
+      "number": 4,
+      "rule": "Sử dụng [;was | were;\/G]  thay cho động từ be [;am | is | are;\/G] ở thì quá khứ tiếp diễn",
+      "created_at": "2017-10-02 08:20:45",
+      "updated_at": "2022-09-13 14:36:08"
+    },
+    {
+      "id": 416,
+      "lesson_id": 188,
+      "lesson_position": 4,
+      "number": 4,
+      "rule": "Nếu hành động đã xảy ra trước thời điểm thời gian thì thời gian được dịch chuyển về *quá khứ* — thay cho [;have | has;\/O] sử dụng [;had;\/O], còn ở thì tương lai — [;will have;\/O]",
+      "created_at": "2017-10-02 08:20:45",
+      "updated_at": "2022-07-23 12:51:17"
+    },
+    {
+      "id": 433,
+      "lesson_id": 194,
+      "lesson_position": 4,
+      "number": 4,
+      "rule": "Nếu câu tường thuật khẳng định *chính xác và ngay bây giờ*, thì dịch chuyển thời gian cũng *KHÔNG cần*",
+      "created_at": "2017-10-02 08:20:47",
+      "updated_at": "2022-09-13 16:27:51"
+    }
+  ]
+}

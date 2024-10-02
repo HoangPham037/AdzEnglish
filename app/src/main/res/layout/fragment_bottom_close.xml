@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg_bottom_dialog"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivCloseBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="@dimen/_15dp"
+        android:src="@drawable/ic_bottom_dialog" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical"
+>
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/imgDesc"
+            android:layout_width="@dimen/_175dp"
+            android:layout_height="@dimen/_120dp"
+            android:layout_gravity="center"
+            android:layout_marginVertical="@dimen/_16dp"
+            tools:src="@drawable/ic_close_app" />
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_bold"
+            tools:text="@string/txt_escape"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_24sp" />
+
+        <TextView
+            android:id="@+id/tvContent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10dp"
+            android:fontFamily="@font/plusjakartasans_regular"
+            tools:text="@string/txt_progress_reset"
+            android:textColor="@color/gray_01"
+            android:textSize="@dimen/_16sp" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnContinueLearning"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_40dp"
+            android:layout_marginHorizontal="@dimen/_16dp"
+            android:background="@drawable/bg_text_view"
+            android:paddingVertical="@dimen/_18dp"
+            tools:text="@string/txt_continue_learning"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16sp" />
+
+        <TextView
+            android:id="@+id/tvClose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/_16dp"
+            android:paddingVertical="@dimen/_20dp"
+            android:layout_marginBottom="@dimen/_30dp"
+            android:text="@string/txt_exit"
+            android:textColor="@color/green_01"
+            android:textSize="@dimen/_16sp" />
+    </LinearLayout>
+</LinearLayout>

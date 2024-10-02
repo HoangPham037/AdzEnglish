@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical"
+    android:paddingHorizontal="@dimen/_16dp">
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_12dp"
+        android:layout_marginTop="@dimen/_70dp"
+        android:progressDrawable="@drawable/custom_horizontal_progress"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TableRow
+        android:id="@+id/tbViEn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_24dp"
+        android:background="@drawable/bg_skill"
+        android:checkedButton="@+id/offer"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/progressBar">
+
+        <TextView
+            android:id="@+id/tvEn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_vi_true"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_20dp"
+            android:paddingVertical="@dimen/_7dp"
+            android:text="@string/txt_en"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_16sp" />
+
+        <TextView
+            android:id="@+id/tvVi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_20dp"
+            android:paddingVertical="@dimen/_7dp"
+            android:text="@string/txt_vi"
+            android:textColor="@color/gray_02"
+            android:textSize="@dimen/_16sp" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tbAnswer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_skill"
+        android:gravity="center_vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@id/tbViEn">
+
+        <ImageView
+            android:id="@+id/ivChoose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_vi_true"
+            android:paddingHorizontal="@dimen/_16dp"
+            android:paddingVertical="@dimen/_7dp"
+            android:src="@drawable/ic_choose_true"
+            tool:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/ivWrite"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="@dimen/_16dp"
+            android:paddingVertical="@dimen/_7dp"
+            android:src="@drawable/ic_keyboard_false"
+            tool:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/ivListen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="@dimen/_16dp"
+            android:paddingVertical="@dimen/_7dp"
+            android:src="@drawable/ic_sound_false_skill"
+            tool:ignore="ContentDescription" />
+    </TableRow>
+
+
+    <com.adzenglish.adzenglish.customview.NoTouchRecyclerView
+        android:id="@+id/rcvDoExercise"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_0dp"
+        android:layout_marginTop="@dimen/_20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:orientation="horizontal"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tbViEn"
+        tool:listitem="@layout/item_choose_answer_skill" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

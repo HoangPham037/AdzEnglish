@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical"
+    tools:context=".ui.learn.grammar.DoGrammarFragment">
+
+    <include
+        android:id="@+id/layoutToolBar"
+        layout="@layout/tool_bar" />
+
+    <include
+        android:id="@+id/layoutProgress"
+        layout="@layout/progress" />
+
+    <com.adzenglish.adzenglish.customview.NoTouchRecyclerView
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:id="@+id/recyclerViewRule"
+        android:layout_width="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="horizontal"
+        tools:listitem="@layout/item_do_grammar_rule"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_16dp" />
+
+</LinearLayout>

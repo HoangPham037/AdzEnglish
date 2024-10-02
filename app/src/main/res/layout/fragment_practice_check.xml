@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical"
+    android:paddingHorizontal="@dimen/_16dp">
+
+    <View
+        android:layout_width="@dimen/_10dp"
+        android:layout_height="0dp"
+        android:layout_weight="2" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivBackUp"
+        android:layout_width="@dimen/_226dp"
+        android:layout_height="@dimen/_240dp"
+        android:layout_gravity="center"
+        android:layout_marginVertical="@dimen/_30dp"
+        android:layout_marginStart="@dimen/_16dp"
+        android:layout_marginEnd="@dimen/_16dp"
+        android:layout_marginBottom="@dimen/_22dp"
+        android:src="@drawable/iv_win"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_10dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:gravity="center"
+        android:text="@string/txt_win"
+        android:textColor="@color/blue_02"
+        android:textSize="@dimen/_24sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_10dp"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:gravity="center"
+        android:textColor="@color/gray_01"
+        android:textSize="@dimen/_16sp"
+        tool:text="Còn lại 135 từ để kiểm tra" />
+
+    <View
+        android:layout_width="@dimen/_10dp"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnCheck"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_15dp"
+        android:background="@drawable/bg_text_view"
+        android:paddingHorizontal="@dimen/_77dp"
+        android:paddingVertical="@dimen/_18dp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tool:text="Kiểm tra thêm 25 từ vựng nữa" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvExit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_50dp"
+        android:layout_marginBottom="@dimen/_20dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:gravity="center"
+        android:paddingVertical="@dimen/_20dp"
+        android:text="@string/txt_exit"
+        android:textColor="@color/green_01"
+        android:textSize="@dimen/_16sp" />
+</LinearLayout>

@@ -1,0 +1,2309 @@
+{
+    "Common": {
+        "Yes": "Có",
+        "No": "Không",
+        "Ok": "OK",
+        "Disable": "Vô Hiệu Hóa",
+        "Confirm": "Xác Nhận",
+        "CorrectPlateText": "Chính Xác",
+        "WrongPlateCommonText": "Sai",
+        "GoodJob": "Xin chúc mừng!",
+        "Ideal": "Hoàn Hảo!",
+        "RightPlateText": "Câu trả lời chính xác",
+        "NextButton": "Tiếp Theo",
+        "ContinueButton": "Tiếp tục",
+        "Close": "Đóng",
+        "InternetError": "Kiểm tra kết nối internet của bạn",
+        "Notifications": "Thông báo",
+        "NotificationsDisabled": "Thông báo đang bị vô hiệu hóa. Để kích hoạt thông báo, hãy đi đến mục Cài Đặt.",
+        "TrueButtonTitle": "Đúng",
+        "FalseButtonTitle": "Sai",
+        "Try": "Thử",
+        "Great": "Quá đã!",
+        "Later": "Để Sau",
+        "Begin": "Bắt đầu",
+        "Repeate": "Thử Lại",
+        "Skip": "Bỏ Qua",
+        "Lesson": "Bài Học",
+        "Understand": "Đã Hiểu",
+        "Congratulations": "Xin chúc mừng!",
+        "Add": "Thêm",
+        "Save": "Lưu",
+        "RuleNumber": "Quy Tắc {number}",
+        "NotNow": "Không phải bây giờ",
+        "Login": "Đăng Nhập",
+        "Check": "Kiểm Tra",
+        "Cancel": "Hủy",
+        "Registration": "Đăng Ký",
+        "RestorePurchases": "Khôi phục đơn mua",
+        "Back": "Trở lại",
+        "AppStore": "App Store",
+        "GooglePlay": "Google Play",
+        "Progress": "Tiến Trình",
+        "RepeatDragWordsTitle": "Kéo xuống bản dịch phù hợp",
+        "Open": "Mở",
+        "You": "Bạn",
+        "Look": "Xem",
+        "Percent": "{value}%",
+        "GetPremium": "Mua Premium",
+        "TermsOfService": "Điều khoản dịch vụ",
+        "PrivacyPolicy": "Chính sách riêng tư",
+        "ContinueWithPremium": "Tiếp tục với Premium",
+        "Training": "Bắt đầu bài học",
+        "CanDoIt": "Tôi làm được!",
+        "Learn": "Học"
+    },
+    "Splash": {
+        "1": "Vẽ hình",
+        "2": "Chọn từ",
+        "3": "Tạo bài tập",
+        "4": "Tạo âm thanh",
+        "5": "Lắp tên lửa"
+    },
+    "Level": {
+        "Title": "Chọn cấp độ",
+        "Description": {
+            "zero": "{value1} trên {value2} bài học đã hoàn thành",
+            "one": "{value1} trên {value2} bài học đã hoàn thành",
+            "few": "{value1} trên {value2} bài học đã hoàn thành",
+            "other": "{value1} trên {value2} bài học đã hoàn thành"
+        },
+        "Completed": "Đã hoàn thành: 100%",
+        "Number": "Cấp độ {number}",
+        "Select": "Đến đây",
+        "InvocationStart": "Bắt đầu bài học đầu tiên",
+        "InvocationFinish": "Hoàn thành bài học",
+        "InvocationContinue": "Bắt đầu bài học",
+        "InvocationToStartDetective": "Đọc và nghe",
+        "InvocationToContinueDetective": "Tiếp tục điều tra",
+        "InvocationToOpenChest": "Nhận từ vựng với"
+    },
+    "Report": {
+        "IncorrectSound": "Âm thanh không chính xác",
+        "IncorrectTranslation": "Bản dịch không chính xác",
+        "AnswerWasCorrect": "Đáp án của tôi đã chính xác",
+        "Send": "Báo cáo lỗi",
+        "ReportSent": "Báo cáo lỗi đã được gửi đi",
+        "Comment": "Bình luận"
+    },
+    "Training": {
+        "Plan": "Kế hoạch hôm nay",
+        "PracticeActive": "Cải thiện kỹ năng của bạn: {amount}",
+        "Grammar": "Ngữ Pháp",
+        "Practice": "Thực Hành",
+        "Vocabulary": "Từ Vựng",
+        "Words": "Từ",
+        "RepeatWords": "Ôn lại các từ",
+        "ComplexFullTrainingTitle": "Từ vựng, ngữ pháp tiếng Anh",
+        "WordsActive": "Ghi nhớ các từ của bạn: {amount}",
+        "BrainBoostActive": "Sửa lỗi sai của bạn: {amount}",
+        "NeedMoreWords": "Học thêm từ vựng thông qua các bài học",
+        "NeedMoreRules": "Học thêm ngữ pháp thông qua các bài học",
+        "TaskNotReady": "Bạn sẽ nhận bài tập mới vào ngày mai"
+    },
+    "SuperDay": {
+        "Title": "Ngày xuất sắc",
+        "Description": "Chúc mừng! Bạn đã học các từ mới, ôn lại từ của bạn, học các quy tắc ngữ pháp mới và luyện tập!",
+        "GetStickers": "Nhận nhãn dán Telegram",
+        "Days": {
+            "zero": "{value} ngày",
+            "one": "{value} ngày",
+            "few": "{value} ngày",
+            "other": "{value} ngày"
+        },
+        "ForWeek": "trong tuần này",
+        "AtAll": "tổng"
+    },
+    "TrainingDashBoard": {
+        "Words": "Từ",
+        "Rule": "Ngữ Pháp",
+        "Title": "Mài dũa kỹ năng",
+        "RepeateWords": "Đến giờ ôn từ vựng rồi",
+        "RepeateRules": "Cùng làm chủ ngữ pháp nhé",
+        "WordsDescription": "Ôn luyện từ vựng thôi nào",
+        "PracticeSubTitle": "Cùng làm chủ ngữ pháp nhé",
+        "LockTrainingDescription": "Hoàn thành bài học đầu tiên để mở khóa các bài học đào tạo",
+        "LockSubTitle": "Hiện không khả dụng",
+        "ReturnToStudy": "Trở lại các bài học",
+        "YourCollectionTitle": "Bộ sưu tập của bạn",
+        "ResultsTitle": "Kết quả",
+        "WordsCount": {
+            "zero": "từ",
+            "one": "từ",
+            "few": "từ",
+            "other": "từ"
+        },
+        "RulesCount": {
+            "zero": "quy tắc",
+            "one": "quy tắc",
+            "few": "quy tắc",
+            "other": "quy tắc"
+        },
+        "PremiumPopup": {
+            "HasFreeTraining": {
+                "one": "Bạn có {count} bài học đào tạo Premium để thử qua mọi thứ",
+                "other": "Bạn có {count} bài học đào tạo Premium để thử qua mọi thứ"
+            },
+            "HasFreeTrainingRestored": {
+                "one": "Bạn lại có {count} bài học thực hành Premium",
+                "other": "Bạn lại có {count} bài học thực hành Premium"
+            }
+        },
+        "TrainingDialog": {
+            "Title": "Chọn chế độ",
+            "SimpleModeTitle": "Đơn giản",
+            "ComprehensiveModeTitle": "Toàn diện",
+            "WordsTraining": {
+                "SimpleModeSubTitle": "Chọn bản dịch từ vựng chính xác",
+                "AdvancedModeTitle": "Nâng cao",
+                "AdvancedModeSubTitle": "Kiểm tra và sửa lỗi",
+                "ComprehensiveModeSubTitle": "Kiểm tra audio và luyện từ vựng khó",
+                "RememberDailyChoice": "Запомнить мой выбор до конца дня"
+            },
+            "RuleTraining": {
+                "SimpleModeSubTitle": "Ôn lại bài tập từ các bài học",
+                "ComprehensiveModeSubTitle": "Thực hành cá nhân hóa"
+            },
+            "FreeTrainingCount": {
+                "one": "Bạn có {count} bài học đào tạo Premium",
+                "other": "Bạn có {count} bài học đào tạo Premium"
+            }
+        }
+    },
+    "TrainingFinish": {
+        "WordTask": {
+            "SubTitle": "Còn lại {amount} từ để ôn luyện",
+            "Button": "Ôn luyện thêm {amount} từ"
+        },
+        "RuleTask": {
+            "SubTitle": {
+                "one": "Còn {amount} quy tắc ngữ pháp để ôn tập",
+                "other": "Còn {amount} quy tắc ngữ pháp để ôn tập"
+            },
+            "Button": {
+                "one": "Ôn tập thêm {amount} quy tắc ngữ pháp",
+                "other": "Ôn tập thêm {amount} quy tắc ngữ pháp"
+            }
+        }
+    },
+    "Main": {
+        "DetectivePopup": {
+            "Header": "Ngày may mắn! Nhân đôi RC",
+            "Description": "Hoàn tất bất kỳ câu chuyện Trinh Thám nào vào cuối ngày và nhận số RocketCoin nhân đôi!"
+        },
+        "RatingPopup": {
+            "HeaderWarn": "Ngày đánh giá gần đây nhất!",
+            "HeaderReturnToLeaders": "Trở lại danh sách top!",
+            "HeaderDoNotLoseLicense": "Đừng để mất giấy phép của bạn!",
+            "DescriptionWarn": "Kiếm càng nhiều điểm càng tốt nhằm bảo vệ một khu vực trên hỏa tiễn",
+            "DescriptionReturnToLeaders": "Bạn đã bị loại khỏi danh sách top. Hoàn tất một bài học thực hành trong Vở để lấy lại vị trí của mình.",
+            "DescriptionDoNotLooeLicense": "Bạn đang ở vùng có rủi ro cao. Bạn có thể đánh mất giấy phép của mình! Hãy hoàn tất bài học thực hành trong Vở và kiếm thêm RC."
+        },
+        "StatrupPopups": {
+            "WelcomeBackTitle": "Chào mừng trở lại!",
+            "Vocabulary": {
+                "V1": {
+                    "Subtitle": "Chúng ta hãy cùng xem xét các từ vựng và ngữ pháp"
+                },
+                "V2": {
+                    "Title": "Nâng cao vốn từ của bạn",
+                    "Subtitle": "Nếu bạn ôn lại ngữ pháp và từ vựng thường xuyên, bạn sẽ học tiếng Anh nhanh hơn"
+                },
+                "V3": {
+                    "Title": "Thực hành giúp đẩy nhanh việc học",
+                    "Subtitle": "Ôn lại từ vựng và ngữ pháp. Nâng cao vốn từ của bạn."
+                },
+                "Button": "Bài học thực hành mới"
+            },
+            "Lesson": {
+                "V1": {
+                    "Title": "Thật tốt khi được thấy bạn trở lại!",
+                    "Subtitle": "Hoàn tất bài học mới và duy trì chuỗi của bạn"
+                },
+                "V2": {
+                    "Title": "Chào mừng!",
+                    "Subtitle": "Bắt đầu bài học mới để học ngữ pháp mới và bổ sung từ ngữ mới vào vốn từ vựng của bạn"
+                },
+                "V3": {
+                    "Subtitle": "Chúng ta hãy đi đến bài học kế tiếp"
+                },
+                "Button": "Bài học kế tiếp"
+            },
+            "Detective": {
+                "V1": {
+                    "Subtitle": "Mở rộng vốn từ vựng bằng các câu chuyện trinh thám!"
+                },
+                "V2": {
+                    "Title": "Thám tử đã quay trở lại!",
+                    "Subtitle": "Nâng cao các kỹ năng lắng nghe và cải thiện vốn từ vựng của bạn"
+                },
+                "V3": {
+                    "Title": "Đã đến lúc dành cho những câu chuyện Trinh Thám!",
+                    "Subtitle": "Cải thiện các kỹ năng đọc, nói và lắng nghe"
+                },
+                "Button": "Trở lại câu chuyện"
+            }
+        }
+    },
+    "Goal": {
+        "Days": {
+            "one": "chuỗi ngày",
+            "few": "chuỗi ngày",
+            "many": "chuỗi ngày",
+            "other": "chuỗi ngày"
+        }
+    },
+    "Onboarding": {
+        "V4": {
+            "Welcome": {
+                "Language": "Language",
+                "Title": "Cách thức đơn giản nhất để học Tiếng Anh",
+                "Subtitle": "Hãy thiết lập app để đạt mục tiêu",
+                "Button": "Bắt Đầu!"
+            },
+            "ChooseLevel": {
+                "Title": "Chọn cấp độ tương ứng với bạn"
+            },
+            "Progress": {
+                "ProgramAdjustment": "Đang điều chỉnh chương trình học...",
+                "FewClarifications": "Thêm một vài câu hỏi nữa",
+                "Finalize": "Đang hoàn thiện chương trình học...",
+                "Ready": "Khóa học đã sẵn sàng!",
+                "Percent": "{value}%",
+                "FirstPlace": "Hạng nhất",
+                "Nominee": "Đề cử",
+                "Students": "học viên",
+                "Comments": "đánh giá"
+            },
+            "Plan": {
+                "YouWillReach": "Bạn sẽ đạt đến {value}"
+            },
+            "ChooseReason": {
+                "Title": "Chọn lý do chính khiến bạn muốn nói tiếng Anh"
+            },
+            "ChooseExperience": {
+                "Title": "Chọn cách thức mà bạn đã học ngôn ngữ"
+            },
+            "TimeToDay": {
+                "Title": "Bạn có thể dành bao nhiêu thời gian để học?",
+                "Today": "Hôm nay"
+            },
+            "ChooseMethods": {
+                "Title": "Cách thức học tiếng Anh nào vui hơn với bạn?"
+            },
+            "NotificationTitle": "Thời gian tốt nhất để nhắc nhở",
+            "TouchMethod": {
+                "Title": "Познакомимся с методикой Simpler",
+                "Subtitle": "Особая последовательность уникальных заданий поможет выучить английский в кратчайшие сроки",
+                "Try": "Попробовать"
+            },
+            "MethodsLearned": {
+                "Title": "Отлично! Вы изучили основы нашей методики",
+                "Subtitle": "Впереди вас ждут: Детективные истории, Диалоги на бытовые темы, Проверки изученного материала и Соревновательный режим!",
+                "Next": "Đi thôi!"
+            }
+        },
+        "V5": {
+            "Welcome": {
+                "LearnEnglishStepByStep": "Cách đơn giản nhất để học tiếng Anh",
+                "BigVocabulary": "Làm giàu vốn từ vựng của bạn",
+                "SimpleGrammatics": "Học ngữ pháp thật dễ",
+                "LotsOfPractice": "Nhiều bài tập thực hành"
+            },
+            "ImportantUserPoints": {
+                "WhatIsImportantForYou": "Điều gì quan trọng với bạn?",
+                "CanSelectMultiplePoints": "Bạn có thể chọn nhiều hơn 1 lựa chọn",
+                "ThatsIt": "Tiếp tục"
+            },
+            "YourProgram": {
+                "YourSimplerPorgram": "Khóa học Simpler của bạn",
+                "EveryTaskWillBeUsefulAndInteresting": "Mọi bài tập đều vô cùng hữu ích và thú vị",
+                "Go": "Bắt đầu thôi"
+            },
+            "Gift": {
+                "GiftForYou": "Quà tặng của bạn",
+                "DaysForFree": {
+                    "few": "{days} ngày miễn phí sử dụng tất cả các tính năng!",
+                    "other": "{days} ngày miễn phí sử dụng tất cả các tính năng!"
+                },
+                "AllProgram": "Trọn vẹn khóa học",
+                "AllDetectives": "Trọn bộ câu chuyện Trinh Thám",
+                "SpaceTravel": "Nói tiếng Anh với người khác",
+                "Perfect": "Tuyệt vời!"
+            },
+            "SimplerPremium": {
+                "WeekToTryEverything": "Bạn sẽ có một tuần dùng thử trọn vẹn!",
+                "Profitable": "Giá ưu đãi",
+                "StartTrialPeriod": "Dùng Thử Miễn Phí & Đăng Ký"
+            },
+            "NotificationTime": {
+                "SelectNotificationTime": "Chọn khung giờ phù hợp để nhận thông báo",
+                "Continue": "Tiếp tục"
+            },
+            "SelectLevel": {
+                "SelectLevel": "Hãy chọn cấp độ",
+                "ForBeginners": "Dành cho người mới học",
+                "LearnOfBasics": "Bắt đầu từ kiến thức cơ bản",
+                "Advanced": "Dành cho học viên có kiến thức",
+                "LevelDetermination": "Xác định trình độ của bạn",
+                "SelectLevelTitle": "Chọn một cấp độ"
+            }
+        },
+        "Methodics": {
+            "Welcome": {
+                "SimpleWaySpeakEnglish": "Một cách đơn giản để tập nói tiếng Anh!",
+                "Begin": "Bắt đầu "
+            },
+            "About": {
+                "BrightPictures": "Những hình ảnh đầy màu sắc sẽ giúp bạn ghi nhớ từ vựng mới",
+                "SimpleFormules": "Các công thức đơn giản giúp hình thành mọi loại câu",
+                "DifferentMethodics": "Nhiều phương pháp kỹ thuật khác nhau giúp việc học hiệu quả hơn "
+            },
+            "CompleteIndividualPlan": {
+                "LetsCompleteYourPlan": "Hãy cùng tạo kế hoạch học tập cá nhân dành cho bạn ",
+                "Go": "Đi thôi!"
+            },
+            "UserPoints": {
+                "WaysLearnLanguage": {
+                    "Title": "Trước đây bạn đã học tiếng Anh ở đâu?",
+                    "SchoolLearning": "Tại trường",
+                    "Tutor": "Lớp gia sư",
+                    "OtherApps": "Các ứng dụng khác"
+                },
+                "LearningMotivation": {
+                    "Title": "Tại sao bạn muốn học tiếng Anh?",
+                    "TravelFree": "Để đi du lịch",
+                    "BuildCareer": "Để thành công trong công việc",
+                    "ImproveSkills": "Để phát triển bản thân",
+                    "NewsFilmsAndBooks": "Để đọc sách và xem phim"
+                },
+                "WhatIsForBeginningLearning": {
+                    "Title": "Chúng ta nên bắt đầu như thế nào?",
+                    "SimpleRulesLearning": "Ngữ pháp cơ bản",
+                    "LearnPopularWords": "Học các từ vựng thường dùng",
+                    "ListenAndSpeak": "Nghe và nói"
+                }
+            },
+            "YouAreAwesome": {
+                "YouAreAwesomeTitle": "Chúc mừng!",
+                "PreparationWasFinished": "Mọi thứ đã sẵn sàng! Chúng tôi sẽ tạo kế hoạch học tập cá nhân dành cho bạn",
+                "IAmAwesome": "Tuyệt vời!"
+            },
+            "PlanCreating": {
+                "PersonalPlanCreating": "Đang tạo một kế hoạch học tập cá nhân",
+                "SuggestedThemesSelecting": "Đang chuẩn bị chủ đề ngữ pháp",
+                "WordsListCreating": "Đang tạo danh sách từ vựng",
+                "TimePlanning": "Đang lập kế hoạch bài học",
+                "CourseTimeSetting": "Đang đặt thời lượng khóa học",
+                "WatchMyPlan": "Xem kế hoạch của tôi"
+            },
+            "Gift": {
+                "GiftForYou": "Bạn được tặng quà!",
+                "ShortAndUsefulLessons": "Các bài học ngắn và hiệu quả",
+                "TaskRepeats": "Thực hành nghe",
+                "ListeningPractice": "Kiểm tra thường xuyên"
+            },
+            "Premium": {
+                "NoNeedToPay": "Bạn không phải thanh toán bây giờ. Bạn có một tuần để dùng thử mọi tính năng."
+            },
+            "Lesson": {
+                "SuggestToBeginWithTheme": "Dựa trên các câu trả lời của bạn, đây sẽ là chủ đề chúng tôi đề xuất",
+                "WatchAll": "Xem tất cả chủ đề"
+            }
+        },
+        "Meditation": {
+            "Welcome": {
+                "DiscoverSimpleWayToLearnEnglish": "Khám phá cách dễ nhất để học tiếng Anh..."
+            },
+            "GetUserName": {
+                "WelcomeToSimpler": "Chào mừng bạn đến với Simpler!",
+                "HowCanWeCallYou": "Vui lòng nhập tên của bạn",
+                "EnterName": "Nhập tại đây",
+                "CustomizePlan": "Nhận kế hoạch cá nhân",
+                "AlreadyHasAcount": "Tôi đã có tài khoản"
+            },
+            "Greeting": {
+                "ReasonToBeHere": "Điều gì đưa bạn tới đây?",
+                "Hi": "Chào, {value}"
+            },
+            "UserPoints": {
+                "Advantages": {
+                    "BeginLearning": "Bắt đầu học",
+                    "NewWayToLearnEnglishIsOpened": "Giờ đây bạn đã có thể tiếp cận với cách học tiếng Anh mới mẻ!",
+                    "GetYourDream": "Simpler là một ứng dụng giúp bạn biến ước mơ thành hiện thực",
+                    "WantToTry": "Tôi muốn học thử!",
+                    "BrightPictures": "Những hình ảnh đầy màu sắc sẽ giúp bạn ghi nhớ từ vựng mới",
+                    "OurFormules": "Các công thức của chúng tôi giúp bạn hình thành câu một cách dễ dàng",
+                    "AndManyOtherWaysRightNow": "Và nhiều cách thức khác giúp bạn thông thạo tiếng Anh và trở thành phiên bản hoàn hảo"
+                },
+                "CustomizeYourProgram": {
+                    "Title": "Đang tạo một kế hoạch học tập cá nhân",
+                    "EducationPlanIsDone": "{value},\nmọi thứ đã sẵn sàng"
+                }
+            },
+            "RightPlace": {
+                "Title": "{value}, bạn đã đến đúng chỗ rồi đấy"
+            }
+        },
+        "PictureThis": {
+            "Welcome": {
+                "EasyWayToSpeakEnglish": "<b>Một cách đơn giản </b> để\u00a0bắt đầu nói tiếng Anh!"
+            },
+            "Program": {
+                "AllProgramA1B2": "Hoàn thành khóa học từ Cơ Bản (A1) đến Trên Trung Cấp (B2)",
+                "Excercizes": "6,000 bài tập ngữ pháp",
+                "Certificates": "Trên 800K chứng chỉ đã được cấp",
+                "SevenDaysForFree": "1 tuần miễn phí, sau đó {price}/năm",
+                "RemindMe": "Nhắc tôi trước khi kỳ hạn dùng thử kết thúc"
+            },
+            "TryTwoWeeks": {
+                "HowPremiumWork": "Cách thức thời gian dùng thử của bạn hoạt động",
+                "StillUndecided": "Vẫn chưa quyết định được?Thử thêm 2 tuần miễn phí",
+                "Today": "Hôm nay",
+                "OpenFullAccessToPremium": "Mở khóa truy cập toàn bộ các tính năng Premium của Simpler",
+                "Day1To13": "Ngày 1-{days}",
+                "EnjoyLearning": "Học tập thật vui và đạt kết quả xuất sắc nhờ Simpler!",
+                "Day14": "Ngày {days}",
+                "YouWillBeCharged": "Bạn sẽ bị tính phí - hủy bất kỳ lúc nào trong 24h trước đó",
+                "OfferAvailability": "Ưu đãi này chỉ khả dụng trên màn hình này",
+                "Free14Days": {
+                    "few": "{days} ngày miễn phí, sau đó {price}/năm",
+                    "other": "{days} ngày miễn phí, sau đó {price}/năm"
+                },
+                "CancelAnytime": "Hủy bất cứ lúc nào",
+                "NoPaymentsNow": "Không cần thanh toán ngay"
+            }
+        },
+        "Personal": {
+            "Splashscreen": {
+                "Hi": "Xin chào!",
+                "IAmSimpler": "Tớ là Simpler",
+                "HiSubtitle": "Cách dễ dàng nhất để học\ntiếng Anh!",
+                "ChosenLine1": "Tớ đã được",
+                "ChosenLine2": "15 triệu người trên thế giới lựa chọn"
+            },
+            "Plan": {
+                "Title": "Cùng khởi tạo kế hoạch học tập cá nhân nào",
+                "ButtonGo": "Đi thôi",
+                "AlreadyHaveAccount": "Tôi đã có tài khoản"
+            },
+            "Survey": {
+                "Description": "Bạn đồng ý như thế nào với khẳng định này?",
+                "AudioTitle": "Tôi thích học ngôn ngữ thông qua lắng nghe cách phát âm",
+                "AudioAgree": "<b>Đôi tai của bạn là chìa khóa để học ngôn ngữ mới! 👂</b> Phương pháp học từ chúng tôi sẽ giúp bạn say mê với từng giai điệu ngôn ngữ, biến quá trình học trở nên lôi cuốn và cực kỳ hiệu quả!",
+                "AudioNeutral": "<b>Chúng tôi đã hiểu! 🫂</b> Chúng tôi sẽ xem xét câu trả lời của bạn để phát triển kế hoạch học tối ưu nhất dành riêng cho bạn",
+                "AudioDisagree": "<b>Có rất nhiều cách để học một ngoại ngữ mới. 🙂</b> Trên Simpler, các phương thức học bằng hình ảnh thậm chí còn hữu hiệu hơn cả!",
+                "VisualTitle": "Tôi dễ dàng ghi nhớ thông tin khi thấy nó trên màn hình",
+                "VisualAgreeTitle": "Cách tiếp cận bằng hình ảnh tăng khả năng ghi nhớ và thấu hiểu 👍",
+                "VisualAgreeSubtitle": "Simpler minh họa từ vựng mới bằng hình ảnh giúp người học thuộc từ nhanh chóng",
+                "VisualDisagreeTitle": "Tất cả mọi người đều có điểm mạnh riêng trong học tập ☝",
+                "VisualDisagreeSubtitle": "Tuy vậy, các phương pháp học bằng hình ảnh lại cực kỳ hữu ích khi giúp tăng khả năng ghi nhớ từ mới",
+                "MotivationTitle": "Tôi có động lực học khi được giao tiếp với người bản xứ",
+                "MotivationAgree": "<b>Giao tiếp với người bản ngữ là nguồn cảm hứng tuyệt vời để phát triển. 🗣️</b> Điều này giúp bạn lĩnh hội văn hóa và trau dồi các kỹ năng nói",
+                "MotivationNeutral": "<b>Chúng tôi đã hiểu! 🫂</b> Chúng tôi sẽ xem xét câu trả lời của bạn để phát triển kế hoạch học tối ưu nhất dành riêng cho bạn",
+                "MotivationDisagree": "<b>Tất cả mọi người đều tìm thấy động lực của riêng mình trong quá trình học ngoại ngữ. ☝️</b> Chúng tôi sẽ cung cấp cho bạn đa dạng các phương pháp học tối ưu khác nhau",
+                "GrammarTitle": "Tôi thích học các quy tắc ngữ pháp và cấu trúc ngôn ngữ",
+                "GrammarAgree": "<b>Hiểu rõ ngữ pháp sẽ giúp bạn trở nên tự tin hơn khi nói chuyện. ✨</b> Đây là chìa khóa giúp bạn xây dựng nền tảng đúng đắn và Simpler luôn cố gắng để tạo ra cách truyền tải ngữ pháp tối ưu nhất",
+                "GrammarDisagree": "<b>Chúng tôi chia sẻ cách học không đặt nặng tính logic! ☝️</b> Cần lưu ý rằng chúng tôi đã phát triển ra cách dạy ngữ pháp độc đáo không đòi hỏi bạn phải bỏ nhiều công sức",
+                "GrammarNeutral": "<b>Chúng tôi đã hiểu! 🫂</b> Chúng tôi sẽ xem xét câu trả lời của bạn để phát triển kế hoạch học tối ưu nhất dành riêng cho bạn",
+                "SystemTitle": "Tôi thích cách học linh hoạt không bị gò bó theo khung chương trình hay thứ tự học",
+                "SystemAgree": "<b>Cách học linh hoạt góp phần đa dạng hóa và tạo động lực học tập ✨</b> Chúng tôi có sứ mệnh đem đến trải nghiệm học tương tự như thế",
+                "SystemDisagree": "<b>Cách học tuân theo cấu trúc có thể hiệu quả hơn. 🎗️</b> Tuy nhiên, đa dạng hóa phương thức học lại có tác dụng truyền cảm hứng hơn",
+                "SystemNeutral": "<b>Chúng tôi đã hiểu! 🫂</b> Chúng tôi sẽ xem xét câu trả lời của bạn để phát triển kế hoạch học tối ưu nhất dành riêng cho bạn",
+                "ProgressTitle": "Tôi đánh giá sự tiến bộ của mình thông qua khả năng áp dụng những thứ đã học",
+                "ProgressAgree": "<b>Áp dụng kiến thức vào cuộc sống là cách tốt nhất để đo lường sự tiến bộ ☝️</b> Simpler tạo điều kiện cho bạn kiểm tra kỹ năng ngoại ngữ thường xuyên",
+                "ProgressDisagree": "<b>Đo lường sự tiến bộ có thể rất khác đối với mọi người. 🤗</b> Thế nhưng, áp dụng kiến thức vào đời sống mới thực sự giúp kỹ năng của bạn phát triển vượt bậc",
+                "ProgressNeutral": "<b>Chúng tôi đã hiểu! 🫂</b> Chúng tôi sẽ xem xét câu trả lời của bạn để phát triển kế hoạch học tối ưu nhất dành riêng cho bạn"
+            },
+            "SurveyResults": {
+                "DetermineYourStyle": "Đang xác định phong cách học tập cá nhân của bạn...",
+                "StyleHint": "Chúng tôi sẽ xét đến mọi thông tin bạn đã cung cấp và tạo kế hoạch học tập phù hợp!",
+                "AudioStyleTitle": "Âm Thanh",
+                "AudioStyleSubtitle": "Cách học của bạn giống như bản giao hưởng âm sắc của từ ngữ. Giọng nói, trọng âm và nhấn nhá đều cực kỳ quan trọng đối với bạn. Thế giới của bạn bừng sáng khi được nghe thấy ngôn ngữ hòa âm!",
+                "VisualStyleTitle": "Hình Ảnh",
+                "VisualStyleSubtitle": "Cách học của bạn là một bức tranh đa sắc màu của ngữ nghĩa và biểu cảm. Từng cụm từ mới mẻ với bạn đều có khả năng kích thích trí tưởng tượng để bạn thoải mái áp lên đó những hình ảnh sống động dễ nằm lòng!",
+                "SpeakerStyleTitle": "Diễn Giả",
+                "SpeakerStyleSubtitle": "Bạn có khuynh hướng khám phá ngôn ngữ mới thông qua tương tác và giao tiếp. Đối với bạn, ngôn ngữ là công cụ để kết nối với mọi người. Bạn luôn muốn hòa mình vào môi trường thực hành chia sẻ, trao đổi các ý tưởng và cảm xúc bằng ngôn ngữ mới!",
+                "FounderStyleTitle": "Kiến Trúc Sư",
+                "FounderStyleSubtitle": "Với bạn, ngôn ngữ là một trò xếp hình phức tạp cần được phá giải. Bạn tìm thấy vẻ đẹp của ngôn ngữ trong những quy tắc và cấu trúc, ham thích tìm tòi từng mảnh ghép ngữ pháp để tạo nên bức tranh hoàn chỉnh!",
+                "ResearcherStyleTitle": "Nhà Nghiên Cứu",
+                "ResearcherStyleSubtitle": "Ngôn ngữ đối với bạn giống như một bức tranh khảm vậy, từng mảnh nhỏ đều có đóng góp quan trọng cho toàn bộ hệ thống. Bạn có thể tận dụng tối đa mọi loại hình học tập và đó là điều làm nên phong cách học độc đáo này!",
+                "HunterStyleTitle": "Nhà Thám Hiểm",
+                "HunterStyleSubtitle": "Có vẻ như bạn chưa xác định được phương hướng. Đừng lo! Cùng nhau chúng ta sẽ bước qua mọi lộ trình và tìm ra cách thức học phù hợp nhất dành cho bạn. Simpler đã sẵn sàng trợ giúp bạn vén màn thế giới ngôn ngữ đầy bí ẩn.",
+                "ResultTitle": "Ok, đây là cách chúng tôi phân bổ sức mạnh của bạn vào quá trình học Tiếng Anh"
+            },
+            "SurveyReview": {
+                "Super": "Siêu Tuyệt!",
+                "Title": "Học Tiếng Anh có thể khó đấy nhưng Simpler biến quá trình học trở nên dễ dàng",
+                "Review": "Trong số những app tôi đã xài thử, Simpler tỏa sáng vì cách học tiếng Anh vững chắc từng bước. Những câu chuyện trinh thám ly kỳ luôn giúp tôi học từ mới nhanh hơn gấp nhiều lần"
+            },
+            "Questions": {
+                "QuestionOneTitle": "Trình độ tiếng Anh của bạn ở mức nào?",
+                "QuestionOneAnswer1": "Tôi mới bắt đầu học",
+                "QuestionOneAnswer2": "Tôi biết vài từ",
+                "QuestionOneAnswer3": "Tôi có thể đọc và nói",
+                "QuestionTwoTitle": "Vì sao bạn muốn học tiếng Anh?",
+                "QuestionTwoAnswer1": "✈️ Để thoải mái đi du lịch",
+                "QuestionTwoAnswer2": "\uD83D\uDCBC Để có sự nghiệp thành công",
+                "QuestionTwoAnswer3": "\uD83E\uDDD1\u200D\uD83C\uDF93 Để đậu các kỳ thi",
+                "QuestionTwoAnswer4": "\uD83C\uDFA5 Đọc tin, xem phim, đọc sách",
+                "QuestionTwoAnswer5": "☺️ Cho vui",
+                "QuestionThreeTitle": "Lĩnh vực nào đòi hỏi bạn phải ưu tiên tăng vốn từ vựng trước?",
+                "QuestionThreeSubtitle": "Chọn 3 chủ đề",
+                "QuestionFourTitle": "Bạn hiểu tiếng Anh giao tiếp bằng miệng ở độ mức nào?",
+                "QuestionFourAnswer1": "Tôi không hiểu gì cả",
+                "QuestionFourAnswer2": "Tôi chỉ hiểu từng từ một",
+                "QuestionFourAnswer3": "Tôi hiểu được ý chính",
+                "QuestionFiveTitle": "Bạn thích thể loại nào dưới đây?",
+                "QuestionFiveSubtitle": "Chúng tôi sẽ chọn các câu chuyện giúp cải thiện kỹ năng đọc và nghe của bạn",
+                "QuestionFiveAnswer1": "\uD83C\uDF39 Tình cảm",
+                "QuestionFiveAnswer2": "\uD83D\uDC7B Kỳ bí",
+                "QuestionFiveAnswer3": "\uD83C\uDF7F Gia đình",
+                "QuestionFiveAnswer4": "\uD83E\uDD96 Phiêu lưu"
+            },
+            "PlanOutline": {
+                "Title": "Tuyệt, chúng tôi sẽ giúp bạn",
+                "Point1": "Tăng vốn từ vựng",
+                "Point1Subtitle": "Học thêm nhiều từ thuộc các chủ đề: ",
+                "Point2": "Từng bước lĩnh hội mọi quy tắc ngữ pháp",
+                "Point3": "Tiến bộ trong các kỹ năng đọc và nghe",
+                "Point4": "Bạn sẽ sớm chinh phục khả năng ngoại ngữ!"
+            },
+            "Targets": {
+                "Title": "Thiết lập mục tiêu",
+                "TargetOneTitle": "5 phút mỗi ngày",
+                "TargetOneSubtitle": "Từ từ thôi",
+                "TargetTwoTitle": "10 phút mỗi ngày",
+                "TargetTwoSubtitle": "Tự tin ghê",
+                "TargetTwoChances": "Cơ hội tiếp thu tiếng Anh của bạn sẽ tăng lên <b>2 lần</b>!",
+                "TargetThreeTitle": "15 phút mỗi ngày",
+                "TargetThreeSubtitle": "Quyết tâm đó",
+                "TargetThreeChances": "Cơ hội tiếp thu tiếng Anh của bạn sẽ tăng lên <b>4 lần</b>!",
+                "TargetFourTitle": "30 phút mỗi ngày",
+                "TargetFourSubtitle": "Ghê à nha",
+                "TargetFourChances": "Cơ hội tiếp thu tiếng Anh của bạn sẽ tăng lên <b>7 lần</b>!",
+                "Description1": "Xác định mục tiêu cụ thể sẽ giúp duy trì động lực học",
+                "Description3": "Lựa chọn đáng hoan nghênh cho việc học!"
+            },
+            "Notifications": {
+                "Title": "Tôi sẽ nhắc nhở bạn thực hành thường xuyên để xây dựng thói quen!",
+                "AllowIos": "Simpler sẽ gửi thông báo nhắc nhở cho bạn",
+                "AllowDenyIos": "Không muốn",
+                "AllowOkIos": "Cho phép",
+                "AllowAndroid": "Simpler sẽ gửi thông báo nhắc nhở cho bạn",
+                "AllowDenyAndroid": "Không muốn",
+                "AllowOkAndroid": "Cho phép"
+            },
+            "Carousel": {
+                "Title": "Đang tạo kế hoạch học tập cá nhân...",
+                "Review1": "Tôi đã học hơn 500 từ bằng Simpler\nchỉ trong 1 tháng",
+                "Review2": "Tôi đã bắt đầu hiểu mấy đoạn hội\nthoại tiếng Anh rồi",
+                "Review3": "Một cách học cực thú vị và đơn\ngiản để master tiếng Anh!",
+                "Name1": "Jean",
+                "Name2": "Bryan",
+                "Name3": "Leyna"
+            },
+            "Achieve": {
+                "Title": "75% người dùng Simpler đã đạt được mục tiêu của họ",
+                "Subtitle": "Và chúng tôi sẽ giúp bạn chạm đến ước mơ của mình"
+            },
+            "Basic": {
+                "Title": "60% học viên bắt đầu bằng kiến thức cơ bản",
+                "Subtitle": "Bạn không cần phải có kinh nghiệm từ trước để học tiếng Anh trên Simpler"
+            },
+            "Certificate": {
+                "Title": "Hãy hoàn thành mọi bài học và nhận Chứng Chỉ!",
+                "Subtitle": "Đây sẽ là lợi thế đắc giá để bạn tìm công việc mơ ước"
+            },
+            "YouAreAwesome": {
+                "Title": "Xin chúc mừng!",
+                "Subtitle": "Kế hoạch học tập cá nhân của bạn đã được khởi tạo thành công"
+            },
+            "StartToday": {
+                "Title": "Bắt đầu kế hoạch #{uid}\ncủa bạn ngay hôm nay \uD83D\uDE4C",
+                "TitleNoUuid": "Bắt đầu kế hoạch\ncủa bạn ngay hôm nay \uD83D\uDE4C",
+                "Point1": "Tài liệu học",
+                "Point2": "Thực hành cá nhân hóa",
+                "Point3": "Đánh giá kỹ năng",
+                "Point4": "Sửa Lỗi",
+                "Point5": "Các câu chuyện trinh thám hấp dẫn",
+                "Point6": "Gấp đôi số rương từ vựng",
+                "Free": "Miễn phí",
+                "Try": "Dùng thử với giá {price}",
+                "Remind": "<span>Chúng tôi sẽ nhắc bạn</span> thời điểm kết thúc dùng thử <span>trước 2ngày</span>",
+                "Notification": "Bạn sẽ nhận được một thông báo đẩy vào {date}",
+                "7DaysFree": "7 ngày miễn phí"
+            },
+            "Premium": {
+                "Title": "Chọn một gói kế hoạch sau 7 ngày dùng thử miễn phí",
+                "Title2": "Vẫn còn nghi ngờ? Dùng thử 7 ngày miễn phí",
+                "Subtitle2": "Bạn không phải thanh toán bây giờ. Bạn có một tuần để dùng thử mọi tính năng.",
+                "CancelAnytime": "Hủy bất kỳ lúc nào trong {value}",
+                "Saving": "GIÁ TRỊ NHẤT",
+                "Year": "Gói năm",
+                "Week": "1 tuần",
+                "12Month": "12 tháng * {price}  <span>{price2}</span>",
+                "PerWeek": "{price} / tuần",
+                "PerWeekAlternative": "{price} một tuần",
+                "NothingNow": "Không cần thanh toán ngay",
+                "StartNow": "Bắt đầu 7 ngày miễn phí",
+                "BestDeal": "PHỔ BIẾN",
+                "SevenDaysFreeYear": "7 ngày miễn phí, sau đó {price} một năm",
+                "SevenDaysFreeWeek": "7 ngày miễn phí, sau đó {price} một tuần",
+                "1place": "Quán quân",
+                "Nominee": "Đề cử",
+                "Reviews": "Hơn 500,000 đánh giá",
+                "Percent": "Tỷ lệ thành công của các học viên có câu trả lời giống bạn:",
+                "InMonth": "{level} sau một tháng",
+                "Now": "Hiện tại",
+                "YouAreHere": "Bạn đang ở đây",
+                "After4Weeks": "Sau 4 tuần",
+                "Reach": "Bạn sẽ đạt tới trình độ <b>{level}</b>",
+                "After3Months": "Sau 3 tuần",
+                "A1Description": "Bạn sẽ đủ năng lực tự giới thiệu về bản thân, trả lời những câu hỏi thông thường, hỏi xin chỉ đường hoặc giải quyết các nhu cầu cơ bản hàng ngày",
+                "A2Description": "Bạn sẽ đủ năng lực đọc các tác phẩm văn học chuyển thể bằng tiếng Anh và sử dụng rất nhiều cụm từ trong cuộc sống thường nhật",
+                "B1Description": "Bạn sẽ xem và hiểu được các chương trình TV mà không cần đến phụ đề, xây dựng hội thoại với người bản ngữ và có thể ra nước ngoài sinh sống",
+                "C1Description": "Bạn có thể đọc bất kỳ tác phẩm văn học nào, xin được việc tại một công ty đa quốc gia, viết chính xác tin nhắn hoặc thậm chí là bài báo bằng Tiếng Anh",
+                "TargetSubtitle": "Chỉ học {amount} phút một ngày!",
+                "20TimesMore": "Nhờ có Simpler, lượng từ vựng học được của bạn sẽ tăng lên gấp bội",
+                "WithoutSimpler": "KHÔNG CÓ SIMPLER",
+                "WithSimpler": "CÓ SIMPLER",
+                "MethodDescription": "Simpler áp dụng kỹ thuật lặp lại ngắt quãng* để giúp bạn đạt kết quả nhanh chóng nhưng lâu bền",
+                "Study": "Học",
+                "Day": "Ngày {number}",
+                "Repeat": "Ôn Tập {number}",
+                "Science": "*Phương pháp tốt nhất giúp tăng vốn từ vựng theo khoa học (SHK Kang, 2016)"
+            }
+        }
+    },
+    "PremiumPurple": {
+        "Header": "Truy cập Premium",
+        "Profitable": "Tiết kiệm",
+        "NoSubscription": "Không gói đăng ký",
+        "PerMonthJust" : "{amount}/tháng",
+        "PerYear": "/năm",
+        "PerMonth": "/tháng",
+        "PerForever": "/trọn đời",
+        "Title": "Các bài tập thực hành trong mọi bài học sẽ giúp bạn học nhanh hơn gấp ba lần!",
+        "TitleDetective": "Những câu chuyện trinh thám ly kỳ giúp bạn bổ sung thêm 5,000 từ mới vào vốn từ của mình!",
+        "TitleChest": "Khám phá sức mạnh của từ vựng. Tiếp thu thêm tới 600 từ mới trong vòng một tháng!",
+        "TitleTraining": "Bài tập và từ vựng mới u là chời",
+        "TitleDialog": "Hăng say với những cuộc đối thoại tiếng Anh. Từ các tình huống thường ngày cho tới nhập vai",
+        "TitleCheckpoint": "Kiểm tra kiến thức tiếng Anh và theo dõi quá trình tiến bộ của bạn",
+        "ChooseYourPlan": "Chọn gói kế hoạch tùy ý",
+        "Popular": "8 tháng miễn phí",
+        "OneMonth": "1 tháng",
+        "ThreeMonth": "3 tháng",
+        "Year": "12 tháng",
+        "Forever": "Vĩnh viễn",
+        "Hot": "Giảm sốc"
+    },
+    "PremiumHelloTalk": {
+        "Title": "Học nhanh hơn với Premium",
+        "StaticBannerTitle": "Premium cho người dùng mới!",
+        "AnimatedBannerTitle": "Premium thả ga không cần lo về giá!",
+        "TableHeader1": "Đặc quyền",
+        "TableHeader2": "Miễn phí",
+        "TableRow1": "Từ vựng và ngữ pháp",
+        "TableRow2": "Bài học thực hành",
+        "TableRow3": "Câu chuyện tương tác",
+        "TableRow4": "Chốt kiểm tra",
+        "TableRow5": "Đoạn hội thoại",
+        "SubscriptionOption1Duration": "12 tháng",
+        "SubscriptionOption2Duration": "1 tháng",
+        "SubscriptionOption3Duration": "Trọn Đời",
+        "SubscriptionPerMonth": "{price} / tháng",
+        "NoSubscription": "KHÔNG GÓI ĐĂNG KÝ",
+        "SavePercent": "Tiết kiệm {percent}%!",
+        "HotSale": "ƯU ĐÃI HẤP DẪN",
+        "Button": "Tiếp Tục với Premium"
+    },
+    "CloseApp": {
+        "Title": "Rời đi sớm vậy?",
+        "CancelButton": "Thực hành thêm",
+        "ConfirmButton": "Thoát"
+    },
+    "DetermineLanguageLevel": {
+        "Title": "Chúng ta hãy tạo danh sách các chủ đề để học",
+        "NoviceButton": "Bắt đầu từ kiến thức cơ bản",
+        "AdvancedButton": "Làm một bài kiểm tra nhanh"
+    },
+    "FirstTest": {
+        "CardHeader": "Câu được sắp xếp đã chính xác chưa?",
+        "IncorrectButton": "Không chính xác",
+        "ExitQuestion": "Bạn muốn hoàn thành bài kiểm tra?",
+        "ExitQuestionDescription": "Tiến độ hiện tại sẽ bị mất",
+        "Skip": "Tôi không biết câu trả lời",
+        "FinishTest": "Kiểm tra đã hoàn thành",
+        "RecommendedLevel": "Cấp độ đề cử",
+        "FinishTestStartButton": "Bắt đầu học",
+        "level1Test": "Bắt đầu từ những điều cơ bản",
+        "level2Test": "Hãy lặp lại các quy tắc",
+        "level3Test": "Tiếp tục thực hành",
+        "level4Test": "Hiểu biết ngôn ngữ tốt"
+    },
+    "RateApp": {
+        "0": {
+            "title": "Đánh giá chúng tôi",
+            "subtitle": "Đánh giá ứng dụng và giúp người dùng khác tìm ra ứng dụng này!"
+        },
+        "1": {
+            "title": "Kinh Khủng",
+            "subtitle": "Gửi email cho chúng tôi để chúng tôi có thể cải thiện nó tốt hơn!"
+        },
+        "2": {
+            "title": "Tồi Tệ",
+            "subtitle": "Gửi email cho chúng tôi để chúng tôi có thể cải thiện nó tốt hơn!"
+        },
+        "3": {
+            "title": "Có thể tốt hơn thế",
+            "subtitle": "Gửi email cho chúng tôi để chúng tôi có thể cải thiện nó tốt hơn!"
+        },
+        "4": {
+            "title": "Tốt",
+            "subtitle": "Chúng tôi nghĩ bạn cũng rất tuyệt vời! Xin hãy để lại một đánh giá trên {store}"
+        },
+        "5": {
+            "title": "Tuyệt Vời",
+            "subtitle": "Chúng tôi nghĩ bạn cũng rất tuyệt vời! Xin hãy để lại một đánh giá trên {store}"
+        },
+        "V1": {
+            "title": "Yêu Thích Simpler?",
+            "bad": "Hãy để lại một đánh giá để chúng tôi có thể cải thiện nó thậm chí tốt hơn nữa!",
+            "good": "Chúng tôi nghĩ bạn cũng rất tuyệt vời! Hãy giúp những người dùng khác tìm thấy chúng tôi bằng cách để lại một đánh giá trên {store}"
+        },
+        "V2": {
+            "Title": "Đánh Giá Simpler",
+            "Subtitle": "Giúp những người dùng khác tìm hiểu về ứng dụng và giúp chúng tôi cải thiện nó tốt hơn!",
+            "RateButton": "Đánh giá chúng tôi trên {store}",
+            "ReportButton": "Báo cáo một vấn đề",
+            "CancelButton": "Không, cám ơn"
+        }
+    },
+    "CoinsAccrual": {
+        "Loading": "Kết nối tới máy chủ... RocketCoins không khả dụng",
+        "Failure": "Không thể kết nối tới máy chủ. RocketCoins chưa được thêm vào",
+        "Earned": "Bạn đã kiếm được",
+        "Bonus": "Thưởng chuỗi trả lời"
+    },
+    "RatingPosition": {
+        "PositionUp": "Bạn đã dịch chuyển lên!",
+        "RatingShift": "+{shift}"
+    },
+    "Premium": {
+        "TransferTo": "Tiếp tục với",
+        "OpenOpportunities": "Có toàn quyền truy cập",
+        "BlinkistPopup": {
+            "Title": "Chọn một gói kế hoạch sau 7 ngày dùng thử miễn phí",
+            "BtnTitle": "Bắt đầu 7 ngày miễn phí",
+            "SavePercent": "Tiết kiệm {percent}"
+        },
+        "TrialPremiumText": {
+            "few": "Mua <b>Premium</b> Simpler để được\n<b>{days} ngày sử dụng miễn phí</b>",
+            "other": "Mua <b>Premium</b> Simpler để được\n<b>{days} ngày sử dụng miễn phí</b>"
+        },
+        "Hot": "Ưu đãi đặc biệt",
+        "SalePurchase": {
+            "Hint": "gói 12 tháng",
+            "PerMonthPurchase": "/ tháng",
+            "Description": "Nhận quyền truy cập Premium với mức giá thấp nhất!"
+        },
+        "AfterLesson": {
+            "SpecialOffer": "Ưu đãi đặc biệt",
+            "ForeNewUsers": "Chỉ dành cho người dùng mới!",
+            "GetOffer": "Nhận ưu đãi",
+            "PerMonth": "/ tháng"
+        },
+        "AfterLessonV2": {
+            "DontOfferAgain": "Đừng chào mời tôi nữa",
+            "Subscription": "Gói đăng ký Simpler sẽ tự động được gia hạn vào cuối kỳ hạn hiện tại. Bạn có thể quản lý các gói đăng ký của mình trong tài khoản {store} ở mục Cài Đặt."
+        },
+        "ThemeSale": {
+            "Default": "Siêu giảm giá chỉ dành cho những sinh viên triển vọng",
+            "Halloween": "Phát quà giảm giá, đẩy lùi nỗi sợ học Tiếng Anh",
+            "Columbus": "Khai phá chân trời mới và học Tiếng Anh bằng ưu đãi hiếm có khó tìm từ chúng tôi",
+            "NewYear": "Khởi đầu chương mới! Học Tiếng Anh nhờ chiết khấu tuyệt vời",
+            "ValentinesDay": "Yêu thêm Tiếng Anh. Ưu đãi giảm giá thương lắm người ơi!",
+            "LunarNewYear": "Biến ước mơ thành hiện thực! Ưu đãi giảm giá thần thánh!",
+            "StPatricDay": "Học Tiếng Anh mãi vui như người Ireland",
+            "EarthHour": "Giảm tiêu thụ năng lượng và tiết kiệm tiền cùng ưu đãi đặc biệt này",
+            "SpaceDay": "Tiếng Anh là đỉnh cao tối thượng! Chinh phục nó bằng ưu đãi siêu tuyệt này nhé",
+            "AprilFools": "Bắt lấy chiết khấu này ngay khi còn có thể",
+            "StarWars": "Mong ưu đãi giảm giá sẽ va vào bạn!",
+            "ChildrenDay": "Trẻ thơ ham học đến thế. Simpler ủng hộ bằng ưu đãi khủng giảm giá cực sâu",
+            "LanguageDay": "Siêu giảm giá Ngày Ngôn Ngữ của Châu Âu",
+            "BlackDay": "Giảm giá ngay khóa học Tiếng Anh hay nhất",
+            "WomenDay": "Tặng bạn chiết khấu lan tỏa yêu thương! Hãy trở thành bậc thầy Tiếng Anh cùng Simpler!",
+            "SpringSale": "Lì xì mừng xuân. Nắm lấy cơ hội hưởng ưu đãi chiết khấu đặc biệt dịp đầu năm cho khóa học Tiếng Anh tốt nhất!",
+            "LaborDay": "Nghỉ ngơi xả hơi và đầu tư cho chính bạn - ưu đãi giảm giá khóa học Tiếng Anh tốt nhất nhân Ngày Quốc Tế Lao Động!",
+            "SummerSale": "Chiết khấu mùa hè cực cháy. Nâng tầm kỹ năng Tiếng Anh của bạn với Simpler!",
+            "SolsticeDay": "Mừng ngày dài nhất của năm với ưu đãi giảm giá quá đã từ Simpler!",
+            "ChocolateDay": "Chúc Mừng Ngày Sô Cô La! Cắn một miếng chiết khấu ngon lành cho khóa học Tiếng Anh tuyệt vời nhất thôi nào!",
+            "FriendsDay": "Tình bạn kết nối tất cả chúng ta hệt như Tiếng Anh vậy! Chào mừng Ngày Tình Bạn với ưu đãi giảm giá độc quyền!",
+            "CatsDay": "Meow! Nhanh tay vồ ngay ưu đãi giảm giá hấp dẫn cho gói Premium – đừng để vụt mất!",
+            "HarvestDay": "Gặt hái kiến thức đồ sộ từ chiết khấu đặc biệt trong Lễ Hội Mùa Gặt này!",
+            "SchoolDay": "Học - học nữa - học mãi. Trở lại trường đầy hứng khởi với ưu đãi giảm giá dành cho truy cập Premium!",
+            "FallSale": "Khi mùa thu rụng lá, chiết khấu rơi đầy nhà! Nâng cấp trình độ Tiếng Anh với ưu đãi mùa thu đặc biệt của chúng tôi!",
+            "CyberMonday": "Công nghệ cải thiện cuộc sống và chiết khấu Thứ Hai Công Nghệ ở đây để cải thiện kỹ năng Tiếng Anh của bạn!",
+            "WinterSale": "Đừng để mùa đông lạnh giá đóng băng sự tiến bộ của bạn - hãy làm ấm khóa học Tiếng Anh bằng ưu đãi cuối năm nào!",
+            "StarsFestival": "Tỏa sáng trên hành trình học Tiếng Anh bằng ưu đãi rực rỡ nhân dịp Lễ Hội Các Vì Sao!"
+        },
+        "Drops": {
+            "LearnThousandsWords": "Học thêm hàng nghìn từ mới mà không bị giới hạn hay quảng cáo",
+            "RegularPayments": "Thành toán định kỳ",
+            "PerYear": "{price}/năm",
+            "PerMonth": "{price}/tháng",
+            "OtherPlans": "Các kế hoạch khác",
+            "EveryLessonPractice": "Thực hành trong mọi bài học",
+            "YouCanLearnForFree": "Bạn có thể học miễn phí. Nhưng Thực Hành sẽ giúp tiến bộ rất nhanh!",
+            "NoAdvertisement": "Không quảng cáo",
+            "SaveYourTime": "Tiết kiệm thời gian để tập trung học thật hiệu quả",
+            "Dialogs": "Các đoạn hội thoại",
+            "GetImmersedInConversations": "Hăng say với những cuộc đối thoại tiếng Anh. Từ các tình huống thường ngày cho tới nhập vai",
+            "PremiumPlans": "Các gói Premium",
+            "DifferentPaymentMethods": "Nhiều phương thức thanh toán, một gói Premium",
+            "MonthlyPlan": "Gói tháng",
+            "AMonth": "{price} / tháng",
+            "AnnualPlan": "Gói năm",
+            "AYear": "{price} / năm.",
+            "BestValue": "GIÁ TRỊ NHẤT!",
+            "Forever": "Trọn Đời",
+            "SinglePayment": "Thanh toán một lần {price}",
+            "NewWayToLearn": "Cách thức học\ntập mới",
+            "ShortLessons": "Bài học ngắn, thực hành hiệu quả và thi đua bứt phá. Vui và tràn đầy động lực!",
+            "DetectiveStories": "Những câu chuyện trinh thám",
+            "GrippingDetectiveStories": "Những câu chuyện trinh thám ly kỳ giúp bạn bổ sung thêm 5,000 từ mới vào vốn từ của mình!",
+            "TwiceAsManyChests": "Gấp đôi số lượng rương",
+            "DiscoverThePowerOfVocabulary": "Khám phá sức mạnh của từ vựng. Tiếp thu thêm tới 300 từ mới trong vòng một tháng!",
+            "Checkpoints": "Các điểm Checkpoint",
+            "CheckYourEnglishKnowledge": "Kiểm tra kiến thức tiếng Anh và theo dõi quá trình tiến bộ của bạn"
+        },
+        "Lensa": {
+            "GetAccessToSimplerPremium": "Quyền truy cập Simpler Premium",
+            "SpeakingPractice": "Luyện nói",
+            "GrammarExcercises": "Bài tập ngữ pháp",
+            "RegularChecks": "Chốt kiểm tra liên tục",
+            "AllBasicGrammar": "Mọi ngữ pháp cơ bản",
+            "AllDetectiveStories": "Mọi câu chuyện tương tác",
+            "SavePercent": "Tiết kiệm {percent}",
+            "YearPrice": "{totalprice}/năm ({monthprice}/tháng)",
+            "Activate": "Kích hoạt",
+            "GetFullAccess": "Có toàn quyền truy cập",
+            "ChoosePlan": "Chọn một gói",
+            "UnlockPremiumFeatures": "Mở khóa các tính năng Premium",
+            "Collapse": "Ẩn",
+            "SinglePaymentWithoutSubscription": "thanh toán một lần duy nhất"
+        },
+        "Timer": {
+            "StartLearnWithBigDiscount": "Bắt đầu học Tiếng Anh với ưu đãi giảm giá siêu to",
+            "TillOfferExpires": "Ưu đãi kết thúc sau",
+            "Hours": "giờ",
+            "Minutes": "phút",
+            "Seconds": "giây"
+        },
+        "PaidEveryYear": "{price}   thanh toán mỗi 12 tháng",
+        "Detective": {
+            "PoliceChiefMessage": "Lời nhắn từ cảnh sát trưởng",
+            "OnlyForTrueDetectives": "Chỉ dành cho các thám tử đích thực!",
+            "YouHaveProvenYouAreGood": "Bạn đã chứng tỏ được năng lực! Nhận quyền truy cập đầy đủ và giải quyết vụ này!",
+            "RewardForYourSuccess": "Phần thưởng cho thành công của bạn!"
+        },
+        "SuccessfulPurchase": {
+            "Title": "Chào mừng đến với Câu Lạc Bộ Simpler",
+            "Subtitle": "Thực hành hàng ngày và tiến bộ tức thì trong việc học ngôn ngữ của bạn!",
+            "Button": "Tiếp tục học"
+        },
+        "Main": {
+            "TitleUnlock": "Mở khóa học của bạn trong Simpler",
+            "EnableFreeTrial": "Vẫn chưa xác định được? Dùng thử miễn phí!",
+            "Subscribe": {
+                "Title": "Mở khóa và tiếp tục",
+                "Label": "Tiết kiệm {value}%"
+            },
+            "TryFreeTrial": {
+                "Title": "Bắt đầu dùng thử miễn phí",
+                "TitleiOS": "Dùng thử miễn phí & đăng ký",
+                "DescriptionCancel": "Hủy bất kỳ lúc nào trong {store}",
+                "Label": "Hãy thử ứng dụng miễn phí"
+            },
+            "OneMonthPrice": "<b>1 tháng:</b> {price}",
+            "YearPriceDescription": "<b>1 năm:</b> {price} ({pricePerMonth}/tháng)",
+            "YearPriceDescription2": "<b>1 năm:</b> {price} (<s>{crossedPrice}</s> {pricePerMonth}/tháng). Hủy bất kỳ lúc nào.",
+            "YearPriceTrialDescription": "<b>7 ngày dùng thử miễn phí:</b><br> Sau giai đoạn dùng thử {price}/năm ({pricePerMonth}/tháng)",
+            "YearPriceTrialDescription2": "<b>7 ngày dùng thử miễn phí.</b> Sau giai đoạn dùng thử {price}/năm. Hủy bất kỳ lúc nào."
+        },
+        "V2": {
+            "View1": {
+                "Title": "Gói này sẽ giúp bạn hoàn thành mục tiêu",
+                "Items": {
+                    "1": "Tất cả bài học và bài tập",
+                    "2": "Tất cả chuyện Trinh Thám",
+                    "3": "Gấp đôi danh sách từ vựng"
+                },
+                "Button": "Tôi có thực sự cần nó?"
+            },
+            "View2": {
+                "Title": "Có, gói này rất quan trọng",
+                "Items": {
+                    "1": "Theo các thống kê, học viên sử dụng Simpler PASS có thể hoàn thành khóa học nhanh <b>gấp 3 lần</b>",
+                    "2": "Họ liên tục <b>có động lực cao</b> và học lên tới <b>1,000 từ mỗi tháng</b>",
+                    "3": "Họ <b>thích thú với quá trình học</b> nhiều hơn, vì họ được tiếp cận với lượng lớn các bài tập đa dạng"
+                },
+                "Button": "Nghe có vẻ rất tuyệt!"
+            },
+            "View3": {
+                "Title": "Chúng tôi tự hào với thành tựu của học viên!",
+                "Subtitle": "Trung bình, học viên hoàn thành một cấp và qua cấp tiếp theo trong vòng 1 tháng",
+                "Button": "Tôi cũng làm được!"
+            },
+            "View4": {
+                "Title": "Và bạn không phải trả tiền!",
+                "Items": {
+                    "1": "Bạn sẽ có <b>7 ngày</b> để dùng thử <b>miễn phí</b>",
+                    "2": "Bạn có thể <b>hủy</b> đăng ký Simpler PASS bất cứ lúc nào",
+                    "3": "Bạn sẽ có thể <b>thấy được kết quả của mình</b> trên bảng điểm và tự mình cảm nhận về khóa học!"
+                },
+                "Button": "Nhận ngay và bắt đầu"
+            }
+        },
+        "Experiment": {
+            "V11Reasons": {
+                "FirstReason": "Hơn 5000 bài tập ngữ pháp",
+                "SecondReason": "Các câu chuyện trinh thám gay cấn",
+                "ThirdReason": "Thực hành đọc và nghe",
+                "FourthReason": "Gấp đôi số lượng bộ từ vựng",
+                "FifthReason": "Ôn tập không giới hạn",
+                "SixthReason": "Các điểm kiểm tra thường xuyên",
+                "SevenReason": "Chứng nhận hồ sơ của bạn"
+            },
+            "V9Reasons": {
+                "FirstReason": "Tất cả bài học và bài tập",
+                "SecondReason": "Tất cả chuyện Trinh Thám",
+                "ThirdReason": "6.000 bài tập ngữ pháp"
+            },
+            "V11Title": "Mở khóa tính năng Premium",
+            "V9Title": "Truy cập Premium",
+            "FirstPurchaseTitle": "Vĩnh viễn",
+            "SecondPurchaseTitle": "1 tháng",
+            "SixMonthPurchaseTitle": "6 tháng",
+            "PerMonth": "mỗi tháng",
+            "V11ThirdPurchaseTitle": "12 tháng",
+            "V9ThirdPurchaseTitle": "1 năm",
+            "HotSale": "Ưu đãi hấp dẫn",
+            "V11Label": "Giá ưu đãi",
+            "V9Label": "Tiết kiệm 74%"
+        },
+        "V4": {
+            "BuyPremium": {
+                "Header": "Sử dụng gói Simpler Premium 7 ngày miễn phí",
+                "ItemLabel": "Phổ Biến",
+                "Button": "Bắt đầu dùng thử miễn phí",
+                "ButtonIos": "Dùng thử miễn phí & đăng ký",
+                "DaysForFree": {
+                    "few": "{days} ngày\nMiễn Phí",
+                    "other": "{days} ngày\nMiễn Phí"
+                },
+                "SevenFreeDays": "7 ngày\nMiễn Phí",
+                "FourteenFreeDays": "14 ngày\nMiễn Phí",
+                "PricePerThreeMonth": "sau đó {price}\ntrong 3 tháng\n{weekPrice}/tuần",
+                "PricePerYear": "sau đó {price}\nmột năm\n{weekPrice}/tuần",
+                "PricePerWeek": "sau đó\n{weekPrice}/tuần"
+            }
+        },
+        "BlinkistStartTrialBtn": "Dùng thử miễn phí",
+        "Profile": {
+            "PremiumActivated": "Premium\nđã được kích hoạt",
+            "MyOpportunities": "Các tính năng hiện có:"
+        },
+        "DemoPopup": {
+            "Title": "Để truy cập Thực Hành, hãy kích hoạt Premium",
+            "Subtitle": "Với Thực Hành, bạn có thể học ngôn ngữ nhanh gấp 4 lần!",
+            "StopPractice": "Thoát Thực Hành",
+            "DialogTitle": "Kích hoạt Premium để truy cập các Hội Thoại",
+            "DialogSubtitle": "Các Hội Thoại giúp bạn thực hành nói chuyện như đời thực",
+            "StopDialog": "Thoát Hội Thoại",
+            "CheckpointTitle": "Kích hoạt Premium để truy cập các Checkpoint",
+            "CheckpointSubtitle": "Các Checkpoint giúp bạn hiểu rõ những gì mình đã học tốt và những gì cần trau dồi",
+            "StopCheckpoint": "Thoát Checkpoint",
+            "DetectiveTitle": "Để hỏi nhân chứng, hãy kích hoạt Premium",
+            "DetectiveSubtitle": "Thực hành theo thực tế, cải thiện các kỹ năng nghe của bạn và học từ mới",
+            "StopDetective": "Dừng cuộc điều tra"
+        },
+        "Offer": {
+            "Premium": "Simpler Premium",
+            "Title": "Оплачивая Premium, я принимаю условия оплаты и её автоматического продления, указанные в ",
+            "Offer": "оферте",
+            "Button": "Принять условия"
+        },
+        "EmailVerification": {
+            "Title": "Укажите вашу почту, чтобы мы выслали кассовый чек",
+            "FieldHint": "Email",
+            "Confirm": "Принять условия и оплатить"
+        },
+        "Beeline": {
+            "HasBeelineButton": "У меня уже есть Premium",
+            "HasBeelineButtonV2": "У меня Premium {value}",
+            "GetPremiumButton": "Хочу получить Premium",
+            "ActivationTitle": "Активация\nPremium-доступа",
+            "EnterPhone": "Введите ваш номер телефона",
+            "PremiumNotAllowed": "К сожалению, на данном номере нет Premium-доступа. Вам необходимо подключить Premium-доступ",
+            "EnterCode": "Введите код из SMS",
+            "ResenedCode": "Отправить ещё раз через {value} сек",
+            "GetNewCode": "Получить новый код",
+            "WrongCode": "Неверный код. Попробуйте ещё раз",
+            "Continue": "Далее",
+            "CheckAgain": "Проверить ещё раз",
+            "ViewRates": "Посмотреть тарифы",
+            "ServerNotResponce": "Сервер не отвечает. Повторите попытку или попробуйте позднее.",
+            "Repeate": "Повторить"
+        },
+        "Helper": {
+            "Answering": "Các câu hỏi để cân nhắc:",
+            "Question1": "Tôi có chắc học được tiếng Anh không?",
+            "Answer1": "Chắc chắn rồi, bạn sẽ được cung cấp toàn bộ các công cụ cần thiết để xây dựng vốn từ, học ngữ pháp và thực hành. Ngoài ra, cơ chế học mà chơi của chúng tôi sẽ giúp tiến trình học trở nên ly kỳ, thú vị và hiệu quả hơn rất nhiều. Bạn chắc chắn sẽ học được tiếng Anh! 🙌",
+            "Question2": "Giá cả liệu có hợp lý?",
+            "Answer2": "Học Tiếng Anh với Simpler chính là đầu tư cho tương lai của bạn. Chúng tôi đã biến trải nghiệm đầu tư này trở nên CỰC KỲ phải chăng. Hãy chọn gói phù hợp nhất với bạn và cảm nhận khả năng tiến bộ nhanh chóng đến bất ngờ! 👏",
+            "Question3": "Tôi có thể hủy gói đăng ký không?",
+            "Answer3": "Đương nhiên rồi! Bạn có thể hủy gói đăng ký của mình mọi lúc. Nếu bạn xác định mình không còn cần đến quyền truy cập Premium nữa, chỉ cần bấm hủy gói trong {store}. Bạn vẫn sẽ được hưởng trọn các tính năng của gói cho đến cuối kỳ mà bạn đã hoàn tất thanh toán! 👍",
+            "OpenedOnceFirstItem": "Chúng tôi muốn hỗ trợ bạn",
+            "OpenedOnceSecondItem": "Xin lưu ý rằng gói đăng ký theo năm hiện đang có ưu đãi đặc biệt dành cho bạn. Thanh toán ngay hôm nay để tiết kiệm đáng kể 👍",
+            "OpenedTwiceFirstItem": "Thành công của bạn là điều ý nghĩa nhất",
+            "OpenedTwiceSecondItem": "Đó là lý do chúng tôi kéo dài thời gian diễn ra ưu đãi đặc biệt dành cho bạn đối với gói đăng ký theo năm. Thanh toán ngay để tiết kiệm thật nhiều 🙌️"
+        }
+    },
+    "FinishScreens": {
+        "FinishTask": {
+            "Dict": {
+                "Title": {
+                    "one": "{value} từ đã được thêm vào danh sách thực hành của bạn",
+                    "few": "{value} từ đã được thêm vào danh sách thực hành của bạn",
+                    "other": "{value} từ đã được thêm vào danh sách thực hành của bạn"
+                },
+                "TrainingTitle": "Bạn đã ôn lại các từ mới!",
+                "Subtitle": {
+                    "one": "Số từ trong Sổ Tay: {value}",
+                    "few": "Số từ trong Sổ Tay: {value}",
+                    "other": "Số từ trong Sổ Tay: {value}"
+                }
+            },
+            "Rule": {
+                "Title": "Bạn đã học được ngữ pháp mới!",
+                "TrainingTitle": "Bạn đã ôn lại một quy tắc ngữ pháp mới!",
+                "Subtitle": "Thực hành thôi nào!"
+            },
+            "LessonCompleted": {
+                "Title": "Đã hoàn tất bài học!",
+                "Subtitle": "Bạn đã học {words} và {rules}. Ôn lại chúng trong Sổ Tay",
+                "Words": {
+                    "zero": "{value} từ",
+                    "one": "{value} từ",
+                    "few": "{value} từ",
+                    "other": "{value} từ"
+                },
+                "Rules": {
+                    "zero": "{value} quy tắc",
+                    "one": "{value} quy tắc",
+                    "few": "{value} quy tắc",
+                    "other": "{value} quy tắc"
+                }
+            }
+        },
+        "ActionNotifications": {
+            "Title": "Thực hành đưa tới sự hoàn hảo!",
+            "Description": "Bật thông báo lên để bạn không bỏ lỡ một ngày",
+            "Button1": "Bật thông báo"
+        },
+        "ActionAuth": {
+            "Title": "Lưu tiến trình!",
+            "Description": "Tạo tài khoản để lưu tiến trình và thi đua với những người dùng khác!",
+            "Button1": "Tạo tài khoản"
+        },
+        "CertificateProgress": {
+            "Title": "Hoàn thành tất cả các bài học và nhận chứng chỉ!",
+            "Subtitle": "Một sự bổ sung tuyệt vời cho sơ yếu lý lịch của bạn"
+        },
+        "LevelStat": {
+            "Title": "Cấp {level}: bạn đã tiến bộ!"
+        },
+        "Chests": {
+            "Title": "Mở rương chứa từ mới!",
+            "Subtitle": "Từ mới xuất hiện hàng ngày! Ôn lại các từ này trong Sổ Tay."
+        },
+        "Detective": {
+            "Title": "Khám phá từ vựng mới trong một cuộc điều tra gay cấn!",
+            "Subtitle": "Dịch từ ngữ chỉ với một chạm"
+        },
+        "Vocabulary": {
+            "Title": "Ôn lại các từ và quy tắc mới",
+            "Subtitle": "Thực hành các bài học giúp bạn ghi nhớ tài liệu mới nhanh hơn"
+        },
+        "Rating": {
+            "Title": "Thử thi đua với những người dùng khác!",
+            "Subtitle": "Tham gia một nhóm để có thêm động lực"
+        },
+        "Goal": {
+            "Days": {
+                "one": "chuỗi ngày liên tiếp",
+                "few": "chuỗi ngày liên tiếp",
+                "many": "chuỗi ngày liên tiếp",
+                "other": "chuỗi ngày liên tiếp"
+            },
+            "Title": "Lưu ý! Bạn sẽ mất tiến trình của mình nếu bạn bỏ lỡ hoạt động thực hành ngày mai!"
+        },
+        "AdmittedToTheTeam": {
+            "Title": "Bạn đã tham gia vào một nhóm!",
+            "Subtitle": "Giờ bạn có thể thi đua với những người dùng khác"
+        },
+        "Brainboost": {
+            "Title": "Thực hành BrainBoost!",
+            "Subtitle": "Các câu hỏi bị sai sẽ xuất hiện trong những bài học thực hành sau đó. Bạn sẽ có thể ôn lại các bài học đó"
+        },
+        "AddMoreWordsFromLessons": {
+            "Title": "Thêm nhiều từ hơn",
+            "Subtitle": "Hoàn thành bài học mới để thêm từ mới vào vốn từ vựng của bạn"
+        },
+        "AddMoreWordsFromDetective": {
+            "Title": "Thêm nhiều từ hơn",
+            "Subtitle": "Hoàn thành câu chuyện Trinh Thám để thêm từ mới vào vốn từ vựng của bạn"
+        },
+        "NextTask": {
+            "Title": "Nhiệm vụ tiếp theo",
+            "PremiumTitle": "Thực hành những gì bạn đã học",
+            "TrainingDictTask": {
+                "Title": "Ôn lại từ vựng"
+            },
+            "RuleTask": {
+                "Title": "Điểm ngữ pháp mới"
+            },
+            "TrainingRuleTask": {
+                "Title": "Ôn lại ngữ pháp"
+            }
+        },
+        "Questions": {
+            "HowEasyIsLearning": "Học bằng simpler dễ như thế nào đối với bạn?",
+            "VeryEasy": "Rất dễ! Tôi thích lắm!",
+            "PrettyEasy": "Khá là dễ",
+            "INeedMoreTime": "Tôi cần thêm thời gian để trả lời câu hỏi này"
+        },
+        "PremiumAfterLessonV2": {
+            "OneTimeOffer": "Ưu đãi một lần",
+            "InYourFirstMonth": "trong tháng đầu tiên của bạn",
+            "ProgressFaster": "Tiến bộ nhanh hơn 3.0 lần với Premium",
+            "TryFor": "Dùng thử với giá {price}"
+        },
+        "NeedPremium": {
+            "YouNeedPremium": "Bạn cần gói Premium để truy cập vào bài tập này",
+            "PracticalExercices": "Các bài tập thực hành trong mọi bài học sẽ giúp bạn học <b>nhanh hơn gấp ba lần</b>!",
+            "ContinueWithPremiumFinish": "Tiếp tục với Premium"
+        },
+        "YouHaveSuccess": {
+            "YouAreDoingGreat": "Bạn đang thể hiện rất tốt!",
+            "Only38Percent": "Chỉ <b>38% học sinh</b> hoàn thành bài học đầu tiên nhanh chóng! Bạn là một trong số họ!",
+            "GreatFinish": "Tuyệt"
+        },
+        "FinishPromoteVideo": {
+            "AnalyzingResults": "Đang phân tích kết quả",
+            "SavingProgress": "Đang lưu tiến độ",
+            "PlanningLessons": "Đang soạn bài học",
+            "LoadingLesson": "Đang tải bài học",
+            "LessEffortFasterResult": "Dễ học hơn nhưng đạt kết quả nhanh hơn",
+            "GetSimplerPremium": "Nâng Cấp Lên Simpler Premium"
+        }
+    },
+    "Share": {
+        "ShareScreen": {
+            "Title1": "Chia sẻ với bạn bè!",
+            "Subtitle1": "Giúp họ tìm hiểu về Simpler",
+            "Title2": "Chia sẻ kỷ lục!",
+            "Subtitle2": "Truyền cảm hứng cho bạn bè của bạn",
+            "Title3": "Chia sẻ quá trình tiến bộ!",
+            "Subtitle3": "Hãy là tấm gương cho bạn bè của bạn",
+            "Title4": "Bạn thấy mình có tiến bộ?",
+            "Subtitle4": "Hãy chia sẻ ấn tượng của mình",
+            "Title5": "Bạn thích học?",
+            "Subtitle5": "Hãy biến nó thành trào lưu",
+            "Title6": "Kết quả xuất sắc!",
+            "Subtitle6": "Hãy chia sẻ về thành tích của bạn",
+            "ShareButton": "Chia sẻ",
+            "ContinueButton": "Tiếp tục"
+        },
+        "DailyGoal": {
+            "Days": {
+                "one": "chuỗi ngày liên tiếp",
+                "few": "chuỗi ngày liên tiếp!",
+                "many": "chuỗi ngày liên tiếp!",
+                "other": "chuỗi ngày liên tiếp!"
+            },
+            "Title1": "Tôi trau dồi tiếng Anh mỗi ngày",
+            "Title2": "Tôi muốn nói tiếng Anh thật hay",
+            "Title3": "Tiếng Anh của tôi tiến bộ từng ngày",
+            "Title4": "Tôi đến gần hơn với mục tiêu của mình mỗi ngày!"
+        },
+        "SuperDay": {
+            "Title": "Đây là {number} Super Day của tôi trong app Simpler!",
+            "Subtitle": "Các từ vựng mới của tôi: {words}"
+        },
+        "Planet": {
+            "Title": "Tôi đã chiến thắng thứ hạng và bay đến hành tinh {planetname}"
+        },
+        "Rating": {
+            "Title2": "Tôi đang trong top mười!",
+            "Title3": "Tôi đang trong top ba!",
+            "Title1": "Tôi sẽ lên tới ngôi vị đầu bảng!",
+            "Title4": "Tôi đang ở đỉnh cao đầu bảng!",
+            "Subtitle": "Hãy hỗ trợ tôi trong quá trình học tiếng Anh"
+        },
+        "Detective": {
+            "Title": "Tôi đã giải được vụ —\n{storyname}"
+        }
+    },
+    "Detective": {
+        "Select": {
+            "Title": "Những câu chuyện trinh thám",
+            "Subtitle": "Chọn vụ án và cải thiện kỹ năng đọc - nghe của bạn",
+            "A2Title": "Dành cho lính mới",
+            "B1Title": "Thử thách hơn nữa",
+            "B2Title": "Trình độ Pro",
+            "C1Title": "Dành cho thiên tài",
+            "CasesSolved": "SỐ VỤ ĐÃ GIẢI {current}/{total}",
+            "Start": "BẮT ĐẦU",
+            "MoveHere": "CHUYỂN ĐẾN ĐÂY"
+        },
+        "Phrase": {
+            "IntroTitle": "Tóm Tắt",
+            "DescriptionTaskTitle": "Tình huống",
+            "WitnessTaskTitle": "Mô tả nghi ngờ",
+            "TrueFalseQuestionTitle": "Bạn biết gì cho đến tận bây giờ?",
+            "ExplanationTitle": "Tìm hiểu thêm",
+            "CheckYourself": "Tự kiểm tra"
+        },
+        "Person": {
+            "SuspectStatus": "Đang bị nghi ngờ",
+            "InnocentStatus": "Vô tội"
+        },
+        "Intro": {
+            "ProceedButtonTitle": "Hãy bắt tay vào đó!"
+        },
+        "Finish": {
+            "StarsReward": {
+                "Title": "Nhiệm vụ hoàn thành!",
+                "SubtitleNeutral": {
+                    "zero": "Bạn đã trả lời đúng <g>0 câu hỏi</g>",
+                    "one": "Bạn đã trả lời đúng <g>{stars} câu hỏi</g>",
+                    "few": "Bạn đã trả lời đúng <g>{stars} câu hỏi</g>",
+                    "other": "Bạn đã trả lời đúng <g>{stars} câu hỏi</g>"
+                },
+                "SubtitleZero": "Bạn chưa trả lời bất kỳ câu hỏi nào",
+                "SubtitleBad": "Bạn đã trả lời 1 câu hỏi",
+                "SubtitleGood": "Bạn đã trả lời 2 câu hỏi và hoàn thành nhiệm vụ",
+                "SubtitleExcellent": "Bạn đã trả lời 3 câu hỏi và hoàn thành nhiệm vụ"
+            },
+            "DonutsReward": {
+                "SubtitleBad": "Bạn đã giải quyết tình huống này trong lần thử thứ ba. Phần thưởng là bạn là 1 doughnut!",
+                "SubtitleGood": "Bạn đã giải quyết tình huống này trong lần thử thứ hai. Phần thưởng là bạn là 2 doughnut!",
+                "SubtitleExcellent": "Bạn đã giải quyết tình huống này trong lần thử đầu tiên. Phần thưởng của bạn là 3 doughnut!"
+            },
+            "BadgeUnlock": {
+                "lockedTitle": "Hãy phá thêm nhiều vụ án để được thăng hạng:",
+                "lockedSubtitle": "{currentCompletedDetectives} / {requiredCompletedDetectives} tình huống",
+                "unlockedTitle": "Bạn đã được thăng tiến thành {rank}!",
+                "shareButtonLabel": "Nói với bạn bè"
+            },
+            "UnlockLocation": {
+                "UnlockTitle": "Để mở khóa địa điểm mới, bạn cần:",
+                "CounterText": "{current}/{total} sao"
+            },
+            "WitnessStatus": {
+                "Title": "Bạn đã đặt câu hỏi cho nhân chứng",
+                "Subtitle": "Chọn trạng thái khả thi"
+            }
+        },
+        "Task": {
+            "Photos": {
+                "AboutTitle": "Ghép các hình",
+                "AboutDescription": "Ôi không! Các dữ kiện trong tình huống đều đã bị đảo lộn! Ghép hình sao cho phù hợp với các nghi phạm.",
+                "Title": "Kéo hình tương ứng vào phần mô tả"
+            },
+            "Court": {
+                "Title": "Bạn dự định sẽ bắt giữ ai?",
+                "DonutsInfoText": "Câu trả lời chính xác sẽ mang lại cho bạn \n",
+                "DonutsInfoDialogTitle": "Nhận các doughnut khi trả lời chính xác",
+                "DonutsInfoFirstTry": "Ở lần thử đầu tiên",
+                "DonutsInfoSecondTry": "Ở lần thử thứ hai",
+                "DonutsInfoThirdTry": "Ở lần thử thứ ba hoặc nhiều hơn",
+                "Donuts": {
+                    "one": "{value} doughnut",
+                    "few": "{value} doughnut",
+                    "other": "{value} doughnut"
+                },
+                "ResultRightTitle": "Tình huống đã được giải quyết!",
+                "ResultWrongTitle": "Bạn đã bắt giữ sai nghi phạm"
+            }
+        },
+        "CaseAcquaintance": {
+            "Title": "Đọc tóm tắt tình huống"
+        },
+        "Rate": {
+            "rateTitle": "Bạn có thích câu chuyện này không?",
+            "rateSubtitle": "Bạn thấy nó thú vị và hữu ích như thế nào?",
+            "rateButtonLabel": "Đánh giá",
+            "goodRateTitle": "Cám ơn bạn đã phản hồi!",
+            "goodRateSubtitle": "Chúc may mắn với tình huống tiếp theo của bạn!",
+            "goodRateButtonLabel": "Nói với bạn bè",
+            "badRateTitle": "Cám ơn bạn đã phản hồi!",
+            "badRateSubtitle": "Chúng tôi hy vọng bạn thích câu chuyện tiếp theo",
+            "badRateButtonLabel": "Danh sách tình huống"
+        },
+        "Dashboard": {
+            "UnderstandingStatTitle": "Đọc hiểu văn bản",
+            "WordsCountStatTitle": "Đọc từ",
+            "CulpritSelection": "Chọn ra thủ phạm",
+            "Description": "Tình huống",
+            "WitnessMatching": "Ghép hình",
+            "Witness": "Nhân chứng",
+            "Declarant": "Nạn nhân",
+            "TextComprehensionDescription": "Ôn lại các từ mới thường xuyên hơn để cải thiện vốn từ vựng của bạn và hiểu rõ văn bản hơn",
+            "WordReadDescription": "Ôn lại các từ mới thường xuyên hơn để cải thiện vốn từ vựng của bạn và hiểu rõ văn bản hơn",
+            "LockLocationDescription": "Để mở khóa địa điểm này, bạn cần: {current}/{all} sao",
+            "LockLocationDescriptionEmpty": "Để mở khóa địa điểm nay, hãy kiếm:",
+            "Collapse": "",
+            "MessageFromSherif": "Tin nhắn cảnh sát trưởng",
+            "Red": "",
+            "TakeMinimum": "Hoàn thành các nhiệm vụ và thu thập <b>10 sao</b> hoặc nhiều hơn để chọn thủ phạm",
+            "Title": "Cuộc điều tra của bạn",
+            "ChooseSuspect": "Chọn thủ phạm",
+            "OrContinue": "hoặc tiếp tục điều tra",
+            "Caught": "Lộ tẩy!",
+            "Finished": "Hoàn tất điều tra",
+            "TakeMinimum2": "Thu thập tối thiểu {amount} sao trong Các Cuộc Phỏng Vấn để tìm ra thủ phạm",
+            "Stars": "{current} / {total} SAO",
+            "StarsCollected": "Bạn đã thu thập được {amount} sao ✅",
+            "TomorrowInterrogation": "Phỏng vấn vào ngày mai<br><b>{name}</b>",
+            "DontWait": "Không muốn chờ đợi? Nâng cấp lên Premium và học theo tiến độ bạn thích",
+            "Change": "ĐỔI",
+            "Interrogate": "Phỏng vấn",
+            "InterrogateNow": "Phỏng vấn ngay",
+            "InterrogateWitness": "Phỏng vấn nhân chứng<br><b>{name}</b>"
+        },
+        "Counters": {
+            "Title": "Kết quả của bạn",
+            "Start": "Khởi đầu không tệ!",
+            "RightWay": "Đúng hướng",
+            "GoodResult": "Kết quả rất tốt!",
+            "LeftALittle": "Thêm một chút nữa thôi",
+            "GoalIsClose": "Gần được rồi",
+            "DetectiveFinish": "Hoàn tất câu chuyện",
+            "RediocreResult": "Kết quả tầm thường",
+            "SatisfactoryResult": "Kết quả đáng hài lòng",
+            "ExcellentResult": "Kết quả xuất sắc",
+            "OutstandingResult": "Kết quả vượt bậc",
+            "IncredibleResult": "Kết quả ngoài sức tưởng tượng",
+            "WordsReadCountsTitle": "{value} từ đã đọc",
+            "TextComprehansionTitle": "{value} đọc hiểu",
+            "TextComprehansionDescriptionWords": "Bạn đã dịch {wordsTranslatedCount}/{allWords} từ",
+            "TextComprehansionDescriptionAnswers": "Bạn đã trả lời {answerCount}/3 câu hỏi chính xác"
+        },
+        "CulpritSelectionResult": {
+            "Judge": "Đánh giá"
+        },
+        "Badges": {
+            "RankEarned": "Hạng đã đạt được",
+            "EarnRank": "Đạt được hạng",
+            "RankUnavailable": "Hạng chưa sẵn có"
+        },
+        "Level": {
+            "Easy": "Dễ",
+            "Medium": "Trung Bình",
+            "Hard": "Khó"
+        },
+        "Folder": {
+            "AccessDenied": "TỪ CHỐI TRUY CẬP"
+        },
+        "Translation": {
+            "Article": {
+                "a": "mạo từ không xác định a/an chỉ một đối tượng không xác định",
+                "the": "mạo từ xác định the chỉ cho đối tượng mà người đọc/người nghe đã biết tới"
+            },
+            "Tutorial": "Bạn có thể thêm các từ đã dịch vào mục từ vựng ở cuối mỗi nhiệm vụ",
+            "ProperName": "Tên riêng không được dịch"
+        },
+        "Welcome": {
+            "Welcome1": {
+                "Title": "Chuyện trinh thám",
+                "Description": "Giống với những sách tiếng Anh thông thường nhưng dễ dàng hơn và thú vị hơn"
+            },
+            "Welcome2": {
+                "Title": "Kết quả nhanh",
+                "Description": "Chất vấn các nhân chứng và học lên tới 3,000 từ vựng tiếng Anh thiết yếu"
+            },
+            "Welcome3": {
+                "Title": "Phục vụ công lý",
+                "Description": "Nhận thưởng và nâng cấp thứ hạng mới khi giải quyết các vụ án"
+            }
+        },
+        "Popup": {
+            "DetectivePopup": "Ấn CHỌN để mở câu chuyện đầu tiên",
+            "FirstTaskPopup": "Ấn BẮT ĐẦU để mở nhiệm vụ đầu tiên",
+            "DisabledBadge": "Đầu tiên phải đạt được hạng trước đó",
+            "EnabledBadge": {
+                "one": "Giải quyết {count} trường hợp để trở thành {rank}",
+                "few": "Giải quyết {count} trường hợp để trở thành {rank}",
+                "other": "Giải quyết {count} trường hợp để trở thành {rank}"
+            }
+        },
+        "Tutorial": {
+            "Words": "Ấn 👆 lên các từ mà bạn không biết để xem bản dịch và thêm vào danh sách học",
+            "Audio": "Giảm chậm 🐢 tốc độ phát lời khai của nhân chứng để hiểu rõ hơn nội dung họ đang nói!"
+        }
+    },
+    "Lessons": {
+        "CompletePreviousTaskPopup": "Trước tiên phải hoàn tất nhiệm vụ trước đó",
+        "StartFirstLessonPopup": "Ấn CHỌN để bắt đầu bài học",
+        "FinishFirstLessonPopup": "Ấn CHỌN để hoàn thành bài học đầu tiên",
+        "StartFirstTaskPopup": "Ấn BẮT ĐẦU để mở nhiệm vụ đầu tiên",
+        "LessonRing": {
+            "OpenButton": "Chọn"
+        },
+        "PracticeRing": {
+            "Practice": "Thực hành"
+        },
+        "CheckpointRing": {
+            "CheckpointDescription": "Đánh giá việc học ngôn ngữ"
+        },
+        "Certificate": {
+            "Certificate": "Chứng chỉ",
+            "DisabledSaveButton": "Hoàn tất mọi bài học",
+            "CertificatePopupHeader": "Vào cuối cấp, bạn sẽ nhận được một chứng chỉ",
+            "CertificatePopupDetail": "Đó là một sự bổ sung tuyệt vời cho sơ yếu lý lịch của bạn",
+            "ContinueButton": "Tuyệt vời",
+            "ShareButton": "Chia sẻ",
+            "YourCertificateHeader": "Chứng chỉ của bạn",
+            "LinkToCertificate": "Liên kết đến chứng chỉ của bạn:",
+            "ChangeNameButton": "Đổi tên",
+            "EnterDataText": "Nhập tên của bạn để lấy chứng chỉ",
+            "CopiedToClipboard": "Đã được sao chép",
+            "SavedToCameraRoll": "Đã lưu vào Hình Ảnh",
+            "ErrorSaveToCameraRoll": "Có lỗi xảy ra: chứng chỉ đã không được lưu. Hãy kiểm tra mục cài đặt của bạn và đảm bảo bạn đã kích hoạt quyền truy cập vào Hình Ảnh.",
+            "ErrorCreate": "Có lỗi xảy ra: không thể tạo chứng chỉ",
+            "ShowCertificateButton": "Mở",
+            "BannerDescription": "Hoàn thành tất cả Bài Học, các bài học Thực Hành và điểm kiểm tra để lấy chứng chỉ",
+            "ActiveLevel": "Cấp hiện tại",
+            "Download": "Tải xuống",
+            "AppBarTitle": "Chứng chỉ của bạn",
+            "Proficiency": "Cấp {value}"
+        },
+        "Training": {
+            "Words": "Ôn luyện từ vựng và ngữ pháp",
+            "Association": "Cùng chơi “Nối Từ” nào",
+            "TrueFalse": "Cùng chơi “Đúng hay Sai” nhé"
+        }
+    },
+    "Lesson": {
+        "Words": "Từ",
+        "Rule": "Ngữ Pháp",
+        "Training": "Thực hành",
+        "CancelTaskTitle": "Bạn có muốn thoát?",
+        "CancelTaskSubtitle": "Tiến trình hiện tại sẽ bị mất.",
+        "Tutorials": {
+            "Confirm": "Tôi muốn thử!",
+            "WordTask": {
+                "Title": "Hình ảnh giúp bạn học thêm nhiều từ mới",
+                "SubTitle": "Các minh họa của Simpler sẽ giúp bạn ghi nhớ vĩnh viễn"
+            },
+            "RuleTask": {
+                "Title": "Tiếng Anh có thứ tự từ cố định",
+                "SubTitle": "Simpler đưa ra các cấu trúc câu đơn giản giúp bạn hình thành câu chính xác"
+            },
+            "WordTrain": {
+                "Title": "Thực hành thêm",
+                "SubTitle": "Nhập từ hoặc sử dụng chức năng đọc chính tả để chỉnh phát âm của bạn"
+            },
+            "RuleTrain": {
+                "Title": "Hãy thử mà không cần gợi ý",
+                "SubTitle": "Các bài học thực hành giúp bạn học thêm các nội dung mới nhanh hơn và nhớ lâu hơn"
+            }
+        },
+        "WordPartTitle": "Từ vựng mới",
+        "WordPartSubTitle": "Hình minh họa của chúng tôi sẽ giúp bạn ghi nhớ từ vựng mãi mãi",
+        "RulePartTitle": "Quy tắc ngữ pháp",
+        "RulePartSubTitle": "Làm theo các hướng dẫn để học cách hình thành câu",
+        "RuleTrainingPartTitle": "Thực hành",
+        "RuleTrainingPartPremiumLockedTitle": "Thực hành",
+        "RuleTrainingPartSubTitle": "Giờ hãy luyện tập mà không cần hướng dẫn. Bạn có thể làm được!",
+        "WordsFinishTitle": "Bạn vừa học thêm từ vựng mới!",
+        "WordsFinishSubTitle": "Chúng đã được bổ sung vào Từ Điển của bạn",
+        "RuleFinishTitle": "Bạn vừa học thêm ngữ pháp mới!",
+        "RuleFinishSubTitle": "Thực hành thôi nào",
+        "RuleTrainingFinishTitle": "Bài học hoàn tất!",
+        "RuleTrainingFinishSubTitle": "Bạn đã học được thêm {words} từ và {rules} quy tắc ngữ pháp",
+        "Finish": {
+            "AllRc": "THƯỞNG",
+            "Moment": "RẤT NHANH",
+            "Fast": "NHANH",
+            "Slow": "ỔN",
+            "Ideal": "HOÀN HẢO",
+            "Great": "TUYỆT VỜI",
+            "Good": "TỐT"
+        }
+    },
+    "Chests": {
+        "Welcome1Titlte": "Các rương chứa từ vựng",
+        "Welcome1Subtitle": "Mở một lần mỗi ngày và tìm thấy các chủ đề mới đầy thú vị",
+        "NextFree": "Danh sách từ miễn phí kế tiếp trong:",
+        "NextFreePremium": "Các danh sách từ mới trong:",
+        "ChestsPremiumPromotion": "Mở thêm một rương với Premium ngay",
+        "GetYourLuck": "Thử vận may của bạn!",
+        "GetWords": "Nhận một danh sách từ vựng",
+        "YouWon": "Bạn đã thắng được từ <b>«{title}»</b>",
+        "TestYourself": "Kiểm tra bản thân",
+        "MoreChestsAvailableSoon": "Sắp có thêm nhiều rương mới!",
+        "RemindButton": "Nhắc nhở chúng tôi",
+        "ThanksForNotification": "Cám ơn bạn đã nhắc nhở chúng tôi!",
+        "ThanksForNotificationDescription": "Đội ngũ khiêm tốn của chúng tôi trong app giúp cải thiện nó tốt hơn và tạo nội dung mới dành cho bạn mỗi ngày. Các rương mới sẽ xuất hiện!",
+        "FreePopupTitle": "Rương miễn phí mới đã sẵn sàng!",
+        "PremiumPopupTitle": "Rương mới đã sẵn sàng!",
+        "FreeNotAvailablePopupTitle": "Bạn sẽ nhận được một rương mới miễn phí vào ngày mai",
+        "PremiumNotAvailablePopupTitle": "Bạn sẽ nhận thêm nhiều rương nữa vào ngày mai",
+        "OpenChest": "Mở rương chứa từ",
+        "OpenAdditionalChest": "Mở thêm một rương",
+        "AdditionalChestSubTitle": "Để đẩy nhanh tiến độ học của bạn",
+        "OpenWithPremium": "Mở bằng Premium",
+        "ChooseTranslation": "Chọn bản dịch đúng",
+        "WelcomePopupTitle": "Được đề xuất ôn tập",
+        "WelcomePopupSubtitle": "Màu đỏ chỉ những từ bạn đã chọn sai",
+        "SelectTopics": "Chọn chủ đề",
+        "GetChestsWithNewWords": "Và nhận rương chứa từ vựng mới mỗi ngày",
+        "SelectedTopics": {
+            "one": "Bạn đã chọn 1 chủ đề",
+            "few": "Bạn đã chọn {amount} chủ đề",
+            "other": "Bạn đã chọn {amount} chủ đề"
+        },
+        "Basics": "Cơ bản",
+        "MostPopularWords": "Các từ tiếng Anh phổ biến nhất",
+        "Select": "Chọn",
+        "Selected": "Đã chọn",
+        "Finished": "Chúc mừng!",
+        "SelectAtLeastOneTopicToContinue": "Chọn tối thiểu một chủ đề để tiếp tục",
+        "Change": "THAY ĐỔI",
+        "Words": "{amount1} / {amount2} TỪ",
+        "DoNotOpen": "Không mở",
+        "OpenSecondChest": "Mở rương thứ hai",
+        "SelectedTopicsFilter": "Các chủ đề đã chọn"
+    },
+    "WordTask": {
+        "SelectWord": {
+            "TaskTitle": "Chọn bản dịch"
+        },
+        "AddWords": {
+            "Header": "Chọn từ vựng để ôn lại sau",
+            "DoNotAddWordsButtonText": "Đừng thêm từ",
+            "AddWordsButtonText": {
+                "one": "Thêm {value} từ",
+                "few": "Thêm {value} từ",
+                "other": "Thêm {value} từ"
+            },
+            "SelectAllButtonText": "Chọn tất cả từ",
+            "UnselectAllButtonText": "Hủy lựa chọn"
+        },
+        "AddedWords": {
+            "one": "Bạn đã thêm {value} từ mới vào Sổ Tay",
+            "few": "Bạn đã thêm {value} từ mới vào Sổ Tay",
+            "other": "Bạn đã thêm {value} từ mới vào Sổ Tay"
+        },
+        "WriteWord": {
+            "TaskTitle": "Nhập vào bản dịch",
+            "Help": "Trợ giúp"
+        },
+        "SpeechWord": {
+            "TaskTitle": "Nói bằng tiếng Anh",
+            "ErrorTitle": "Có lỗi xảy ra",
+            "NeedAction": "Lưu ý",
+            "NoSoundService": "Đọc chính tả không khả dụng trên thiết bị của bạn",
+            "PermissionPopup": "Để mở bài tập này, hãy cấp quyền truy cập cho mic đàm thoại và Bluetooth để kết nối tới tai nghe",
+            "PermissionPopupConfirmBtn": "Tốt",
+            "GoToSettings": "Đi đến mục Cài Đặt",
+            "SoundRecognitionDisabled": "Truy cập vào mic đàm thoại đã bị vô hiệu hóa. Hãy đi đến mục Cài Đặt để kích hoạt quyền truy cập",
+            "DictationPopup": "Vui lòng vào Cài đặt để bật tính năng đọc chính tả và thêm hỗ trợ ngôn ngữ tiếng Anh"
+        }
+    },
+    "Congtarulations": {
+        "Subtitle": "Nhiệm vụ hoàn thành"
+    },
+    "ExtraCoins": {
+        "Title": {
+            "one": "{value} đáp án liên tục",
+            "few": "{value} đáp án liên tục",
+            "other": "{value} đáp án liên tục"
+        },
+        "Bonus": "Thưởng <b>+{count}</b> Rocketcoins"
+    },
+    "RulesTask": {
+        "CreatePhrase": "Tạo một cụm từ",
+        "PopupNewWord": "Từ mới"
+    },
+    "Practice": {
+        "ChouseTranslation": "Chọn bản dịch",
+        "IncompleteText": "Bạn đã trả lời chính xác {percent}%. Không tệ! Nhưng bạn có thể làm tốt hơn thế!",
+        "CompleteText": "Bạn đã trả lời chính xác {percent}% các câu hỏi. Đã hoàn tất bài tập.",
+        "EnableSoundInSettings": "Bật âm thanh trong mục Cài Đặt để lắng nghe các cụm từ",
+        "SoundDisabledNotification": "Âm thanh đã bị vô hiệu hóa trong 30 phút",
+        "DisableSoundButtonTurnOff": "Tôi không thể lắng nghe ngay lúc này",
+        "DisableSoundButtonTurnOn": "Bật âm thanh"
+    },
+    "Checkpoint": {
+        "FinishTaskHeaderHight": "Bạn đã làm chủ nội dung mới!",
+        "FinishTaskHeaderMiddle": "Bạn đã học rất tốt nội dung mới!",
+        "FinishTaskHeaderLow": "Bạn chưa học nội dung này đủ tốt",
+        "FinishDescriptionTextHight": "Bạn đã trả lời chính xác {percent}% các câu hỏi. Đã hoàn tất bài tập",
+        "FinishDescriptionTextMiddle": "Bạn đã trả lời chính xác {percent}% các câu hỏi. Không tệ! Nhưng bạn có thể làm tốt hơn thế!",
+        "FinishDescriptionTextLow": "Bạn đã trả lời chính xác {percent}% các câu hỏi. Hãy ôn lại các bài học và cố gắng cải thiện kết quả lần tới",
+        "AddRulesCountText": {
+            "one": "Bạn đã mắc {value} lỗi",
+            "few": "Bạn đã mắc {value} lỗi",
+            "other": "Bạn đã mắc {value} lỗi"
+        },
+        "AddRulesCreateTaskText": "Tạo bài tập ôn lại các câu hỏi bạn đã trả lời không chính xác?",
+        "FinishCheckComplete": "Bài tập toàn tất!",
+        "FinishCheckPassed": "Kiểm tra hoàn tất!",
+        "TryBetter": "Hãy cố gắng hoàn thành bài tập với kết quả tốt hơn",
+        "WellDone": "Bạn đã học nội dung tài liệu rất tốt"
+    },
+    "Dialog": {
+        "FinishComplete": "Bài tập toàn tất!",
+        "FinishPassed": "Hội thoại hoàn tất!"
+    },
+    "Vocabulary": {
+        "CancelLearned": "Từ đã đưa vào Đã Học",
+        "CancelLearning": "Từ đã đưa vào Đang Học",
+        "Learning": "Tôi đang học",
+        "Knew": "Đã học",
+        "SortDateDescending": "Cũ nhất",
+        "SortDate": "Gần đây nhất",
+        "SortAlphabetDescending": "Bảng chữ cái A-Z",
+        "SortAlphabet": "Bảng chữ cái Z-A",
+        "Test": "Kiểm tra",
+        "Sort": "Sắp xếp theo",
+        "SortFinished": {
+            "one": "{value} từ đã được chuyển sang Đã học",
+            "two": "{value} từ đã được chuyển sang Đã học",
+            "few": "{value} từ đã được chuyển sang Đã học",
+            "other": "{value} từ đã được chuyển sang Đã học"
+        },
+        "SortFinishedNoWords": "Tuyệt vời! Tất cả các từ vựng còn trong mục \"Tôi đang học\"",
+        "SortRemaining": "Còn lại {value} từ để kiểm tra",
+        "SortWords": "Kiểm tra thêm {value} từ vựng nữa",
+        "BackToWords": "Thoát",
+        "ContinueSort": "Tiếp tục kiểu sắp xếp trước đó?",
+        "ResetSort": "Bắt đầu lại",
+        "SelectPairs": "Ghép từ tương ứng",
+        "SelectLearning": "Chọn từ vựng để đưa về Đang học",
+        "LearnWordsAdded": {
+            "one": "{value} từ đã được chuyển sang Đang học",
+            "few": "{value} từ đã được chuyển sang Đang học",
+            "other": "{value} từ đã được chuyển sang Đang học"
+        },
+        "TestFinishedNoWords": "Xuất sắc! Bạn hiểu hết toàn bộ các từ!",
+        "WordsTestRemain": {
+            "one": "Còn lại {value} từ để kiểm tra",
+            "few": "Còn lại {value} từ để kiểm tra",
+            "other": "Còn lại {value} từ để kiểm tra"
+        },
+        "NextTest": {
+            "one": "Kiểm tra thêm {value} từ vựng nữa",
+            "few": "Kiểm tra thêm {value} từ vựng nữa",
+            "other": "Kiểm tra thêm {value} từ vựng nữa"
+        },
+        "ContinueTest": "Tiếp tục bài kiểm tra trước đó?",
+        "Words": "Từ vựng của bạn",
+        "Rules": "Ngữ pháp của bạn",
+        "EmptyHeader": "Chưa có gì ở đây",
+        "CompleteFirstLesson": "Hoàn thành Bài Học 1 để có các bài học thực hành",
+        "RulesExample": "Ví Dụ:",
+        "Past": "Quá Khứ Đơn",
+        "Future": "Quá Khứ Hoàn Thành",
+        "WordsCount": {
+            "one": "{value} từ",
+            "two": "{value} từ",
+            "few": "{value} từ",
+            "other": "{value} từ"
+        },
+        "RulesCount": {
+            "one": "{value} quy tắc",
+            "two": "{value} quy tắc",
+            "few": "{value} quy tắc",
+            "other": "{value} quy tắc"
+        },
+        "Banners": {
+            "InProgressPremium": {
+                "Title": {
+                    "one": "Hoàn thành {value} bài học thực hành",
+                    "few": "Hoàn thành {value} bài học thực hành",
+                    "other": "Hoàn thành {value} bài học thực hành"
+                },
+                "SubTitle": "Phải làm hôm nay:"
+            },
+            "InProgress": {
+                "Title": {
+                    "one": "Hoàn thành {value} bài học thực hành miễn phí",
+                    "few": "Hoàn thành {value} bài học thực hành miễn phí",
+                    "other": "Hoàn thành {value} bài học thực hành miễn phí"
+                }
+            },
+            "Finish": {
+                "Title": "{words} và {rules} đã ôn lại",
+                "SubTitle": "Bạn đã học xong cho hôm nay!"
+            }
+        },
+        "SortRepeat": "Thời gian chờ để ôn lại",
+        "Headers": {
+            "Today": "Hôm nay",
+            "Yesterday": "Ngày mai",
+            "DaysAgo": {
+                "few": "{amount} ngày trước",
+                "other": "{amount} ngày trước"
+            },
+            "LastWeek": "Tuần trước",
+            "WeekAgo": "{amount} tuần trước",
+            "MoreThenMonthAgo": "Hơn một tháng trước",
+            "WordsLearned": {
+                "one": "1 từ đã tiếp thu tốt!",
+                "few": "{amount} từ đã tiếp thu tốt!",
+                "other": "{amount} từ đã tiếp thu tốt!"
+            },
+            "DaysUntilRepeat": {
+                "one": "Còn 1 ngày nữa là ôn lại",
+                "few": "Còn {amount} ngày nữa là ôn lại",
+                "other": "Còn {amount} ngày nữa là ôn lại"
+            },
+            "WeeksUntilRepeat": {
+                "one": "Còn 1 tuần nữa là ôn lại",
+                "few": "Còn {amount} tuần nữa là ôn lại",
+                "other": "Còn {amount} tuần nữa là ôn lại"
+            },
+            "TimeToRepeat": "Đã đến lúc để ôn lại"
+        },
+        "Finish": {
+            "SuccsessfulRepeatWords": "Bạn đã ôn lại {amount} từ",
+            "SuccsessfulRepeatRules": {
+                "one": "Bạn đã thực hành thành công {value} quy tắc:",
+                "other": "Bạn đã thực hành thành công {value} quy tắc:"
+            },
+            "SuccsessfulRepeatByAllMeansWords": {
+                "other": "Bạn đã thực hành {value} từ bằng mọi cách có thể!"
+            },
+            "SuccsessfulRepeatByAllMeansRules": {
+                "one": "Вы повторили {value} правило всеми способами!",
+                "few": "Вы повторили {value} правила всеми способами!",
+                "other": "Вы повторили {value} правил всеми способами!"
+            },
+            "MarkedWordsToLearned": "Các từ đã đánh dấu sẽ được chuyển đến <b>Đã Học</b>",
+            "MarkedRulesToLearned": "Отмеченные правила будут перенесены в раздел <b>Изучено</b>",
+            "AddExtraWordsReps": "Chúng tôi đã thêm {value} bài học cho các từ này",
+            "AddExtraRulesReps": "Для этих правил мы добавим ещё {value} повтора"
+        },
+        "SpeedUpProgress": "Đẩy nhanh tiến độ bằng các bài học thực hành không giới hạn",
+        "FreeTrainingPopupTitle": "Các bài học thực hành miễn phí mới sẽ có sẵn vào ngày mai",
+        "WordRepeateCount": "Đã lặp lại {value}/{count}",
+        "Learned": "Đã học",
+        "MarkAsLearned": "Đánh dấu đã học",
+        "ReturnToStudy": "Đưa trở lại bài học",
+        "LearnedTititleWords": {
+            "one": "{value} từ đã học",
+            "few": "{value} từ đã học",
+            "other": "{value} từ đã học"
+        },
+        "LearnedTititleRules": {
+            "one": "{value} quy tắc đã học",
+            "few": "{value} quy tắc đã học",
+            "other": "{value} quy tắc đã học"
+        },
+        "GoToChestsPopup": {
+            "Title": {
+                "one": "Thêm {value} từ nữa từ một rương",
+                "few": "Thêm {value} từ nữa từ một rương",
+                "other": "Thêm {value} từ nữa từ một rương"
+            },
+            "Subtitle": {
+                "one": "Để bắt đầu bài học thực hành mới, bạn cần tối thiểu {value} từ",
+                "few": "Để bắt đầu bài học thực hành mới, bạn cần tối thiểu {value} từ",
+                "other": "Để bắt đầu bài học thực hành mới, bạn cần tối thiểu {value} từ"
+            },
+            "Button": "Mở một rương"
+        },
+        "GoToDetectivesPopup": {
+            "Title": {
+                "one": "Thêm {value} từ nữa từ các câu chuyện Trinh Thám",
+                "few": "Thêm {value} từ nữa từ các câu chuyện Trinh Thám",
+                "other": "Thêm {value} từ nữa từ các câu chuyện Trinh Thám"
+            },
+            "Subtitle": {
+                "one": "Để bắt đầu bài học thực hành mới, bạn cần tối thiểu {value} từ",
+                "few": "Để bắt đầu bài học thực hành mới, bạn cần tối thiểu {value} từ",
+                "other": "Để bắt đầu bài học thực hành mới, bạn cần tối thiểu {value} từ"
+            },
+            "Button": "Mở một câu chuyện"
+        },
+        "Tutorial": {
+            "WeSavedYourWordsAndRules": "Chúng tôi đã lưu lại các từ vựng và ngữ pháp để bạn thực hành trong tương lai",
+            "CompleteDailyTasks": "Hoàn thành các bài tập mỗi ngày để ghi nhớ thêm từ vựng mới",
+            "Ok": "OK",
+            "CarryWords": "Di chuyển các từ vựng sang mục Đã học sau khi bạn đã ghi nhớ được chúng",
+            "TrainToBuildSentences": "Thực hành đặt câu để bắt đầu nói tiếng Anh"
+        },
+        "PageNumber": "Trang {number}",
+        "PageNumberShort": "tr. {number}",
+        "Stats": {
+            "Title": "Thống kê hôm nay",
+            "HoursRemaining": {
+                "few": "{hours} tiếng",
+                "other": "{hours} tiếng"
+            },
+            "GoodLabel": "TỐT",
+            "GreatLabel": "TUYỆT VỜI",
+            "RecordLabel": "KỶ LỤC",
+            "NewWordsTitle": "Từ mới",
+            "NewRulesTitle": "Quy tắc ngữ pháp mới",
+            "RepeatRulesTitle": "Quy tắc ngữ pháp đã thực hành",
+            "RepeatWordsTitle": "Từ đã ôn tập",
+            "Heart": {
+                "TimeToReviewSomeWords": "Xin chào! Đã đến lúc ôn lại vài từ vựng",
+                "TryToReviewWordsWithoutMistakes": "Cố gắng ôn lại từ mà không mắc lỗi!",
+                "ReviewWwordsToRememberBetter": "Ôn lại từ vựng để ghi nhớ chúng tốt hơn",
+                "Days7InRow": "7 ngày liên tiếp! Thật không ngờ đấy!",
+                "Days5InRow": "5 ngày liên tiếp! Bạn quá tuyệt vời!",
+                "Days3InRow": "3 ngày liên tiếp! Rất đáng tự hào!",
+                "MoveTheWordsYouAlreadyKnowToLearned": "Chuyển từ bạn đã biết vào mục Đã Học",
+                "CheckLearnedWords": "Kiểm tra mức độ hiểu biết các từ vựng này",
+                "YouGaveSoManyCorrectAnswers": "Bạn đã trả lời quá nhiều câu đúng!",
+                "TimeToCompleteNewLesson": "Đã đến lúc học bài mới",
+                "TimeToPracticeGrammar": "Đã đến lúc thực hành ngữ pháp rồi!",
+                "PracticeIsImportantCompleteLesson": "Thực hành rất quan trọng! Học bài nào",
+                "PracticeSomeGrammar": "Hãy thực hành vài điểm ngữ pháp",
+                "WannaLearnDasterCompleteTraining": "Muốn học nhanh? Hãy tham gia huấn luyện",
+                "AreYouGonnaDoNewLessonToday": "Bạn có muốn học bài mới hôm nay không?",
+                "ReviewWordsMoreOftenToRememberThemBetter": "Ôn lại từ thường xuyên để ghi nhớ tốt hơn"
+            }
+        },
+        "AddNewWords": {
+            "Title": "Thêm từ mới",
+            "DailyChest": "Rương hàng ngày",
+            "NewWords": "10 từ mới",
+            "Story": "Câu chuyện",
+            "Lesson": "Bài học"
+        },
+        "DaysUntilRepeat": {
+            "one": "{value} ngày nữa mới ôn lại",
+            "two": "{value} ngày nữa mới ôn lại",
+            "other": "{value} ngày nữa mới ôn lại"
+        },
+        "BengauseDescription": "Thời gian chờ đến nhiệm vụ ôn tập tiếp theo sẽ tăng dần. Như vậy, bạn sẽ nhớ từ vựng tốt hơn!",
+        "CorrectMistakes": "Sửa lại các lỗi sai",
+        "CollectWordTask": {
+            "Title": "Thực hành dịch",
+            "Subtitle": "Luyện từ vựng khó"
+        }
+    },
+    "SelectLevel": {
+        "SelectLevelTitle": "Chọn cấp độ"
+    },
+    "Profile": {
+        "Title": "Hồ sơ",
+        "Anonymous": "Người dùng ẩn danh",
+        "EditName": {
+            "Title": "Chỉnh sửa tên",
+            "Description": "Tạo một cái tên độc nhất để thi đua với những người dùng khác"
+        },
+        "Settings": {
+            "SoundEffects": "Hiệu ứng âm thanh",
+            "DarkTheme": "Chủ đề tối",
+            "DarkThemeDefault": "Mặc định",
+            "DarkThemeOn": "Bật",
+            "DarkThemeOf": "Tắt",
+            "SaveProgress": "Đăng ký / Đăng nhập",
+            "ChangeLevel": "Bạn có muốn thay đổi cấp độ của mình không?",
+            "RateApp": "Đánh giá ứng dụng để giúp người dùng khác tìm thấy nó!",
+            "AppIcon": "Biểu tượng app",
+            "AppIconPopUpDescription": "Chọn biểu tượng app độc đáo cho màn hình chính của bạn"
+        }
+    },
+    "Settings": {
+        "Title": "Cài đặt",
+        "Theme": "Chủ đề",
+        "Language": "Ngôn ngữ của bạn",
+        "Level": "Cấp độ",
+        "Status": "Trạng thái",
+        "Email": "Email",
+        "Notifications": "Nhắc nhở",
+        "NotificationsTime": "Thời gian nhắc nhở",
+        "Mute": "Giữ im lặng",
+        "Problem": "Tôi có một vấn đề",
+        "SelectLevel": {
+            "Title": "Chọn cấp độ",
+            "Completed": "Đã hoàn thành: {percent}%",
+            "Themes": "Chủ đề cấp độ"
+        },
+        "PremiumStatus": {
+            "Forever": "Premium trọn đời",
+            "Temporary": "Quyền truy cập premium",
+            "NotPremium": "Quyền truy cập tiêu chuẩn"
+        },
+        "Faq": {
+            "NoSameProblem": "Không cái nào trên đây?",
+            "WriteToUs": "Gửi email cho chúng tôi",
+            "CantFindQuestion": "Không hữu ích?"
+        }
+    },
+    "Authorization": {
+        "EnterWith": "Lưu tiến trình của bạn",
+        "EnterWithDescription": "Đăng nhập bằng cách sử dụng tài khoản bất kỳ trong số các tài khoản này để lưu tiến trình của bạn",
+        "EnterAppleId": "Đăng nhập bằng Apple",
+        "EnterFacebook": "Đăng nhập bằng Facebook",
+        "EnterGoogle": "Đăng nhập bằng Google",
+        "EnterEmail": "Đăng nhập bằng Email",
+        "MainRegisterAndLoginTitle": "Đăng ký / Đăng nhập",
+        "ResetPasswordTitle": "Đặt lại mật khẩu",
+        "EmailPlaceholder": "Email",
+        "EmailHint": "Email",
+        "PasswordPlaceholder": "Mật khẩu",
+        "RegisterPasswordHint": "Tạo và nhập mật khẩu",
+        "LoginPasswordHint": "Nhập mật khẩu",
+        "ForgotPassword": "Quên mật khẩu",
+        "RegisterButton": "Đăng ký",
+        "ResetPasswordButton": "Nhận mật khẩu",
+        "ResetPasswordSuccess": "Mật khẩu của bạn đã được gửi đến email bạn nhập.",
+        "RegisterSuccess": "Bạn đã đăng ký thành công!",
+        "LoginSuccess": "Bạn đã đăng nhập thành công!",
+        "EmailInvalid": "Email không đúng",
+        "PasswordInvalid": "Mật khẩu phải dài tối thiểu là 4 ký tự",
+        "EmailAlreadyRigistered": "Địa chỉ email đã được sử dụng",
+        "ErrorResetPassword": "Lỗi đặt lại mật khẩu",
+        "ErrorLogin": "Email và mật khẩu không khớp",
+        "ErrorRegister": "Không thể đăng ký",
+        "SyncingText": "Đang đồng bộ hóa dữ liệu...",
+        "InternalErrors": {
+            "CantGetProfile": "Không thể tìm thấy hồ sơ"
+        }
+    },
+    "EditProfile": {
+        "AddAvatarButton": "Thêm ảnh hồ sơ",
+        "ChangeAvatarButton": "Thay đổi ảnh hồ sơ",
+        "NamePlaceholder": "Tên",
+        "NameHint": "Tên",
+        "TakePhoto": "Chụp một ảnh",
+        "ChousePhoto": "Chọn từ Hình Ảnh",
+        "NameError": "Nhập tên",
+        "EditTitle": "Chỉnh sửa"
+    },
+    "Rating": {
+        "Table": {
+            "TopDivider": "KHU VỰC QUÁN QUÂN",
+            "BottomDivider": "KHU VỰC GIÁNG CẤP",
+            "FirstGrade": "Thuyền trưởng",
+            "SecondGrade": "Thuyền phó",
+            "ThirdGrade": "Hoa tiêu trưởng",
+            "FourthGrade": "Kỹ sư trưởng",
+            "FifthGrade": "Bếp trưởng",
+            "Earn": "Thu Thập Các Rocketcoin"
+        },
+        "Avatar": {
+            "Title": "Thêm ảnh hồ sơ",
+            "Subtitle": "Bạn sẽ được thưởng bằng <b>10 Rocketcoin</b>. Càng kiếm được nhiều Rocketcoin, bạn sẽ càng có vị trí cao hơn trong bảng điểm!",
+            "AddPhoto": "Thêm ảnh và nhận thưởng",
+            "SkipPhoto": "Tiếp tục và không nhận thưởng"
+        },
+        "Messages": {
+            "MessageFrom": "Tin nhắn từ {name}",
+            "OnMessageRead": "ПРОЧИТАНО",
+            "FirstWelcomeBrocobroMessage": "Cộng đồng thực vật của Evergreen đang tổ chức lễ hội tôn vinh bạn! Tiếp tục học và leo bảng xếp hạng thôi nào",
+            "UserGoneDownMessage": "{user} đã vượt qua bạn. Đừng bỏ cuộc mà hãy tiếp tục leo bảng xếp hạng!",
+            "NewCapitanMessage": "{user} đã giành lấy vị trí thứ nhất. Bạn không muốn mình trở thành thuyền trưởng con tàu sao?",
+            "MoreHigherMessage": "{username} đang đứng ở vị trí thứ {position}. Bạn liệu có vươn lên dẫn đầu nỗi không?"
+        },
+        "Welcome": {
+            "Intro": {
+                "Header": "Du hành không gian",
+                "Description": "Hãy luyện tập tiếng Anh để trở thành một phần trong phi hành đoàn quốc tế"
+            },
+            "Messages": {
+                "1": "Trái đất cần thêm công nghệ mới để ngăn khủng hoảng năng lượng",
+                "2": "Tìm kiếm công nghệ mới trên các hành tinh khác và gặp gỡ các sinh vật ở đó"
+            },
+            "FindAll": "Tìm ra toàn bộ các hiệp sĩ không gian và thu thập công nghệ bí mật của họ",
+            "FirstGoal": "Nhiệm vụ đầu tiên của bạn là bay đến <b>Evergreen</b> để lấy công nghệ \"Cây nhân tạo\"",
+            "BrocobroWaitsYou": "<b>Broccobro</b> đang chờ đợi bạn. Hãy cố gắng hết khả năng để chiến thắng cuộc thi và nhận vé lên vũ trụ!"
+        },
+        "Register": {
+            "AuthText": "Học tiếng Anh và thi đua với những người dùng khác",
+            "AuthButton": "Đăng nhập và Bắt đầu",
+            "LoginText": "Chọn phương thức đăng nhập",
+            "SkipRegister": "Tiếp tục mà không đăng ký"
+        },
+        "Rating": {
+            "ToStartNotification": "Trong {days} {number} người dùng giỏi nhất sẽ bay đến hành tinh {planet}",
+            "ToStart": "{value} đến khi triển khai",
+            "Time": {
+                "Days": {
+                    "one": "{value} ngày",
+                    "few": "{value} ngày",
+                    "many": "{value} ngày",
+                    "other": "{value} ngày"
+                },
+                "Hours": {
+                    "one": "{value} giờ",
+                    "few": "{value} giờ",
+                    "many": "{value} giờ",
+                    "other": "{value} giờ"
+                },
+                "Minute": {
+                    "one": "{value} phút",
+                    "few": "{value} phút",
+                    "other": "{value} phút"
+                }
+            },
+            "BestHeader": "Top {number} sẽ bay đến hành tinh này",
+            "MiddleHeader": "Ứng cử viên",
+            "WorstHeader": "Khu vực loại trừ",
+            "TrainingButton": "Bài học thực hành",
+            "Analyze": {
+                "Tittle": "Tạo bài tập...",
+                "Description1": "Hoàn thành nhiều bài học hơn để mở khóa các bài tập mới",
+                "Description2": "Bạn càng thực hành nhiều, bạn càng nhớ nội dung tốt hơn",
+                "Description3": "Bí quyết đưa tới thành công là thực hành thường xuyên. Bạn đang thể hiện rất tuyệt vời!",
+                "Description4": "Học tiếng Anh không hề khó. Bạn có thể làm được!"
+            },
+            "NoInternet": {
+                "Tittle": "Mất kết nối...",
+                "Description": "Để xem vị trí của bạn trên bảng điểm, hãy kiểm tra kết nối Internet"
+            },
+            "Minimum": {
+                "TitleLesson": "Hoàn thành bài học",
+                "Description": "Nó sẽ giúp bạn xác định vị trí của mình trên phi hành đoàn",
+                "LessonButton": "Đi thôi!",
+                "GetCoins": "Kiếm {count} RocketCoins để hoàn thành các bài học và câu chuyện Trinh Thám hoặc thực hành trong Sổ Tay",
+                "MinimumTitle": "Kiếm tối thiểu"
+            },
+            "NeedLicence": {
+                "Title": "Nhận lại giấy phép của bạn",
+                "Description": "Kiếm {count} RocketCoins để nhận lại giấy phép của bạn và tiếp tục nhiệm vụ nghiên cứu"
+            },
+            "Completed": {
+                "LikeToMeet": "Thích cuộc đối thoại? Trò chuyện với {name}",
+                "RepeatButton": "Thực hiện lần nữa",
+                "GoodResult": "Bạn đã làm tốt ngoài sức tưởng tượng và giành được vị trí {place}!",
+                "ExploreButton": "Khám phá hành tinh",
+                "OhNo": "Ôi không, họ đang bay đi xa mà không có bạn!",
+                "BadRsult": "Bạn đã giành được vị trí {place}. Có vẻ như bạn sẽ giữ vị trí này cho tới nhiệm vụ tiếp theo.",
+                "GetTechnologyTitle": "Để có được công nghệ mới, hãy nói chuyện với {name}",
+                "GetTechnologyButton": "Nhận công nghệ"
+            },
+            "Current": {
+                "Title": "Đứng trong danh sách top và nhận công nghệ mới từ {name}",
+                "Hide": "Ẩn"
+            },
+            "Future": {
+                "Title": "Đầu tiên phải ghé thăm hành tinh trước đó",
+                "Back": "Quay trở lại"
+            },
+            "LostLicence": {
+                "Title": "Chúng tôi rất tiếc!",
+                "Description": "Bạn đã hoàn thành ở vị trí {place} và để mất giấy phép phi hành gia của mình. Kiếm {coins} RocketCoin để tham gia vào nhiệm vụ kế tiếp."
+            },
+            "LicenceReturned": {
+                "Title": "Giấy phép đã được khôi phục!",
+                "Description": "Bạn đã làm rất tốt! Giờ đây bạn có thể tiếp tục nhiệm vụ tìm kiếm công nghệ mới của mình."
+            },
+            "PlanetInfo": {
+                "HintText": "Vào cuối cuộc hội thoại, bạn có thể thêm từ vào Sổ Tay",
+                "CompleteTaskButton": "Hoàn tất"
+            },
+            "TasksWelcomeScreens": {
+                "FastTraining": {
+                    "Title": "Thực hành nhanh",
+                    "Description": "Học cách chọn ra hình thức từ chính xác một cách nhanh chóng"
+                },
+                "BrainBoost": {
+                    "Title": "BrainBoost",
+                    "Description": "Ôn lại các bài tập bạn đã làm không đúng"
+                },
+                "RepeatWords": {
+                    "WriteWordsTitle": "Nhập vào các từ",
+                    "WriteWordsDescription": "Ôn lại từ mới và thực hành chính tả",
+                    "WordsAudioTitle": "Nghe các từ",
+                    "WordsAudioDescription": "Thực hành nghe và hiểu các từ mới",
+                    "WordsSpeakingTitle": "Phát âm",
+                    "WordsSpeakingDescription": "Nói ra các từ và cải thiện phát âm của bạn",
+                    "WordsDraggingTitle": "Kéo và thả",
+                    "WordsDraggingDescription": "Ghép cặp từ"
+                },
+                "RepeatRules": {
+                    "ApplyRulesTitle": "Hình thành các câu",
+                    "ApplyRulesDescription": "Ôn lại quy tắc ngữ pháp và học cách sử dụng trong giao tiếp hàng ngày",
+                    "RulesAudioTitle": "Lắng nghe các cụm từ",
+                    "RulesAudioDescription": "Lắng nghe và học cách hiểu các câu hoàn chỉnh"
+                },
+                "Audio": {},
+                "Association": {
+                    "Title": "Các liên kết từ",
+                    "Description": "Học cách suy nghĩ bằng tiếng Anh"
+                },
+                "ReadingAndPerception": {
+                    "Title": "Kiểm tra Oxford",
+                    "Description": "Phát triển các kỹ năng đọc và chút ý chi tiết của bạn"
+                },
+                "TrueOrFalse": {
+                    "Title": "Đúng hay sai",
+                    "Description": "Cải thiện các kỹ năng đọc và suy nghĩ có logic"
+                }
+            },
+            "Finish": {
+                "InProgress": {
+                    "Title": "Đừng để tụt lại phía sau!",
+                    "Subtitle": "Hoàn thành một bài học thực hành khác"
+                },
+                "Complete": {
+                    "Premium": {
+                        "Title": "Xin Chúc Mừng!",
+                        "Subtitle": "Bạn đã hoàn tất mọi bài học thực hành trong hôm nay"
+                    },
+                    "Free": {
+                        "Title": "Nhận bài học thực hành không giới hạn ngay",
+                        "Subtitle": "Hoặc quay trở lại vào ngày mai"
+                    }
+                }
+            }
+        }
+    },
+    "Technologies": {
+        "Main": {
+            "Title": "Lưu trữ công nghệ ({earned}/{count})",
+            "Header": "Trở thành anh hùng Trái Đất",
+            "Description": "Thu thập công nghệ trên tất cả các hành tinh và giúp Trái Đất",
+            "BackButton": "Trở lại bảng điểm"
+        },
+        "TechnolodyInfo": {
+            "Disabled": "Mô tả công nghệ đang bị ẩn. Để có được công nghệ này, hãy nói chuyện với {alien}"
+        }
+    },
+    "AlienInfo": {
+        "Button": "Bắt đầu cuộc hội thoại"
+    },
+    "AlienDialog": {
+        "CompleteButton": "Hoàn tất",
+        "FriendlinessTitle": "Mức độ thân thiện",
+        "FriendlinessDescription": "Để có được công nghệ mới. hãy xem chỉ báo mức độ thân thiện của {name}",
+        "SuccessButton": "Nhận phần thưởng",
+        "FailTitle": "Nếu bạn không rời đi, hành tinh này sẽ tuyên bố chiến tranh",
+        "FailButton": "Rời khỏi hành tinh này",
+        "NewTechnology": "Công nghệ mới!",
+        "StudyButton": "Kiểm tra"
+    },
+    "TruthTask": {
+        "Question": "Tuyên bố này có đúng không?"
+    },
+    "OxfordTask": {
+        "Question": "Chọn đáp án đúng nhất"
+    },
+    "AssociationTask": {
+        "Question": "Chọn từ phù hợp với những kết hợp này"
+    },
+    "QuickTask": {
+        "Question": "Điền vào chỗ trống"
+    },
+    "GoalProgress": {
+        "Title": "Tiến trình",
+        "Banners": {
+            "ComeBackTomorrow": "Quay trở lại vào ngày mai để duy trì chuỗi của bạn",
+            "TakeLessons": "Hoàn thành các bài học để học mọi chủ đề trong khóa học",
+            "ScoreCoins": "Kiếm thêm điểm trong các bài học, Sổ Tay và chuyện Trinh Thám"
+        },
+        "CoinStats": {
+            "SingleHeader": "Bạn có {value} RC",
+            "SingleCaption": "{value} RC tuần này",
+            "SingleCaptionLocked": "Tham gia vào cuộc thi để kiếm thêm RocketCoins",
+            "MultiHeader": "RC trong một tuần",
+            "Coins": "{value} RC"
+        },
+        "GoalCalendar": {
+            "Title": "Chuỗi liên tiếp hiện tại",
+            "Streak": {
+                "one": "{value} ngày liên tiếp",
+                "few": "{value} ngày liên tiếp",
+                "many": "{value} ngày liên tiếp",
+                "other": "{value} ngày liên tiếp"
+            },
+            "Days": {
+                "one": "{value} ngày",
+                "few": "{value} ngày",
+                "many": "{value} ngày",
+                "other": "{value} ngày"
+            }
+        },
+        "LevelProgress": {
+            "ChangeLevel": "Đổi cấp"
+        },
+        "LearnProgressCompare": {
+            "Title": "Tiến trình của bạn"
+        }
+    },
+    "HabroAd": {
+        "PopupTitle": "Tải xuống ứng dụng mới của chúng tôi để phát triển những thói quen tích cực!",
+        "NeverMore": "Đừng hiển thị nội dung này nữa",
+        "BannerContent": "Thói quen tốt cho\ntrẻ em và người lớn!"
+    },
+    "Notification": {
+        "Notification1": {
+            "Title": "👋 Đã đến lúc thực hành",
+            "Body": "Tiếp tục học tập với Simpler nhé"
+        },
+        "Notification2": {
+            "Title": "🕗 Giờ luyện tiếng Anh đến rồi",
+            "Body": "Duy trì tiến bộ cùng Simpler"
+        },
+        "Notification3": {
+            "Title": "🇺🇸 Tiếng Anh đang chờ đó!",
+            "Body": "Đừng quên liều thuốc tiếng Anh hàng ngày ạ"
+        },
+        "Notification4": {
+            "Title": "🕗 Đừng bỏ qua bài học tiếng Anh hay",
+            "Body": "Nâng cấp tiếng Anh đi thôi"
+        },
+        "Notification5": {
+            "Title": "🇺🇸 Rèn luyện mỗi ngày",
+            "Body": "Mở Simpler và tiếp tục học nhé"
+        },
+        "Notification6": {
+            "Title": "👋 Tới lúc cần học chút tiếng Anh rồi",
+            "Body": "Chìa khóa thành công là không ngừng học"
+        },
+        "Notification7": {
+            "Title": "👋 Giờ luyện tiếng Anh đến rồi",
+            "Body": "Bài tập và từ vựng mới u là chời"
+        }
+    },
+    "GoalNotifications": {
+        "NotificationOneDay1": {
+            "Title": "⚡️ Bảo toàn chuỗi liên tiếp",
+            "Body": "Học tới 11:59 tối để bảo toàn chuỗi liên tiếp của bạn"
+        },
+        "NotificationOneDay2": {
+            "Title": "❗️Chuỗi liên tiếp đang lung lay",
+            "Body": "Hãy hoàn thành bài học trước khi hết ngày"
+        },
+        "NotificationManyDays1": {
+            "Title": "🙉 Chuỗi {days} ngày đang lung lay!",
+            "Body": "Hãy hoàn thành bài tập mới (3 phút)"
+        },
+        "NotificationManyDays2": {
+            "Title": "🆘 Cứu lấy chuỗi {days} ngày của bạn!",
+            "Body": "Nhanh tay hoàn thành bài tập (3 phút)"
+        },
+        "NotificationManyDays3": {
+            "Title": {
+                "one": "❗️Đừng để vuột mất thành tích {days} ngày!",
+                "few": "❗️Đừng để vuột mất thành tích {days} ngày!",
+                "other": "❗️Đừng để vuột mất thành tích {days} ngày!"
+            },
+            "Body": "Tránh làm chuỗi của bạn đứt đoạn!"
+        }
+    }
+}

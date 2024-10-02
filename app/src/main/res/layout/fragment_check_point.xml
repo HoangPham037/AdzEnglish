@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical"
+    tools:context=".ui.learn.checkpoint.CheckPointFragment">
+
+    <include layout="@layout/tool_bar" android:id="@+id/layoutToolBar"/>
+    <include layout="@layout/progress" android:id="@+id/layoutProgress"/>
+    <RelativeLayout
+        android:layout_marginVertical="@dimen/_16dp"
+        android:paddingHorizontal="@dimen/_16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvAnswerRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_16dp"
+            android:layout_toStartOf="@+id/tvWrongAnswer"
+            android:gravity="center"
+            android:textColor="@color/green_04"
+            android:textSize="@dimen/_24sp"
+            app:drawableStartCompat="@drawable/ic_answer_right"
+            android:text="@string/txt_value_default" />
+        <TextView
+            android:id="@+id/tvWrongAnswer"
+            android:layout_alignParentEnd="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="@dimen/_24sp"
+            android:textColor="@color/red"
+            android:text="@string/txt_value_default"
+            app:drawableStartCompat="@drawable/ic_answer_wrong" />
+    </RelativeLayout>
+
+    <com.adzenglish.adzenglish.customview.NoTouchRecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="horizontal"
+        tools:listitem="@layout/item_checkpoint"
+        android:id="@+id/recyclerViewCheckpoint"/>
+
+</LinearLayout>

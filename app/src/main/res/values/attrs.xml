@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressBar">
+        <attr name="mStrokeWidth" format="dimension"/>
+        <attr name="mAnimationDuration" format="integer"/>
+        <attr name="mMaxProgress" format="integer"/>
+        <attr name="mProgressColor" format="color"/>
+    </declare-styleable>
+    
+    <declare-styleable name="CustomCalendarView">
+        <attr name="dayBackgroundColor" format="color"/>
+        <attr name="dayTextColor" format="color"/>
+        <attr name="dayTextSize" format="dimension"/>
+        <attr name="dayWidth" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="CustomLineText">
+        <attr name="mTextSize" format="dimension"/>
+        <attr name="mText" format="string"/>
+        <attr name="mTextWidth" format="dimension"/>
+        <attr name="mTextColor" format="color"/>
+    </declare-styleable>
+</resources>

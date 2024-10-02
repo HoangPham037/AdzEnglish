@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_marginTop="@dimen/_20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_back">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:text="@string/txt_edit"
+            android:textColor="@color/blue_01"
+            android:textSize="@dimen/_16sp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivAvatar"
+        android:layout_width="@dimen/_64dp"
+        android:layout_height="@dimen/_64dp"
+        android:background="@drawable/bg_avatar"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_50dp"
+        android:src="@drawable/iv_avt" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/tvEditAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20dp"
+        android:background="@drawable/bg_text_view"
+        android:backgroundTint="#EBF5FF"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:paddingHorizontal="@dimen/_40dp"
+        android:paddingVertical="@dimen/_8dp"
+        android:text="@string/txt_edit_account"
+        android:textColor="@color/blue_02"
+        android:textSize="@dimen/_16sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_40dp"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:text="@string/txt_name_account"
+        android:textColor="@color/gray_01"
+        android:textSize="@dimen/_14sp" />
+
+    <EditText
+        android:id="@+id/edtName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:inputType="text"
+        android:paddingVertical="@dimen/_15dp"
+        android:textColor="@color/green_01"
+        android:textSize="@dimen/_16sp"
+        tools:ignore="Autofill,LabelFor" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginBottom="@dimen/_40dp"
+        android:background="@drawable/bg_text_view"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:text="@string/txt_save"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sp" />
+</LinearLayout>

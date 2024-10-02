@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_dialog"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="@dimen/_16dp"
+    android:padding="@dimen/_20dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:maxLines="1"
+        android:text="@string/txt_title_delete"
+        android:textColor="#3E7FFF"
+        android:textSize="@dimen/_16sp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_1dp"
+        android:layout_marginVertical="@dimen/_12dp"
+        android:background="#F3F6F6"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:text="@string/txt_content_delete"
+        android:textColor="#444655"
+        android:textSize="@dimen/_14sp" />
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="@dimen/_10dp">
+
+        <TextView
+            android:id="@+id/tvCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_regular"
+            android:padding="@dimen/_10dp"
+            android:text="@string/txt_cancel"
+            android:textColor="#444655"
+            android:textSize="@dimen/_14sp" />
+
+        <TextView
+            android:id="@+id/tvDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_10dp"
+            android:fontFamily="@font/plusjakartasans_regular"
+            android:padding="@dimen/_10dp"
+            android:text="@string/txt_delete_account"
+            android:textColor="@color/red"
+            android:textSize="@dimen/_14sp" />
+    </TableRow>
+</LinearLayout>

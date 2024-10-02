@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background_app">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/_100dp"
+            android:paddingHorizontal="@dimen/_16dp">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="@dimen/_30dp"
+                android:src="@drawable/fireworks"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="ContentDescription" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/constraintLayout"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_marginHorizontal="@dimen/_16dp"
+                android:layout_marginTop="@dimen/_150dp"
+                android:background="@drawable/bgr_item_lesson"
+                app:layout_constraintDimensionRatio="H, 343:373"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/imgBgrTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/ic_title_result"
+                    app:layout_constraintBottom_toTopOf="@+id/tvAction"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tvCompletionRate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentEnd="true"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_16sp"
+                    app:layout_constraintBottom_toTopOf="@+id/tvDescLesson"
+                    app:layout_constraintEnd_toEndOf="@+id/imgBgrTitle"
+                    app:layout_constraintStart_toStartOf="@+id/imgBgrTitle"
+                    app:layout_constraintTop_toTopOf="@+id/imgBgrTitle"
+                    app:layout_constraintVertical_bias="1.0"
+                    tools:text="90%" />
+
+                <TextView
+                    android:id="@+id/tvDescLesson"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginBottom="27dp"
+                    android:fontFamily="@font/pacifico"
+                    android:text="@string/txt_great"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_24sp"
+                    app:layout_constraintBottom_toBottomOf="@+id/imgBgrTitle"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="@+id/imgBgrTitle" />
+
+                <LinearLayout
+                    android:id="@+id/linearLayout4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    app:layout_constraintBottom_toTopOf="@+id/tvCompletionRate"
+                    app:layout_constraintEnd_toEndOf="@+id/tvDescLesson"
+                    app:layout_constraintStart_toStartOf="@+id/tvDescLesson">
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/imgStarLeft"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:src="@drawable/ic_star_left" />
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/imgStarRight"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/_3dp"
+                        android:src="@drawable/ic_star_center" />
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/imgStarCenter"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:src="@drawable/ic_star_right" />
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/linearLayout5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    app:layout_constraintBottom_toTopOf="@+id/tvAction"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tvDescLesson">
+
+                    <TextView
+                        android:id="@+id/tvTotalTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/plusjakartasans_bold"
+                        android:gravity="center_vertical"
+                        android:maxLines="1"
+                        android:textColor="@color/blue_02"
+                        android:textSize="@dimen/_16sp"
+                        app:drawableStartCompat="@drawable/ic_time"
+                        tools:text="00:34" />
+
+                    <TextView
+                        android:id="@+id/tvTotalRightAnswer"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="@dimen/_18dp"
+                        android:fontFamily="@font/plusjakartasans_bold"
+                        android:gravity="center_vertical"
+                        android:maxLines="1"
+                        android:textColor="@color/green_05"
+                        android:textSize="@dimen/_16sp"
+                        app:drawableStartCompat="@drawable/ic_done"
+                        tools:text="3/6" />
+
+                    <TextView
+                        android:id="@+id/tvTotalGold"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/plusjakartasans_bold"
+                        android:gravity="center_vertical"
+                        android:maxLines="1"
+                        tools:text="@string/txt_15_gold"
+                        android:textColor="#FFB800"
+                        android:textSize="@dimen/_16sp"
+                        app:drawableStartCompat="@drawable/ic_gold" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/tvAction"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginBottom="@dimen/_20dp"
+                    android:background="@drawable/ic_btn_result"
+                    android:fontFamily="@font/pacifico"
+                    android:text="@string/txt_continue"
+                    android:paddingBottom="@dimen/_5dp"
+                    android:gravity="center"
+                    android:textAlignment="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_24sp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="@+id/linearLayout5"
+                    app:layout_constraintStart_toStartOf="@+id/linearLayout5" />
+
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_10dp"
+                android:fontFamily="@font/plusjakartasans_bold"
+                android:textColor="@color/blue_02"
+                android:textSize="@dimen/_20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/constraintLayout"
+                tools:text="15 từ đã học" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rcvLearnedWord"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                tools:listitem="@layout/item_word_result"
+                android:layout_marginTop="@dimen/_20dp"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvTitle" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnContinue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:layout_marginBottom="@dimen/_30dp"
+        android:background="@drawable/bg_continue_btn"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:paddingVertical="@dimen/_16dp"
+        android:text="@string/txt_continue"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

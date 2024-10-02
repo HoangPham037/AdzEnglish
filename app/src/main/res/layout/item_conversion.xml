@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:text="@string/txt_select"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/tvQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_10dp"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_24sp"
+            app:layout_constraintBottom_toTopOf="@+id/tvChangeType"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvTitle"
+            tools:text="Do you have children?" />
+
+        <ImageView
+            android:id="@+id/ivListenAnswer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/iv_sound"
+            app:layout_constraintBottom_toTopOf="@+id/tvChangeType"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvTitle"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/tvChangeType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_80dp"
+            android:layout_marginBottom="@dimen/_20dp"
+            android:background="@drawable/bg_result_true"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_40dp"
+            android:paddingVertical="@dimen/_8dp"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_16sp"
+            app:layout_constraintBottom_toTopOf="@id/layoutCheckAnswer"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:text="Tôi không thể lắng nghe lúc này" />
+
+        <include
+            android:id="@+id/layoutCheckAnswer"
+            layout="@layout/check_answer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="@dimen/_16dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <include
+            android:id="@+id/result"
+            layout="@layout/item_result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

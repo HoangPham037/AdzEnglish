@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627605408447",
+    "project_id": "adz-english",
+    "storage_bucket": "adz-english.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627605408447:android:677a24acd63019861e940a",
+        "android_client_info": {
+          "package_name": "com.adzenglish.adzenglish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbF5rPNQT1dyXcNSG2L26g0SUJjQ_YGAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

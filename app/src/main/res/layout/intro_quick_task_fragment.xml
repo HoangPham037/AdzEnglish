@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:paddingHorizontal="@dimen/_16dp"
+    android:background="@drawable/background_app"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="@dimen/_220dp"
+        android:layout_height="@dimen/_200dp"
+        android:src="@drawable/iv_practice_quickly" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:text="@string/txt_quick_task"
+        android:textColor="@color/blue_02"
+        android:textSize="@dimen/_24sp" />
+
+    <TextView
+        android:id="@+id/tvTitleContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:gravity="center"
+        android:text="@string/txt_content_practice"
+        android:textColor="#5C5B5B"
+        android:textSize="@dimen/_16sp" />
+
+</LinearLayout>

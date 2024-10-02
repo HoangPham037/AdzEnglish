@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_marginTop="@dimen/_20dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_back">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:text="@string/txt_evaluate"
+            android:textColor="@color/blue_01"
+            android:textSize="@dimen/_16sp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="@dimen/_200dp"
+        android:layout_height="@dimen/_200dp"
+        android:layout_gravity="center"
+        android:src="@drawable/iv_rate" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:text="@string/txt_like_app"
+        android:textColor="@color/blue_02"
+        android:textSize="@dimen/_20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20dp"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:text="@string/txt_content_rate"
+        android:textColor="@color/gray_01"
+        android:textSize="@dimen/_16sp" />
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20dp">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_star_one"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_10dp"
+            android:src="@drawable/ic_star_true" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_star_two"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_10dp"
+            android:src="@drawable/ic_star_true" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_star_three"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_10dp"
+            android:src="@drawable/ic_star_true" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_star_four"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_10dp"
+            android:src="@drawable/ic_star_true" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/iv_star_five"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="@dimen/_10dp"
+            android:src="@drawable/ic_star_true" />
+    </TableRow>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnRate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20dp"
+        android:background="@drawable/bg_text_view"
+        android:backgroundTint="#0EA8FF"
+        android:paddingHorizontal="@dimen/_90dp"
+        android:text="@string/txt_rate"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_14sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+</LinearLayout>

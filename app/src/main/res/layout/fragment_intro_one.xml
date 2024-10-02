@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical"
+    android:paddingHorizontal="@dimen/_16dp">
+    <TableRow
+        android:id="@+id/tbLanguage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="@dimen/_48dp"
+        android:visibility="gone"
+        android:paddingVertical="@dimen/_12dp"
+        android:paddingStart="@dimen/_16dp"
+        tools:ignore="RtlSymmetry,UselessParent">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ivNationalFlag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_national_flag" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="10dp"
+            android:text="@string/txt_language"
+            android:textColor="@color/blue_01"
+            android:textSize="@dimen/_16sp" />
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:src="@drawable/ic_bottom" />
+    </TableRow>
+    <View
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="@dimen/_0dp"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_intro"
+        tools:ignore="ContentDescription" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:gravity="center"
+        android:text="@string/txt_content_1"
+        android:textColor="@color/blue_01"
+        android:textSize="@dimen/_24sp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="@dimen/_0dp"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/tvLestGo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_text_view"
+        android:text="@string/txt_lets_go"
+        style="@style/button_style"
+        android:textColor="@color/white"/>
+</LinearLayout>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_bottom_dialog"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivCloseBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="@dimen/_15dp"
+        android:src="@drawable/ic_bottom_dialog" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingHorizontal="@dimen/_16dp">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/feedBackSound"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_40dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="@dimen/_16dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ivFeedBackSound"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_16dp"
+                    android:paddingVertical="@dimen/_20dp"
+                    android:src="@drawable/ic_check_false" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_item_text"
+                    android:fontFamily="@font/plusjakartasans_regular"
+                    android:padding="@dimen/_16dp"
+                    android:text="@string/txt_feed_back_sound"
+                    android:textColor="@color/gray_01" />
+            </TableRow>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/feedBackTranslation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_20dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="@dimen/_16dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ivFeedBackTranslation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_16dp"
+                    android:paddingVertical="@dimen/_20dp"
+                    android:src="@drawable/ic_check_false" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_item_text"
+                    android:fontFamily="@font/plusjakartasans_regular"
+                    android:padding="@dimen/_16dp"
+                    android:text="@string/txt_translation"
+                    android:textColor="@color/gray_01" />
+            </TableRow>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/feedBackAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_20dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="@dimen/_16dp">
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ivFeedBackAnswer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_16dp"
+                    android:paddingVertical="@dimen/_20dp"
+                    android:src="@drawable/ic_check_false" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/bg_item_text"
+                    android:fontFamily="@font/plusjakartasans_regular"
+                    android:padding="@dimen/_16dp"
+                    android:text="@string/txt_answer"
+                    android:textColor="@color/gray_01" />
+            </TableRow>
+        </androidx.cardview.widget.CardView>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/inputLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_20dp"
+            android:background="@color/white"
+            android:hint="@string/txt_comment"
+            android:textColorHint="@color/gray_01"
+            app:boxBackgroundMode="outline"
+            app:boxCornerRadiusBottomEnd="@dimen/_16dp"
+            app:boxCornerRadiusBottomStart="@dimen/_16dp"
+            app:boxCornerRadiusTopEnd="@dimen/_16dp"
+            app:boxCornerRadiusTopStart="@dimen/_16dp"
+            app:boxStrokeColor="@color/gray_01"
+            app:boxStrokeWidth="@dimen/_1dp"
+            app:hintTextColor="@color/gray_01">
+
+            <EditText
+                android:id="@+id/edtContent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:fontFamily="@font/plusjakartasans_regular"
+                android:inputType="textMultiLine"
+                android:padding="20dp"
+                android:textColor="@color/black"
+                android:textSize="@dimen/_14sp"
+                android:textStyle="normal"
+                tools:ignore="Autofill,LabelFor" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnFeedBack"
+            style="@style/button_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_30dp"
+            android:background="@drawable/bg_text_continue"
+            android:text="@string/txt_error_report"
+            android:textColor="@color/gray_01" />
+
+        <TextView
+            android:id="@+id/tvClose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/_20dp"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:paddingHorizontal="@dimen/_30dp"
+            android:paddingVertical="@dimen/_10dp"
+            android:text="@string/txt_close"
+            android:textColor="@color/green_01"
+            android:textSize="@dimen/_16sp" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_bottom_dialog"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/ivCloseBottom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="@dimen/_15dp"
+        android:src="@drawable/ic_bottom_dialog" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="@dimen/_16dp"
+        android:background="@color/white"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TableRow
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <NumberPicker
+                android:id="@+id/hrsPicker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:layout_marginVertical="@dimen/_30dp"
+                android:theme="@style/NumberPickerTheme" />
+
+            <View
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent"
+                android:layout_marginVertical="@dimen/_40dp"
+                android:background="@color/gray_01" />
+
+            <NumberPicker
+                android:id="@+id/minPicker"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="20dp"
+                android:theme="@style/NumberPickerTheme" />
+        </TableRow>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_view"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:paddingVertical="@dimen/_16dp"
+            android:text="@string/txt_save"
+            android:textAllCaps="false"
+            android:layout_marginTop="@dimen/_10dp"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_16sp" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/tvDisable"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_16dp"
+            android:layout_marginBottom="@dimen/_40dp"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:paddingHorizontal="@dimen/_50dp"
+            android:paddingVertical="@dimen/_10dp"
+            android:text="@string/txt_disable"
+            android:textColor="@color/green_01"
+            android:textSize="@dimen/_16sp" />
+    </LinearLayout>
+</LinearLayout>

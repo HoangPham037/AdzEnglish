@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/nestedScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background_app">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:navigationIcon="@drawable/ic_back">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/plusjakartasans_bold"
+                    android:text="@string/txt_come_back"
+                    android:textColor="@color/blue_01"
+                    android:textSize="@dimen/_16sp" />
+
+            </androidx.appcompat.widget.Toolbar>
+
+            <TextView
+                android:id="@+id/tvTotalWord"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_20dp"
+                android:background="@drawable/bg_text_total_word"
+                android:fontFamily="@font/poetsenone_regular"
+                android:gravity="center"
+                android:padding="@dimen/_10dp"
+                android:shadowColor="#6B55D3"
+                android:shadowDx="1"
+                android:shadowDy="15"
+                android:shadowRadius="1"
+                tool:text="176"
+                android:textColor="#F6F4F4"
+                android:textSize="@dimen/_64sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/toolbar" />
+
+            <TextView
+                android:id="@+id/tvTotalNumberWord"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/plusjakartasans_bold"
+                android:gravity="center"
+                android:text="@string/txt_total_word"
+                android:textColor="@color/blue_01"
+                android:textSize="@dimen/_14sp"
+                app:layout_constraintEnd_toEndOf="@id/tvTotalWord"
+                app:layout_constraintStart_toStartOf="@id/tvTotalWord"
+                app:layout_constraintTop_toBottomOf="@id/tvTotalWord" />
+
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/tabLayout"
+                style="@style/MyTabLayoutTextAppearance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20dp"
+                android:background="@null"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvTotalNumberWord"
+                app:tabGravity="fill"
+                app:tabMode="fixed"
+                app:tabSelectedTextColor="@color/orange"
+                app:tabTextColor="@color/gray_01">
+
+                <com.google.android.material.tabs.TabItem
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+
+                <com.google.android.material.tabs.TabItem
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </com.google.android.material.tabs.TabLayout>
+
+            <TextView
+                android:id="@+id/tvReview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_16dp"
+                android:layout_marginTop="@dimen/_10dp"
+                android:fontFamily="@font/plusjakartasans_bold"
+                android:gravity="center"
+                android:text="@string/txt_review"
+                android:textColor="@color/blue_02"
+                android:textSize="@dimen/_16sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tabLayout" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rcvWord"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20dp"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                tool:itemCount="3"
+                app:layout_constraintTop_toBottomOf="@id/tvReview"
+                tool:listitem="@layout/item_word_review" />
+
+            <TextView
+                android:id="@+id/tvAddWordNew"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_20dp"
+                android:fontFamily="@font/plusjakartasans_bold"
+                android:gravity="center"
+                android:text="@string/txt_add_word_new"
+                android:textColor="@color/blue_02"
+                android:textSize="@dimen/_16sp"
+                app:layout_constraintStart_toStartOf="@id/tvReview"
+                app:layout_constraintTop_toBottomOf="@id/rcvWord" />
+
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/openChest"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_16dp"
+                android:layout_marginTop="@dimen/_10dp"
+                android:background="@drawable/bg_answer"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvAddWordNew">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ivChest"
+                    android:layout_width="@dimen/_48dp"
+                    android:layout_height="@dimen/_40dp"
+                    android:layout_marginVertical="@dimen/_30dp"
+                    android:layout_marginStart="@dimen/_16dp"
+                    android:src="@drawable/ic_chest"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tvDailyChest"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_14dp"
+                    android:fontFamily="@font/plusjakartasans_bold"
+                    android:text="@string/txt_daily_chest"
+                    android:textColor="@color/blue_02"
+                    android:textSize="@dimen/_12sp"
+                    app:layout_constraintStart_toEndOf="@id/ivChest"
+                    app:layout_constraintTop_toTopOf="@id/ivChest" />
+
+                <TextView
+                    android:id="@+id/tvTotalWordNew"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:fontFamily="@font/plusjakartasans_regular"
+                    android:text="@string/txt_total_word_new"
+                    android:textColor="@color/green_01"
+                    android:textSize="@dimen/_12sp"
+                    app:layout_constraintBottom_toBottomOf="@id/ivChest"
+                    app:layout_constraintStart_toStartOf="@id/tvDailyChest"
+                    app:layout_constraintTop_toBottomOf="@id/tvDailyChest" />
+
+                <TextView
+                    android:id="@+id/tvOpenNewWord"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_16dp"
+                    android:layout_marginEnd="@dimen/_16dp"
+                    android:background="@drawable/bg_word"
+                    android:fontFamily="@font/plusjakartasans_bold"
+                    android:paddingHorizontal="@dimen/_30dp"
+                    android:paddingVertical="@dimen/_15dp"
+                    android:text="@string/txt_open"
+                    android:textColor="@color/blue_02"
+                    android:textSize="@dimen/_12sp"
+                    app:layout_constraintBottom_toBottomOf="@id/ivChest"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/ivChest" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/openLessons"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="@dimen/_16dp"
+                android:layout_marginTop="@dimen/_10dp"
+                android:layout_marginBottom="@dimen/_48dp"
+                android:background="@drawable/bg_answer"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="@id/openChest"
+                app:layout_constraintStart_toStartOf="@id/openChest"
+                app:layout_constraintTop_toBottomOf="@id/openChest">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/ivLessons"
+                    android:layout_width="@dimen/_48dp"
+                    android:layout_height="@dimen/_40dp"
+                    android:layout_marginVertical="@dimen/_30dp"
+                    android:layout_marginStart="@dimen/_16dp"
+                    android:src="@drawable/ic_intro"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/tvLessons"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_14dp"
+                    android:fontFamily="@font/plusjakartasans_bold"
+                    android:text="@string/txt_lessons"
+                    android:textColor="@color/blue_02"
+                    android:textSize="@dimen/_12sp"
+                    app:layout_constraintStart_toEndOf="@id/ivLessons"
+                    app:layout_constraintTop_toTopOf="@id/ivLessons" />
+
+                <TextView
+                    android:id="@+id/tvTitleLesson"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:fontFamily="@font/plusjakartasans_regular"
+                    android:text="@string/txt_title_lessons"
+                    android:textColor="@color/green_01"
+                    android:textSize="@dimen/_12sp"
+                    app:layout_constraintBottom_toBottomOf="@id/ivLessons"
+                    app:layout_constraintEnd_toStartOf="@id/tvContinueLessons"
+                    app:layout_constraintStart_toStartOf="@id/tvLessons"
+                    app:layout_constraintTop_toBottomOf="@id/tvLessons" />
+
+                <TextView
+                    android:id="@+id/tvContinueLessons"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_16dp"
+                    android:background="@drawable/bg_word"
+                    android:fontFamily="@font/plusjakartasans_bold"
+                    android:paddingHorizontal="@dimen/_20dp"
+                    android:paddingVertical="@dimen/_15dp"
+                    android:text="@string/txt_continue"
+                    android:textColor="@color/blue_02"
+                    android:textSize="@dimen/_12sp"
+                    app:layout_constraintBottom_toBottomOf="@id/ivLessons"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="@id/ivLessons" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnCheck"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_22dp"
+        android:background="@drawable/bg_text_view"
+        android:paddingHorizontal="@dimen/_77dp"
+        android:paddingVertical="@dimen/_18dp"
+        android:text="@string/txt_check_lessons"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

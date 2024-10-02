@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "id": 3,
+      "title": "Cơ bản",
+      "image": "",
+      "position": 1,
+      "category": 1,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:04",
+      "updated_at": "2023-07-19 10:38:05"
+    },
+    {
+      "id": 9,
+      "title": "Du lịch",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/846\/845989_0SW2NCkBtRGyTzzR.jpg",
+      "position": 2,
+      "category": 1,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:06",
+      "updated_at": "2023-12-01 13:53:45"
+    },
+    {
+      "id": 27,
+      "title": "Tại nơi làm việc",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846007_gz1fVbvzltTBPyJa.jpg",
+      "position": 3,
+      "category": 1,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:09",
+      "updated_at": "2023-11-19 12:39:47"
+    },
+    {
+      "id": 6,
+      "title": "Thực phẩm và thức uống",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/846\/845986_sjaBbexF87hcdqi1.jpg",
+      "position": 4,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:05",
+      "updated_at": "2023-12-01 13:56:23"
+    },
+    {
+      "id": 54,
+      "title": "Các động từ quan trọng",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846034_Nwfy0gI9SjIVDeZl.jpg",
+      "position": 5,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:14",
+      "updated_at": "2023-11-19 12:43:36"
+    },
+    {
+      "id": 33,
+      "title": "Giải trí",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846013_1URhzSS0S8Sx9aWz.jpg",
+      "position": 6,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:10",
+      "updated_at": "2023-11-19 12:43:36"
+    },
+    {
+      "id": 15,
+      "title": "Công việc vặt hàng ngày",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/846\/845995_79DNk109YNxdT3jy.jpg",
+      "position": 7,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:07",
+      "updated_at": "2023-11-19 12:42:34"
+    },
+    {
+      "id": 60,
+      "title": "Các từ phổ biến",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846040_K3weYTcO8pRmlpyd.jpg",
+      "position": 8,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:15",
+      "updated_at": "2023-11-19 12:43:18"
+    },
+    {
+      "id": 12,
+      "title": "Phẩm chất con người",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/846\/845992_gJp34WFtlYYVuaXG.jpg",
+      "position": 9,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:06",
+      "updated_at": "2023-12-01 11:37:45"
+    },
+    {
+      "id": 48,
+      "title": "Thành phố và phương tiện",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846028_T8WtiF2qlfAXyW7y.jpg",
+      "position": 10,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:13",
+      "updated_at": "2023-11-19 12:44:24"
+    },
+    {
+      "id": 18,
+      "title": "Nhà và vườn",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/846\/845998_TNyn6QWUWKy8A3wf.jpg",
+      "position": 11,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:07",
+      "updated_at": "2023-11-19 12:44:24"
+    },
+    {
+      "id": 21,
+      "title": "Nhà bếp",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846001_oXcQILCxRCPksSDH.jpg",
+      "position": 12,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:08",
+      "updated_at": "2023-12-01 13:57:21"
+    },
+    {
+      "id": 24,
+      "title": "Kinh doanh và công nghệ",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846004_160FiTk738FfXf6V.jpg",
+      "position": 13,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:08",
+      "updated_at": "2023-11-19 12:44:32"
+    },
+    {
+      "id": 30,
+      "title": "Quần áo và trang sức",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846010_hmIHIFynhhVQNB4Q.jpg",
+      "position": 14,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:10",
+      "updated_at": "2023-11-19 12:44:13"
+    },
+    {
+      "id": 36,
+      "title": "Thể thao và thể hình",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846016_FdtA1IxqFTUjPFxJ.jpg",
+      "position": 15,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:11",
+      "updated_at": "2023-11-19 12:44:12"
+    },
+    {
+      "id": 39,
+      "title": "Xã hội",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846019_PbkmJ1y2xTcOewPO.jpg",
+      "position": 16,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:11",
+      "updated_at": "2023-11-19 12:44:10"
+    },
+    {
+      "id": 42,
+      "title": "Đồ dùng học tập",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846022_y484j6HGX1BXvOWB.jpg",
+      "position": 17,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:12",
+      "updated_at": "2023-11-19 12:44:08"
+    },
+    {
+      "id": 45,
+      "title": "Mối quan hệ",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846025_C1GXeUOxDDDTZIEx.jpg",
+      "position": 18,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:12",
+      "updated_at": "2023-11-19 12:44:06"
+    },
+    {
+      "id": 51,
+      "title": "Sở thích",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846031_mSZf2nyzmdcCHrsa.jpg",
+      "position": 19,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:13",
+      "updated_at": "2023-11-19 12:42:52"
+    },
+    {
+      "id": 57,
+      "title": "Thiên nhiên và động vật",
+      "image": "https:\/\/simpler.vyzn.io\/storage\/wordthemeSet_image\/847\/846037_ArnGwJfnGfSTA0GJ.jpg",
+      "position": 20,
+      "category": 0,
+      "bg_color": "",
+      "created_at": "2023-07-18 14:17:14",
+      "updated_at": "2023-11-19 12:42:50"
+    }
+  ]
+}

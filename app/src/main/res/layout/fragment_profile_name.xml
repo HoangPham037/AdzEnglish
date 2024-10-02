@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_back">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:text="@string/txt_come_back"
+            android:textColor="@color/blue_01"
+            android:textSize="@dimen/_16sp" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_50dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:text="@string/txt_add_name"
+        android:textColor="@color/blue_02"
+        android:textSize="@dimen/_24sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginStart="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_5dp"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:gravity="center"
+        android:text="@string/txt_create_name"
+        android:textColor="@color/gray_01"
+        android:textSize="@dimen/_16sp" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_40dp"
+        android:background="@color/white"
+        android:hint="@string/txt_enter_name"
+        android:textColorHint="@color/gray_01"
+        app:boxBackgroundMode="outline"
+        app:boxCornerRadiusBottomEnd="@dimen/_16dp"
+        app:boxCornerRadiusBottomStart="@dimen/_16dp"
+        app:boxCornerRadiusTopEnd="@dimen/_16dp"
+        app:boxCornerRadiusTopStart="@dimen/_16dp"
+        app:boxStrokeColor="@color/gray_01"
+        app:boxStrokeWidth="@dimen/_1dp"
+        app:hintTextColor="@color/gray_01">
+
+        <EditText
+            android:id="@+id/edtName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:padding="20dp"
+            android:textColor="@color/black"
+            android:textSize="@dimen/_16sp"
+            android:textStyle="normal"
+            tools:ignore="Autofill,LabelFor" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginBottom="@dimen/_40dp"
+        android:background="@drawable/bg_text_continue"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:paddingVertical="@dimen/_18dp"
+        android:text="@string/txt_continue"
+        android:textAllCaps="false"
+        android:textColor="@color/gray_01"
+        android:textSize="@dimen/_16sp" />
+</LinearLayout>

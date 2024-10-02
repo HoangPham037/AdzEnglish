@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/_16dp">
+
+        <TextView
+            android:id="@+id/tvDescAnswer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:text="@string/txt_is_answer_sort"
+            android:textColor="@color/blue_02"
+            app:drawableStartCompat="@drawable/ic_support"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_alignBottom="@+id/tvDescAnswer"
+            android:layout_marginVertical="@dimen/_16dp"
+            android:background="@drawable/bg_answer"
+            android:padding="@dimen/_16dp"
+            app:layout_constraintBottom_toTopOf="@+id/btnCheckAnswer"
+            app:layout_constraintTop_toBottomOf="@+id/tvDescAnswer">
+
+            <TextView
+                android:id="@+id/tvQuestion"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:fontFamily="@font/plusjakartasans_bold"
+                android:textColor="@color/blue_01"
+                android:textSize="@dimen/_24sp"
+                tools:text="We work here" />
+
+            <androidx.appcompat.widget.AppCompatImageView
+                android:id="@+id/imgStateAnswer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_exactly"
+                android:visibility="gone" />
+
+            <LinearLayout
+                android:id="@+id/layoutChooseAnswer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvAnswerRight"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="@dimen/_50dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_result_true"
+                    android:padding="@dimen/_12dp"
+                    android:text="@string/txt_right"
+                    android:textAlignment="center"
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:id="@+id/tvAnswerWrong"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@drawable/bg_result_false"
+                    android:padding="@dimen/_12dp"
+                    android:text="@string/txt_wrong"
+                    android:textAlignment="center"
+                    android:textColor="@color/black" />
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnCheckAnswer"
+            style="@style/button_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_continue"
+            android:text="@string/txt_check_answer"
+            android:textColor="@color/gray_01"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

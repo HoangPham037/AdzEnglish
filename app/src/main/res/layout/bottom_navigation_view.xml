@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_60dp"
+    android:background="@color/white"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/imageHome"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:contentDescription="@string/button_home"
+        android:padding="@dimen/_16dp"
+        android:src="@drawable/ic_home" />
+
+    <ImageView
+        android:id="@+id/imagePractice"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:contentDescription="@string/button_practice"
+        android:padding="@dimen/_16dp"
+        android:src="@drawable/ic_practice" />
+
+    <ImageView
+        android:id="@+id/imageRank"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:contentDescription="@string/button_rank"
+        android:padding="@dimen/_16dp"
+        android:src="@drawable/ic_rank" />
+
+
+    <ImageView
+        android:id="@+id/imageSetting"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:contentDescription="@string/button_setting"
+        android:padding="@dimen/_16dp"
+        android:src="@drawable/ic_setting" />
+
+</LinearLayout>

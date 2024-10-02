@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_marginVertical="@dimen/_16dp"
+    android:id="@+id/constraintResult"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_result_true"
+    android:paddingVertical="@dimen/_10dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+        <TextView
+            android:id="@+id/tvTitleQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_16dp"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:gravity="center"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_24sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:text="Chính xác" />
+
+        <TextView
+            android:id="@+id/tvResult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5dp"
+            android:fontFamily="@font/plusjakartasans_regular"
+            android:gravity="center"
+            android:paddingEnd="@dimen/_20dp"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_16sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="@id/tvTitleQuestion"
+            app:layout_constraintTop_toBottomOf="@id/tvTitleQuestion"
+            tools:ignore="RtlSymmetry"
+            tools:text="Coffee - Cà phê" />
+
+        <ImageView
+            android:id="@+id/iv_feed_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_18dp"
+            android:padding="@dimen/_5dp"
+            app:layout_constraintEnd_toStartOf="@id/ivSound"
+            app:layout_constraintTop_toTopOf="@id/tvTitleQuestion"
+            tools:ignore="ContentDescription"
+            tools:src="@drawable/ic_feedback" />
+
+        <ImageView
+            android:id="@+id/ivSound"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_18dp"
+            android:padding="@dimen/_5dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@id/tvTitleQuestion"
+            tools:ignore="ContentDescription"
+            tools:src="@drawable/ic_sound" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

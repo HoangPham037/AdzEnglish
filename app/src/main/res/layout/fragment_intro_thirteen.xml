@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/_16dp"
+    android:background="@drawable/background_app"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginHorizontal="@dimen/_16dp"
+        android:layout_marginTop="@dimen/_30dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:gravity="center"
+        android:text="@string/txt_title_6"
+        android:textColor="@color/blue_01"
+        android:textSize="@dimen/_24sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_0dp"
+        android:layout_weight="1" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/iv_intro_thirteen" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_0dp"
+        android:layout_weight="1" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_text_view"
+        style="@style/button_style"
+        android:text="@string/txt_start"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/tvAllTopic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="@dimen/_10dp"
+        android:gravity="center"
+        android:paddingVertical="@dimen/_10dp"
+        android:text="@string/txt_all_topic"
+        android:textColor="@color/green_01"
+        android:textSize="@dimen/_16sp" />
+</LinearLayout>

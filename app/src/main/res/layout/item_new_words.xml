@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5dp"
+            android:layout_marginTop="@dimen/_15dp"
+            app:cardBackgroundColor="@color/white"
+            app:cardCornerRadius="@dimen/_16dp">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/_10dp">
+
+                <ImageView
+                    android:id="@+id/ivCheckAdd"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/_5dp"
+                    android:padding="@dimen/_5dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tool:ignore="ContentDescription"
+                    tool:src="@drawable/ic_check_false" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/tvNewWords"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_8dp"
+                    android:fontFamily="@font/plusjakartasans_bold"
+                    android:textColor="@color/blue_02"
+                    android:textSize="@dimen/_14sp"
+                    app:layout_constraintStart_toEndOf="@id/ivCheckAdd"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tool:text="Water" />
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/tvVni"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/plusjakartasans_regular"
+                    android:textColor="@color/gray_01"
+                    android:textSize="@dimen/_14sp"
+                    app:layout_constraintStart_toStartOf="@id/tvNewWords"
+                    app:layout_constraintTop_toBottomOf="@id/tvNewWords"
+                    tool:text="Nước" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.legacy.widget.Space
+            android:id="@+id/space"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_180dp"
+            android:visibility="gone" />
+    </LinearLayout>
+</layout>

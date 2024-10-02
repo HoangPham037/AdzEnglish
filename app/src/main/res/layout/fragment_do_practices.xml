@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/background_app"
+    android:orientation="vertical"
+    tools:context=".ui.learn.practice.DoPracticesFragment">
+
+    <include
+        android:id="@+id/layoutToolBar"
+        layout="@layout/tool_bar" />
+
+    <include
+        android:id="@+id/layoutProgress"
+        layout="@layout/progress" />
+
+    <com.adzenglish.adzenglish.customview.NoTouchRecyclerView
+        android:id="@+id/rcvPractice"
+        android:layout_margin="@dimen/_16dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/item_do_practice_drop" />
+
+</LinearLayout>

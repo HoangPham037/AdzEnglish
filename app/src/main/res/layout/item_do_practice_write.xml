@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/plusjakartasans_bold"
+            android:text="@string/txt_create_a_phrase"
+            android:textColor="@color/blue_02"
+            android:textSize="@dimen/_20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tvDotedText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/_16sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView4"
+            tools:text="Hello work" />
+
+        <EditText
+            android:id="@+id/edtAnswer"
+            android:layout_marginTop="@dimen/_16dp"
+            android:layout_marginBottom="@dimen/_100dp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_0dp"
+            android:autofillHints="@string/txt_input_answer"
+            android:background="@drawable/bg_answer"
+            android:gravity="start"
+            android:hint="@string/txt_input_answer"
+            android:inputType="textMultiLine"
+            android:padding="@dimen/_16dp"
+            app:layout_constraintBottom_toTopOf="@+id/layoutBtnNext"
+            app:layout_constraintTop_toBottomOf="@+id/tvDotedText" />
+
+        <include
+            android:id="@+id/layoutStateAnswer"
+            layout="@layout/state_answer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_16dp"
+            app:layout_constraintBottom_toTopOf="@+id/layoutBtnNext"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnCheckAnswer"
+            style="@style/button_style"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_text_continue"
+            android:text="@string/txt_check_answer"
+            android:textColor="@color/gray_01"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <include
+            android:layout_marginBottom="@dimen/_40dp"
+            android:id="@+id/layoutBtnNext"
+            layout="@layout/button_next"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/layoutToolBar"
+        layout="@layout/tool_bar" />
+
+    <include
+        android:id="@+id/layoutProgress"
+        layout="@layout/progress" />
+
+    <com.adzenglish.adzenglish.customview.NoTouchRecyclerView
+        android:id="@+id/rcvDoExercise"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/progressBar"
+        tool:listitem="@layout/item_choose_answer" />
+
+</LinearLayout>

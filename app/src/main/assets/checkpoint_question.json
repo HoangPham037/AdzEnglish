@@ -1,0 +1,3276 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "checkpoint_id": 1,
+      "rule_id": 185,
+      "question": "We work here.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 22,
+      "checkpoint_id": 2,
+      "rule_id": 197,
+      "question": "We’re very tired.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 46,
+      "checkpoint_id": 3,
+      "rule_id": 210,
+      "question": "It was happened again.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 60,
+      "checkpoint_id": 4,
+      "rule_id": 218,
+      "question": "We’re will find your phone.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 74,
+      "checkpoint_id": 5,
+      "rule_id": 226,
+      "question": "My parents moved to Russia.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 85,
+      "checkpoint_id": 6,
+      "rule_id": 232,
+      "question": "I think it’s a good idea.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 100,
+      "checkpoint_id": 7,
+      "rule_id": 240,
+      "question": "We'll eat cheese and drank wine.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 117,
+      "checkpoint_id": 8,
+      "rule_id": 249,
+      "question": "You're always busy on Fridays.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 132,
+      "checkpoint_id": 9,
+      "rule_id": 261,
+      "question": "No eat this cheese! It's old.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 149,
+      "checkpoint_id": 10,
+      "rule_id": 271,
+      "question": "Do you have any questions?",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 168,
+      "checkpoint_id": 11,
+      "rule_id": 284,
+      "question": "The phone is ringing.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 186,
+      "checkpoint_id": 12,
+      "rule_id": 296,
+      "question": "It was too late to call her.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 205,
+      "checkpoint_id": 13,
+      "rule_id": 332,
+      "question": "Don't wait for me.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 224,
+      "checkpoint_id": 14,
+      "rule_id": 323,
+      "question": "We can talk after work.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 241,
+      "checkpoint_id": 15,
+      "rule_id": 334,
+      "question": "If I buy two, will you give me a discount?",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 253,
+      "checkpoint_id": 16,
+      "rule_id": 339,
+      "question": "She have changed a lot.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 272,
+      "checkpoint_id": 17,
+      "rule_id": 342,
+      "question": "He written this poem for me when we were kids.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 289,
+      "checkpoint_id": 18,
+      "rule_id": 364,
+      "question": "We'll be able to spend all day outdoors.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 306,
+      "checkpoint_id": 19,
+      "rule_id": 380,
+      "question": "The ATM pretty is far from here.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 322,
+      "checkpoint_id": 20,
+      "rule_id": 394,
+      "question": "I would do anything for you.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 338,
+      "checkpoint_id": 21,
+      "rule_id": 404,
+      "question": "What an embarrassing situation.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 356,
+      "checkpoint_id": 22,
+      "rule_id": 417,
+      "question": "I haven't no time to explain it to you.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 373,
+      "checkpoint_id": 23,
+      "rule_id": 430,
+      "question": "Last time I saw him was in 1992. He said he was working on a secret project.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 385,
+      "checkpoint_id": 24,
+      "rule_id": 449,
+      "question": "He told to me about his dream.",
+      "answer": 0,
+      "position": 1
+    },
+    {
+      "id": 402,
+      "checkpoint_id": 25,
+      "rule_id": 446,
+      "question": "Everything's gonna be OK.",
+      "answer": 1,
+      "position": 1
+    },
+    {
+      "id": 2,
+      "checkpoint_id": 1,
+      "rule_id": 186,
+      "question": "She wants chocolate.",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 23,
+      "checkpoint_id": 2,
+      "rule_id": 198,
+      "question": "He doesn’t happy.",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 47,
+      "checkpoint_id": 3,
+      "rule_id": 211,
+      "question": "Did you talked to the boss?",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 61,
+      "checkpoint_id": 4,
+      "rule_id": 219,
+      "question": "Do you will find my child?",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 75,
+      "checkpoint_id": 5,
+      "rule_id": 227,
+      "question": "They always travel together.",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 86,
+      "checkpoint_id": 6,
+      "rule_id": 233,
+      "question": "Did you buy sugar? - Oh, no! I’m forget!",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 101,
+      "checkpoint_id": 7,
+      "rule_id": 241,
+      "question": "I don't slept enough here.",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 118,
+      "checkpoint_id": 8,
+      "rule_id": 253,
+      "question": "My birthday is in February.",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 133,
+      "checkpoint_id": 9,
+      "rule_id": 262,
+      "question": "Could you show me the house?",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 150,
+      "checkpoint_id": 10,
+      "rule_id": 272,
+      "question": "I ate something bad at the party.",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 169,
+      "checkpoint_id": 11,
+      "rule_id": 285,
+      "question": "Do you listening to me?",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 187,
+      "checkpoint_id": 12,
+      "rule_id": 297,
+      "question": "Does it cold there?",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 206,
+      "checkpoint_id": 13,
+      "rule_id": 333,
+      "question": "It depends of your budget.",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 225,
+      "checkpoint_id": 14,
+      "rule_id": 324,
+      "question": "We danced during three hours.",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 242,
+      "checkpoint_id": 15,
+      "rule_id": 334,
+      "question": "If they not turn the music down, I call the police.",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 254,
+      "checkpoint_id": 16,
+      "rule_id": 340,
+      "question": "Have you try octopus before?",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 273,
+      "checkpoint_id": 17,
+      "rule_id": 352,
+      "question": "I've said it before and I'll say it again.",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 290,
+      "checkpoint_id": 18,
+      "rule_id": 365,
+      "question": "Will I able to play the piano again?",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 307,
+      "checkpoint_id": 19,
+      "rule_id": 381,
+      "question": "We'll definitely come again.",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 323,
+      "checkpoint_id": 20,
+      "rule_id": 395,
+      "question": "Would you move to another country for me?",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 339,
+      "checkpoint_id": 21,
+      "rule_id": 405,
+      "question": "I'm confused. Who's dating who?",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 357,
+      "checkpoint_id": 22,
+      "rule_id": 418,
+      "question": "He knows nothing about camping.",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 374,
+      "checkpoint_id": 23,
+      "rule_id": 432,
+      "question": "She says she likes your hat.",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 386,
+      "checkpoint_id": 24,
+      "rule_id": 450,
+      "question": "Did you say thank you?",
+      "answer": 1,
+      "position": 2
+    },
+    {
+      "id": 403,
+      "checkpoint_id": 25,
+      "rule_id": 446,
+      "question": "You gotta to see this! It's incredible!",
+      "answer": 0,
+      "position": 2
+    },
+    {
+      "id": 3,
+      "checkpoint_id": 1,
+      "rule_id": 186,
+      "question": "He like tea.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 24,
+      "checkpoint_id": 2,
+      "rule_id": 197,
+      "question": "My parents is not at home.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 48,
+      "checkpoint_id": 3,
+      "rule_id": 211,
+      "question": "What did you eat?",
+      "answer": 1,
+      "position": 3
+    },
+    {
+      "id": 62,
+      "checkpoint_id": 4,
+      "rule_id": 219,
+      "question": "When will he call again?",
+      "answer": 1,
+      "position": 3
+    },
+    {
+      "id": 76,
+      "checkpoint_id": 5,
+      "rule_id": 227,
+      "question": "I meet my wife two years ago.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 87,
+      "checkpoint_id": 6,
+      "rule_id": 233,
+      "question": "Where are the keys? - I don’t knew!",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 102,
+      "checkpoint_id": 7,
+      "rule_id": 241,
+      "question": "What did you do?",
+      "answer": 1,
+      "position": 3
+    },
+    {
+      "id": 119,
+      "checkpoint_id": 8,
+      "rule_id": 254,
+      "question": "August my favorite month.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 134,
+      "checkpoint_id": 9,
+      "rule_id": 263,
+      "question": "Let play a game.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 151,
+      "checkpoint_id": 10,
+      "rule_id": 272,
+      "question": "I can't find my phone any.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 170,
+      "checkpoint_id": 11,
+      "rule_id": 285,
+      "question": "Where are you going?",
+      "answer": 1,
+      "position": 3
+    },
+    {
+      "id": 188,
+      "checkpoint_id": 12,
+      "rule_id": 297,
+      "question": "Will it be hot there?",
+      "answer": 1,
+      "position": 3
+    },
+    {
+      "id": 207,
+      "checkpoint_id": 13,
+      "rule_id": 333,
+      "question": "I didn't ask your help.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 226,
+      "checkpoint_id": 14,
+      "rule_id": 324,
+      "question": "The dog ate my pizza during I was in the bathroom.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 243,
+      "checkpoint_id": 15,
+      "rule_id": 335,
+      "question": "Will you look after for my cats?",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 255,
+      "checkpoint_id": 16,
+      "rule_id": 341,
+      "question": "It hasn't rained since March.",
+      "answer": 1,
+      "position": 3
+    },
+    {
+      "id": 274,
+      "checkpoint_id": 17,
+      "rule_id": 352,
+      "question": "I haven't told my parents yet.",
+      "answer": 1,
+      "position": 3
+    },
+    {
+      "id": 291,
+      "checkpoint_id": 18,
+      "rule_id": 366,
+      "question": "We won't be able join you.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 308,
+      "checkpoint_id": 19,
+      "rule_id": 382,
+      "question": "I maybe will paint the walls green.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 324,
+      "checkpoint_id": 20,
+      "rule_id": 395,
+      "question": "What would she does in this situation?",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 340,
+      "checkpoint_id": 21,
+      "rule_id": 405,
+      "question": "I feel so inspire after the exhibition.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 358,
+      "checkpoint_id": 22,
+      "rule_id": 419,
+      "question": "None of the guards saw her there.",
+      "answer": 1,
+      "position": 3
+    },
+    {
+      "id": 375,
+      "checkpoint_id": 23,
+      "rule_id": 434,
+      "question": "She said she have to leave.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 387,
+      "checkpoint_id": 24,
+      "rule_id": 451,
+      "question": "Does this watch even say time?",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 404,
+      "checkpoint_id": 25,
+      "rule_id": 447,
+      "question": "Mom and Dad dropped buy this morning.",
+      "answer": 0,
+      "position": 3
+    },
+    {
+      "id": 4,
+      "checkpoint_id": 1,
+      "rule_id": 186,
+      "question": "My cat like boxes.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 25,
+      "checkpoint_id": 2,
+      "rule_id": 199,
+      "question": "It isn’t funny.",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 49,
+      "checkpoint_id": 3,
+      "rule_id": 212,
+      "question": "We didn’t order pizza.",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 63,
+      "checkpoint_id": 4,
+      "rule_id": 220,
+      "question": "We won't tell your parents.",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 77,
+      "checkpoint_id": 5,
+      "rule_id": 228,
+      "question": "I see your son at school yesterday.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 88,
+      "checkpoint_id": 6,
+      "rule_id": 234,
+      "question": "What did you put in my coffee?",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 103,
+      "checkpoint_id": 7,
+      "rule_id": 242,
+      "question": "My parents will give us them car for the weekend.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 120,
+      "checkpoint_id": 8,
+      "rule_id": 256,
+      "question": "Their wedding is on September.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 135,
+      "checkpoint_id": 9,
+      "rule_id": 263,
+      "question": "Why us not order pizza?",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 152,
+      "checkpoint_id": 10,
+      "rule_id": 273,
+      "question": "It won't take many time.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 171,
+      "checkpoint_id": 11,
+      "rule_id": 286,
+      "question": "He's not wearing a hat.",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 189,
+      "checkpoint_id": 12,
+      "rule_id": 299,
+      "question": "It rain outside.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 208,
+      "checkpoint_id": 13,
+      "rule_id": 311,
+      "question": "Russian flag is white, blue and read.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 227,
+      "checkpoint_id": 14,
+      "rule_id": 325,
+      "question": "I’ll pick you up in ten minutes.",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 244,
+      "checkpoint_id": 15,
+      "rule_id": 335,
+      "question": "What are you looking for?",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 256,
+      "checkpoint_id": 16,
+      "rule_id": 342,
+      "question": "We've gone to the museum last week.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 275,
+      "checkpoint_id": 17,
+      "rule_id": 353,
+      "question": "He hasn't find a job yet.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 292,
+      "checkpoint_id": 18,
+      "rule_id": 367,
+      "question": "We couldn't to afford a big house.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 309,
+      "checkpoint_id": 19,
+      "rule_id": 383,
+      "question": "I opened the door slowly.",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 325,
+      "checkpoint_id": 20,
+      "rule_id": 396,
+      "question": "He wouldn't lies to his parents.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 341,
+      "checkpoint_id": 21,
+      "rule_id": 406,
+      "question": "It's prohibit to smoke here.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 359,
+      "checkpoint_id": 22,
+      "rule_id": 420,
+      "question": "My sister use to cook breakfast for us.",
+      "answer": 0,
+      "position": 4
+    },
+    {
+      "id": 376,
+      "checkpoint_id": 23,
+      "rule_id": 435,
+      "question": "Mom said you should call her more often.",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 388,
+      "checkpoint_id": 24,
+      "rule_id": 452,
+      "question": "Can I talk to you?",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 405,
+      "checkpoint_id": 25,
+      "rule_id": 447,
+      "question": "I'm not doing anything tonight. Do you wanna come over?",
+      "answer": 1,
+      "position": 4
+    },
+    {
+      "id": 5,
+      "checkpoint_id": 1,
+      "rule_id": 186,
+      "question": "Dogs needs water.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 26,
+      "checkpoint_id": 2,
+      "rule_id": 197,
+      "question": "They isn’t my friends.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 50,
+      "checkpoint_id": 3,
+      "rule_id": 212,
+      "question": "I not liked the movie.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 64,
+      "checkpoint_id": 4,
+      "rule_id": 220,
+      "question": "It's won't happen again.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 78,
+      "checkpoint_id": 5,
+      "rule_id": 228,
+      "question": "I heard about it.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 89,
+      "checkpoint_id": 6,
+      "rule_id": 186,
+      "question": "Who throw my dresses on the floor?",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 104,
+      "checkpoint_id": 7,
+      "rule_id": 242,
+      "question": "He always plays with our dog.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 121,
+      "checkpoint_id": 8,
+      "rule_id": 256,
+      "question": "I'll see you in seven-thirty.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 136,
+      "checkpoint_id": 9,
+      "rule_id": 264,
+      "question": "I put the phone at my pocket.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 153,
+      "checkpoint_id": 10,
+      "rule_id": 273,
+      "question": "He didn't ask much questions.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 172,
+      "checkpoint_id": 11,
+      "rule_id": 286,
+      "question": "I don't crying.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 190,
+      "checkpoint_id": 12,
+      "rule_id": 299,
+      "question": "Does it rain here every summer?",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 209,
+      "checkpoint_id": 13,
+      "rule_id": 312,
+      "question": "You look good in purple.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 228,
+      "checkpoint_id": 14,
+      "rule_id": 325,
+      "question": "You need to be ready to nine.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 245,
+      "checkpoint_id": 15,
+      "rule_id": 336,
+      "question": "Turn the TV off now!",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 257,
+      "checkpoint_id": 16,
+      "rule_id": 342,
+      "question": "Last night they came home really late.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 276,
+      "checkpoint_id": 17,
+      "rule_id": 353,
+      "question": "I've already gave you my passport.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 293,
+      "checkpoint_id": 18,
+      "rule_id": 367,
+      "question": "You could see the whole city from that balcony.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 310,
+      "checkpoint_id": 19,
+      "rule_id": 384,
+      "question": "The new kitchen looks beautifully!",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 326,
+      "checkpoint_id": 20,
+      "rule_id": 397,
+      "question": "If I had a sister, we would be best friends.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 342,
+      "checkpoint_id": 21,
+      "rule_id": 406,
+      "question": "Later we were joined by the principal and his wife.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 360,
+      "checkpoint_id": 22,
+      "rule_id": 420,
+      "question": "We used to talk about everything.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 377,
+      "checkpoint_id": 23,
+      "rule_id": 436,
+      "question": "The judge asked them why did they want to get divorced.",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 389,
+      "checkpoint_id": 24,
+      "rule_id": 452,
+      "question": "I need to speak with you.",
+      "answer": 1,
+      "position": 5
+    },
+    {
+      "id": 406,
+      "checkpoint_id": 25,
+      "rule_id": 447,
+      "question": "Everybody knows you like Stella. When are you gonna ask her off?",
+      "answer": 0,
+      "position": 5
+    },
+    {
+      "id": 6,
+      "checkpoint_id": 1,
+      "rule_id": 188,
+      "question": "Women like cats.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 27,
+      "checkpoint_id": 2,
+      "rule_id": 200,
+      "question": "Is it a good movie?",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 51,
+      "checkpoint_id": 3,
+      "rule_id": 213,
+      "question": "It was a good idea.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 65,
+      "checkpoint_id": 4,
+      "rule_id": 221,
+      "question": "Will you help we?",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 79,
+      "checkpoint_id": 5,
+      "rule_id": 229,
+      "question": "I don’t felt tired.",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 90,
+      "checkpoint_id": 6,
+      "rule_id": 235,
+      "question": "I won’t fall again.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 105,
+      "checkpoint_id": 7,
+      "rule_id": 243,
+      "question": "Do you have him phone number?",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 122,
+      "checkpoint_id": 8,
+      "rule_id": 256,
+      "question": "We usually travel in spring.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 137,
+      "checkpoint_id": 9,
+      "rule_id": 265,
+      "question": "Get off my couch!",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 154,
+      "checkpoint_id": 10,
+      "rule_id": 273,
+      "question": "We don't need much space.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 173,
+      "checkpoint_id": 11,
+      "rule_id": 287,
+      "question": "Do you believing him?",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 191,
+      "checkpoint_id": 12,
+      "rule_id": 300,
+      "question": "There's a scary man at the door.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 210,
+      "checkpoint_id": 13,
+      "rule_id": 313,
+      "question": "I going to paint the walls green.",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 229,
+      "checkpoint_id": 14,
+      "rule_id": 326,
+      "question": "A man in a big hat was sitting in front me.",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 246,
+      "checkpoint_id": 15,
+      "rule_id": 336,
+      "question": "I like this show. Turn it up!",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 258,
+      "checkpoint_id": 16,
+      "rule_id": 343,
+      "question": "Where was your phone? - It been under my bed.",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 277,
+      "checkpoint_id": 17,
+      "rule_id": 354,
+      "question": "The children haven't eaten yet.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 294,
+      "checkpoint_id": 18,
+      "rule_id": 368,
+      "question": "The weather was good so we were able to eat outside.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 311,
+      "checkpoint_id": 19,
+      "rule_id": 385,
+      "question": "You always walk so fastly!",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 327,
+      "checkpoint_id": 20,
+      "rule_id": 397,
+      "question": "I wouldn't tell you if I'd have a billion dollars.",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 343,
+      "checkpoint_id": 21,
+      "rule_id": 407,
+      "question": "Why did he fired?",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 361,
+      "checkpoint_id": 22,
+      "rule_id": 421,
+      "question": "Every Saturday he would to wake me up at five.",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 378,
+      "checkpoint_id": 23,
+      "rule_id": 436,
+      "question": "We asked him where was the exit.",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 390,
+      "checkpoint_id": 24,
+      "rule_id": 453,
+      "question": "Do you talk German?",
+      "answer": 0,
+      "position": 6
+    },
+    {
+      "id": 407,
+      "checkpoint_id": 25,
+      "rule_id": 448,
+      "question": "I called her this morning but she hung up on me.",
+      "answer": 1,
+      "position": 6
+    },
+    {
+      "id": 7,
+      "checkpoint_id": 1,
+      "rule_id": 188,
+      "question": "My child want food.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 28,
+      "checkpoint_id": 2,
+      "rule_id": 200,
+      "question": "Does he single?",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 52,
+      "checkpoint_id": 3,
+      "rule_id": 213,
+      "question": "We was very hungry.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 66,
+      "checkpoint_id": 4,
+      "rule_id": 221,
+      "question": "I don't know they.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 80,
+      "checkpoint_id": 5,
+      "rule_id": 229,
+      "question": "This pizza doesn’t smell good.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 91,
+      "checkpoint_id": 6,
+      "rule_id": 235,
+      "question": "Last week we go to a concert.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 106,
+      "checkpoint_id": 7,
+      "rule_id": 243,
+      "question": "This job has her perks.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 123,
+      "checkpoint_id": 8,
+      "rule_id": 256,
+      "question": "I have a date at Saturday.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 138,
+      "checkpoint_id": 9,
+      "rule_id": 265,
+      "question": "Take the food out of the fridge.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 155,
+      "checkpoint_id": 10,
+      "rule_id": 274,
+      "question": "This drink has a lot of sugar.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 174,
+      "checkpoint_id": 11,
+      "rule_id": 288,
+      "question": "I don't remember the address.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 192,
+      "checkpoint_id": 12,
+      "rule_id": 300,
+      "question": "There was mosquitoes in our room.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 211,
+      "checkpoint_id": 13,
+      "rule_id": 313,
+      "question": "We're going to bring some food and drinks to the party.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 230,
+      "checkpoint_id": 14,
+      "rule_id": 326,
+      "question": "Can I sit next to you?",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 247,
+      "checkpoint_id": 15,
+      "rule_id": 337,
+      "question": "How did he get with away?",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 259,
+      "checkpoint_id": 16,
+      "rule_id": 344,
+      "question": "I yet haven't finished my breakfast.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 278,
+      "checkpoint_id": 17,
+      "rule_id": 354,
+      "question": "I've already put sugar in it.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 295,
+      "checkpoint_id": 18,
+      "rule_id": 369,
+      "question": "Did you able to swim when you were five?",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 312,
+      "checkpoint_id": 19,
+      "rule_id": 387,
+      "question": "How much times do I have to tell you?",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 328,
+      "checkpoint_id": 20,
+      "rule_id": 398,
+      "question": "If I was you, I'd just talk to him.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 344,
+      "checkpoint_id": 21,
+      "rule_id": 408,
+      "question": "The show is not cancel.",
+      "answer": 0,
+      "position": 7
+    },
+    {
+      "id": 362,
+      "checkpoint_id": 22,
+      "rule_id": 422,
+      "question": "You can stay here or wait inside.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 379,
+      "checkpoint_id": 23,
+      "rule_id": 437,
+      "question": "She asked me if I was doing anything on Saturday.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 391,
+      "checkpoint_id": 24,
+      "rule_id": 440,
+      "question": "If you hadn't taken the wrong turn, we would've reached on time.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 408,
+      "checkpoint_id": 25,
+      "rule_id": 448,
+      "question": "His story just doesn't add up.",
+      "answer": 1,
+      "position": 7
+    },
+    {
+      "id": 8,
+      "checkpoint_id": 1,
+      "rule_id": 189,
+      "question": "Do we need water?",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 29,
+      "checkpoint_id": 2,
+      "rule_id": 201,
+      "question": "I always eat here.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 53,
+      "checkpoint_id": 3,
+      "rule_id": 214,
+      "question": "Was you alone?",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 67,
+      "checkpoint_id": 4,
+      "rule_id": 222,
+      "question": "He calls her every day.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 81,
+      "checkpoint_id": 5,
+      "rule_id": 230,
+      "question": "Who chose this color?",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 92,
+      "checkpoint_id": 6,
+      "rule_id": 236,
+      "question": "How did you get here?",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 107,
+      "checkpoint_id": 7,
+      "rule_id": 244,
+      "question": "We went to hometown my boyfriend.",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 124,
+      "checkpoint_id": 8,
+      "rule_id": 258,
+      "question": "I'm always so hungry in night!",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 139,
+      "checkpoint_id": 9,
+      "rule_id": 266,
+      "question": "Last year we went to Australia. My parents live there.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 156,
+      "checkpoint_id": 10,
+      "rule_id": 275,
+      "question": "Very few people know about it.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 175,
+      "checkpoint_id": 11,
+      "rule_id": 288,
+      "question": "I'll talk to them, I'm promising.",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 193,
+      "checkpoint_id": 12,
+      "rule_id": 301,
+      "question": "Do there vegetables in this pizza?",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 212,
+      "checkpoint_id": 13,
+      "rule_id": 314,
+      "question": "Where are you going to live now?",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 231,
+      "checkpoint_id": 14,
+      "rule_id": 327,
+      "question": "There’s some money between those two books.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 248,
+      "checkpoint_id": 15,
+      "rule_id": 337,
+      "question": "My daughter and her son don't really get along.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 260,
+      "checkpoint_id": 16,
+      "rule_id": 344,
+      "question": "We've already heard the news.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 279,
+      "checkpoint_id": 17,
+      "rule_id": 355,
+      "question": "I've been think about you.",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 296,
+      "checkpoint_id": 18,
+      "rule_id": 370,
+      "question": "Sorry, we weren't able replace the window.",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 313,
+      "checkpoint_id": 19,
+      "rule_id": 388,
+      "question": "How old years is your son?",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 329,
+      "checkpoint_id": 20,
+      "rule_id": 398,
+      "question": "If it were my son, I'd tell him to stop.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 345,
+      "checkpoint_id": 21,
+      "rule_id": 408,
+      "question": "It wasn't explained in the book.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 363,
+      "checkpoint_id": 22,
+      "rule_id": 423,
+      "question": "I didn't go for a walk because it was raining outside.",
+      "answer": 1,
+      "position": 8
+    },
+    {
+      "id": 380,
+      "checkpoint_id": 23,
+      "rule_id": 437,
+      "question": "He's asking there's any pizza left in the fridge.",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 392,
+      "checkpoint_id": 24,
+      "rule_id": 440,
+      "question": "I woudn't have taken the wrong turn if you haven't told me to.",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 409,
+      "checkpoint_id": 25,
+      "rule_id": 448,
+      "question": "They fight a lot but they always make down.",
+      "answer": 0,
+      "position": 8
+    },
+    {
+      "id": 9,
+      "checkpoint_id": 1,
+      "rule_id": 189,
+      "question": "Does they work here?",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 30,
+      "checkpoint_id": 2,
+      "rule_id": 201,
+      "question": "You’re never eat fish.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 54,
+      "checkpoint_id": 3,
+      "rule_id": 214,
+      "question": "Was the food good?",
+      "answer": 1,
+      "position": 9
+    },
+    {
+      "id": 68,
+      "checkpoint_id": 4,
+      "rule_id": 222,
+      "question": "I love she.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 82,
+      "checkpoint_id": 5,
+      "rule_id": 230,
+      "question": "I’ll bought milk tomorrow.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 93,
+      "checkpoint_id": 6,
+      "rule_id": 236,
+      "question": "I didn’t had enough money.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 108,
+      "checkpoint_id": 7,
+      "rule_id": 245,
+      "question": "Hi, Ben! How are you?",
+      "answer": 1,
+      "position": 9
+    },
+    {
+      "id": 125,
+      "checkpoint_id": 8,
+      "rule_id": 258,
+      "question": "I'll see you at lunchtime.",
+      "answer": 1,
+      "position": 9
+    },
+    {
+      "id": 140,
+      "checkpoint_id": 9,
+      "rule_id": 266,
+      "question": "I don't work hear.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 157,
+      "checkpoint_id": 10,
+      "rule_id": 275,
+      "question": "I can give you a few money.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 176,
+      "checkpoint_id": 11,
+      "rule_id": 289,
+      "question": "Are you hear that?",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 194,
+      "checkpoint_id": 12,
+      "rule_id": 302,
+      "question": "There weren't many people in the room.",
+      "answer": 1,
+      "position": 9
+    },
+    {
+      "id": 213,
+      "checkpoint_id": 13,
+      "rule_id": 315,
+      "question": "He doesn't going to call.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 232,
+      "checkpoint_id": 14,
+      "rule_id": 327,
+      "question": "Did you look under the bed?",
+      "answer": 1,
+      "position": 9
+    },
+    {
+      "id": 249,
+      "checkpoint_id": 15,
+      "rule_id": 337,
+      "question": "I like getting up early.",
+      "answer": 1,
+      "position": 9
+    },
+    {
+      "id": 261,
+      "checkpoint_id": 16,
+      "rule_id": 345,
+      "question": "She hasn't called since from Sunday.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 280,
+      "checkpoint_id": 17,
+      "rule_id": 355,
+      "question": "They've been dating for months but he still hasn't met her parents.",
+      "answer": 1,
+      "position": 9
+    },
+    {
+      "id": 297,
+      "checkpoint_id": 18,
+      "rule_id": 371,
+      "question": "I think you should to apologize.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 314,
+      "checkpoint_id": 19,
+      "rule_id": 389,
+      "question": "My new car is more cheaper than my old one.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 330,
+      "checkpoint_id": 20,
+      "rule_id": 399,
+      "question": "I heard it might to rain tomorrow.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 346,
+      "checkpoint_id": 21,
+      "rule_id": 409,
+      "question": "He's be chased by the police.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 364,
+      "checkpoint_id": 22,
+      "rule_id": 423,
+      "question": "We weren't hungry because we didn't order any pizza.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 381,
+      "checkpoint_id": 23,
+      "rule_id": 438,
+      "question": "The guard asked us leave.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 393,
+      "checkpoint_id": 24,
+      "rule_id": 441,
+      "question": "You know, you could've just ask me.",
+      "answer": 0,
+      "position": 9
+    },
+    {
+      "id": 10,
+      "checkpoint_id": 1,
+      "rule_id": 190,
+      "question": "Does she like dogs?",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 31,
+      "checkpoint_id": 2,
+      "rule_id": 197,
+      "question": "She always late.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 55,
+      "checkpoint_id": 3,
+      "rule_id": 215,
+      "question": "The coffee didn’t hot enough.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 69,
+      "checkpoint_id": 4,
+      "rule_id": 223,
+      "question": "Who is it?",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 83,
+      "checkpoint_id": 5,
+      "rule_id": 231,
+      "question": "He didn’t pay for the shoes.",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 94,
+      "checkpoint_id": 6,
+      "rule_id": 237,
+      "question": "I’ll spent my money on shoes.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 109,
+      "checkpoint_id": 7,
+      "rule_id": 245,
+      "question": "Goodbye, Lauren! - Buy, Ben!",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 126,
+      "checkpoint_id": 8,
+      "rule_id": 259,
+      "question": "What do you usually do on the weekend?",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 141,
+      "checkpoint_id": 9,
+      "rule_id": 267,
+      "question": "Pass me those bottle, please.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 158,
+      "checkpoint_id": 10,
+      "rule_id": 276,
+      "question": "You don't have much experience.",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 177,
+      "checkpoint_id": 11,
+      "rule_id": 290,
+      "question": "We were playing poker.",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 195,
+      "checkpoint_id": 12,
+      "rule_id": 303,
+      "question": "Will there a DJ at the party?",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 214,
+      "checkpoint_id": 13,
+      "rule_id": 316,
+      "question": "I was going eat that.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 233,
+      "checkpoint_id": 14,
+      "rule_id": 328,
+      "question": "There’s a bank around of the corner.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 250,
+      "checkpoint_id": 15,
+      "rule_id": 338,
+      "question": "He came at with a great name for our company.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 262,
+      "checkpoint_id": 16,
+      "rule_id": 345,
+      "question": "I'm so hungry! I haven't had any food for nine a.m.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 281,
+      "checkpoint_id": 17,
+      "rule_id": 356,
+      "question": "Have you been working out?",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 298,
+      "checkpoint_id": 18,
+      "rule_id": 372,
+      "question": "Do I should wait outside?",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 315,
+      "checkpoint_id": 19,
+      "rule_id": 389,
+      "question": "My brother always takes the biggest piece of pie.",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 331,
+      "checkpoint_id": 20,
+      "rule_id": 399,
+      "question": "My keys could be anywhere.",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 347,
+      "checkpoint_id": 21,
+      "rule_id": 409,
+      "question": "My house is being renovated now.",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 365,
+      "checkpoint_id": 22,
+      "rule_id": 424,
+      "question": "I can't tell you where they're hiding.",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 382,
+      "checkpoint_id": 23,
+      "rule_id": 438,
+      "question": "My neighbor asked me to don't smoke on the balcony.",
+      "answer": 0,
+      "position": 10
+    },
+    {
+      "id": 394,
+      "checkpoint_id": 24,
+      "rule_id": 441,
+      "question": "He might've changed the password.",
+      "answer": 1,
+      "position": 10
+    },
+    {
+      "id": 11,
+      "checkpoint_id": 1,
+      "rule_id": 190,
+      "question": "He drink milk?",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 32,
+      "checkpoint_id": 2,
+      "rule_id": 202,
+      "question": "My father is usually very busy.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 56,
+      "checkpoint_id": 3,
+      "rule_id": 215,
+      "question": "They wasn’t happy together.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 70,
+      "checkpoint_id": 4,
+      "rule_id": 223,
+      "question": "Who am I?",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 84,
+      "checkpoint_id": 5,
+      "rule_id": 231,
+      "question": "Will you gave us a discount?",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 95,
+      "checkpoint_id": 6,
+      "rule_id": 237,
+      "question": "Who make breakfast?",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 110,
+      "checkpoint_id": 7,
+      "rule_id": 246,
+      "question": "Thank you, Mr. Howard! - You welcome.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 127,
+      "checkpoint_id": 8,
+      "rule_id": 260,
+      "question": "We never drink coffee at the morning.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 142,
+      "checkpoint_id": 9,
+      "rule_id": 267,
+      "question": "I don't know this people.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 159,
+      "checkpoint_id": 10,
+      "rule_id": 277,
+      "question": "We brought a little chairs.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 178,
+      "checkpoint_id": 11,
+      "rule_id": 290,
+      "question": "He was wear a coat and a hat.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 196,
+      "checkpoint_id": 12,
+      "rule_id": 304,
+      "question": "I want go home.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 215,
+      "checkpoint_id": 13,
+      "rule_id": 316,
+      "question": "My parents were going to pick me up.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 234,
+      "checkpoint_id": 14,
+      "rule_id": 328,
+      "question": "Go across the square.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 251,
+      "checkpoint_id": 15,
+      "rule_id": 338,
+      "question": "Don't give up! You can do it!",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 263,
+      "checkpoint_id": 16,
+      "rule_id": 346,
+      "question": "We haven't had any customers so far.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 282,
+      "checkpoint_id": 17,
+      "rule_id": 358,
+      "question": "We'll have replaced the window in your room by tomorrow.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 299,
+      "checkpoint_id": 18,
+      "rule_id": 373,
+      "question": "We shouldn't talk about it here.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 316,
+      "checkpoint_id": 19,
+      "rule_id": 390,
+      "question": "You look happier now.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 332,
+      "checkpoint_id": 20,
+      "rule_id": 400,
+      "question": "You must be really tired.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 348,
+      "checkpoint_id": 21,
+      "rule_id": 410,
+      "question": "Why are we being ignore by the waiters?",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 366,
+      "checkpoint_id": 22,
+      "rule_id": 425,
+      "question": "I know a guy what can help you.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 383,
+      "checkpoint_id": 23,
+      "rule_id": 439,
+      "question": "Mom told you to clean the kitchen.",
+      "answer": 1,
+      "position": 11
+    },
+    {
+      "id": 395,
+      "checkpoint_id": 24,
+      "rule_id": 442,
+      "question": "You shouldn't have say that.",
+      "answer": 0,
+      "position": 11
+    },
+    {
+      "id": 12,
+      "checkpoint_id": 1,
+      "rule_id": 191,
+      "question": "My children doesn't watch TV.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 33,
+      "checkpoint_id": 2,
+      "rule_id": 203,
+      "question": "We every day watch TV.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 57,
+      "checkpoint_id": 3,
+      "rule_id": 216,
+      "question": "I yesterday talked to your sister.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 71,
+      "checkpoint_id": 4,
+      "rule_id": 224,
+      "question": "Were where you last week?",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 96,
+      "checkpoint_id": 6,
+      "rule_id": 238,
+      "question": "I’ll took my keys.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 111,
+      "checkpoint_id": 7,
+      "rule_id": 246,
+      "question": "I drank your coffee. I sorry.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 128,
+      "checkpoint_id": 8,
+      "rule_id": 260,
+      "question": "I usually do yoga on the evening.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 143,
+      "checkpoint_id": 9,
+      "rule_id": 268,
+      "question": "The tickets can are expensive.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 160,
+      "checkpoint_id": 10,
+      "rule_id": 277,
+      "question": "I think we're a little early.",
+      "answer": 1,
+      "position": 12
+    },
+    {
+      "id": 179,
+      "checkpoint_id": 11,
+      "rule_id": 291,
+      "question": "Why did she crying?",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 197,
+      "checkpoint_id": 12,
+      "rule_id": 304,
+      "question": "I need to find a new job.",
+      "answer": 1,
+      "position": 12
+    },
+    {
+      "id": 216,
+      "checkpoint_id": 13,
+      "rule_id": 317,
+      "question": "What did you going to do?",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 235,
+      "checkpoint_id": 14,
+      "rule_id": 329,
+      "question": "I can see right three you.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 252,
+      "checkpoint_id": 15,
+      "rule_id": 338,
+      "question": "I don't know who did it but I'll find up.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 264,
+      "checkpoint_id": 16,
+      "rule_id": 347,
+      "question": "You've had enough to drink.",
+      "answer": 1,
+      "position": 12
+    },
+    {
+      "id": 283,
+      "checkpoint_id": 17,
+      "rule_id": 359,
+      "question": "Will you finished by Monday?",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 300,
+      "checkpoint_id": 18,
+      "rule_id": 374,
+      "question": "Now I have to do it again!",
+      "answer": 1,
+      "position": 12
+    },
+    {
+      "id": 317,
+      "checkpoint_id": 19,
+      "rule_id": 391,
+      "question": "Please be the more careful next time.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 333,
+      "checkpoint_id": 20,
+      "rule_id": 400,
+      "question": "She can't to be your sister.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 349,
+      "checkpoint_id": 21,
+      "rule_id": 411,
+      "question": "We're not being watched, I swear.",
+      "answer": 1,
+      "position": 12
+    },
+    {
+      "id": 367,
+      "checkpoint_id": 22,
+      "rule_id": 425,
+      "question": "This is the doctor who saved my life.",
+      "answer": 1,
+      "position": 12
+    },
+    {
+      "id": 384,
+      "checkpoint_id": 23,
+      "rule_id": 439,
+      "question": "Didn't your parents tell you not to play with your food?",
+      "answer": 1,
+      "position": 12
+    },
+    {
+      "id": 396,
+      "checkpoint_id": 24,
+      "rule_id": 442,
+      "question": "She should hidden the money better.",
+      "answer": 0,
+      "position": 12
+    },
+    {
+      "id": 13,
+      "checkpoint_id": 1,
+      "rule_id": 191,
+      "question": "I not work here.",
+      "answer": 0,
+      "position": 13
+    },
+    {
+      "id": 34,
+      "checkpoint_id": 2,
+      "rule_id": 204,
+      "question": "Where do you live? - In Moscow.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 58,
+      "checkpoint_id": 3,
+      "rule_id": 216,
+      "question": "Last week we watched a movie together.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 72,
+      "checkpoint_id": 4,
+      "rule_id": 224,
+      "question": "Why did you were angry?",
+      "answer": 0,
+      "position": 13
+    },
+    {
+      "id": 97,
+      "checkpoint_id": 6,
+      "rule_id": 238,
+      "question": "We’ll bring food and drinks.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 112,
+      "checkpoint_id": 7,
+      "rule_id": 247,
+      "question": "Good night, son.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 129,
+      "checkpoint_id": 8,
+      "rule_id": 257,
+      "question": "We meet here on every Wednesday.",
+      "answer": 0,
+      "position": 13
+    },
+    {
+      "id": 144,
+      "checkpoint_id": 9,
+      "rule_id": 268,
+      "question": "You can try again next year.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 161,
+      "checkpoint_id": 10,
+      "rule_id": 278,
+      "question": "I have a car. The car is very old.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 180,
+      "checkpoint_id": 11,
+      "rule_id": 292,
+      "question": "I wasn't paying attention.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 198,
+      "checkpoint_id": 12,
+      "rule_id": 305,
+      "question": "He said that to annoy you.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 217,
+      "checkpoint_id": 13,
+      "rule_id": 318,
+      "question": "We weren’t going to stay there all night.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 236,
+      "checkpoint_id": 14,
+      "rule_id": 329,
+      "question": "Is the elevator going to up?",
+      "answer": 0,
+      "position": 13
+    },
+    {
+      "id": 265,
+      "checkpoint_id": 16,
+      "rule_id": 347,
+      "question": "What have you did?",
+      "answer": 0,
+      "position": 13
+    },
+    {
+      "id": 284,
+      "checkpoint_id": 17,
+      "rule_id": 360,
+      "question": "He won't have found a new apartment by Friday.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 301,
+      "checkpoint_id": 18,
+      "rule_id": 374,
+      "question": "You have show him your ID.",
+      "answer": 0,
+      "position": 13
+    },
+    {
+      "id": 318,
+      "checkpoint_id": 19,
+      "rule_id": 391,
+      "question": "It's the most dangerous mountain road in the world.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 334,
+      "checkpoint_id": 20,
+      "rule_id": 401,
+      "question": "My grandma is sixty.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 350,
+      "checkpoint_id": 21,
+      "rule_id": 412,
+      "question": "The walls were being repainted.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 368,
+      "checkpoint_id": 22,
+      "rule_id": 426,
+      "question": "This is the restaurant I was telling you about.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 397,
+      "checkpoint_id": 24,
+      "rule_id": 443,
+      "question": "I must've accidentally turned on the alarm.",
+      "answer": 1,
+      "position": 13
+    },
+    {
+      "id": 14,
+      "checkpoint_id": 1,
+      "rule_id": 192,
+      "question": "She don't want coffee.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 35,
+      "checkpoint_id": 2,
+      "rule_id": 204,
+      "question": "Who do you watch this show? - It’s very funny.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 59,
+      "checkpoint_id": 3,
+      "rule_id": 217,
+      "question": "He called ago two days.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 73,
+      "checkpoint_id": 4,
+      "rule_id": 225,
+      "question": "Where will he is tomorrow?",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 98,
+      "checkpoint_id": 6,
+      "rule_id": 239,
+      "question": "What happened? - I lose my phone!",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 113,
+      "checkpoint_id": 7,
+      "rule_id": 250,
+      "question": "I have fifth children.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 130,
+      "checkpoint_id": 8,
+      "rule_id": 257,
+      "question": "They went to Mexico last summer.",
+      "answer": 1,
+      "position": 14
+    },
+    {
+      "id": 145,
+      "checkpoint_id": 9,
+      "rule_id": 269,
+      "question": "Do you can sing?",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 162,
+      "checkpoint_id": 10,
+      "rule_id": 278,
+      "question": "Don't look at sun!",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 181,
+      "checkpoint_id": 11,
+      "rule_id": 292,
+      "question": "We weren't talk about you.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 199,
+      "checkpoint_id": 12,
+      "rule_id": 306,
+      "question": "It's not safe to stay here.",
+      "answer": 1,
+      "position": 14
+    },
+    {
+      "id": 218,
+      "checkpoint_id": 13,
+      "rule_id": 319,
+      "question": "I’m taking Natalie to a nice restaurant tonight.",
+      "answer": 1,
+      "position": 14
+    },
+    {
+      "id": 237,
+      "checkpoint_id": 14,
+      "rule_id": 330,
+      "question": "My daughter is thirteen.",
+      "answer": 1,
+      "position": 14
+    },
+    {
+      "id": 266,
+      "checkpoint_id": 16,
+      "rule_id": 348,
+      "question": "I've never saw anything so beautiful.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 285,
+      "checkpoint_id": 17,
+      "rule_id": 361,
+      "question": "We realized someone had use our car.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 302,
+      "checkpoint_id": 18,
+      "rule_id": 375,
+      "question": "Have I check these bags?",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 319,
+      "checkpoint_id": 19,
+      "rule_id": 392,
+      "question": "I have a more good idea.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 335,
+      "checkpoint_id": 20,
+      "rule_id": 402,
+      "question": "It costs four thousand dollars.",
+      "answer": 1,
+      "position": 14
+    },
+    {
+      "id": 351,
+      "checkpoint_id": 21,
+      "rule_id": 413,
+      "question": "Our flight has been cancel.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 369,
+      "checkpoint_id": 22,
+      "rule_id": 427,
+      "question": "You can visit us whenever you want.",
+      "answer": 1,
+      "position": 14
+    },
+    {
+      "id": 398,
+      "checkpoint_id": 24,
+      "rule_id": 443,
+      "question": "They must've give you the wrong address.",
+      "answer": 0,
+      "position": 14
+    },
+    {
+      "id": 15,
+      "checkpoint_id": 1,
+      "rule_id": 192,
+      "question": "My cat doesn't eat fish.",
+      "answer": 1,
+      "position": 15
+    },
+    {
+      "id": 36,
+      "checkpoint_id": 2,
+      "rule_id": 205,
+      "question": "When do you need? - I need milk and sugar.",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 99,
+      "checkpoint_id": 6,
+      "rule_id": 239,
+      "question": "Did you found your phone?",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 114,
+      "checkpoint_id": 7,
+      "rule_id": 251,
+      "question": "We need nine dollars for the tickets.",
+      "answer": 1,
+      "position": 15
+    },
+    {
+      "id": 131,
+      "checkpoint_id": 8,
+      "rule_id": 257,
+      "question": "In this weekend I have a date.",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 146,
+      "checkpoint_id": 9,
+      "rule_id": 269,
+      "question": "How I can help you?",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 163,
+      "checkpoint_id": 10,
+      "rule_id": 279,
+      "question": "Look! It's actor from that funny movie!",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 182,
+      "checkpoint_id": 11,
+      "rule_id": 293,
+      "question": "I'll be waiting outside.",
+      "answer": 1,
+      "position": 15
+    },
+    {
+      "id": 200,
+      "checkpoint_id": 12,
+      "rule_id": 307,
+      "question": "I want what you listen to me.",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 219,
+      "checkpoint_id": 13,
+      "rule_id": 319,
+      "question": "We’re leave at five.",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 238,
+      "checkpoint_id": 14,
+      "rule_id": 330,
+      "question": "I’ll be there in fiveteen minutes.",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 267,
+      "checkpoint_id": 16,
+      "rule_id": 348,
+      "question": "Have you heard the news?",
+      "answer": 1,
+      "position": 15
+    },
+    {
+      "id": 286,
+      "checkpoint_id": 17,
+      "rule_id": 361,
+      "question": "By the time I met my husband I'd already had two children.",
+      "answer": 1,
+      "position": 15
+    },
+    {
+      "id": 303,
+      "checkpoint_id": 18,
+      "rule_id": 376,
+      "question": "I don't have to explain my decision to you.",
+      "answer": 1,
+      "position": 15
+    },
+    {
+      "id": 320,
+      "checkpoint_id": 19,
+      "rule_id": 392,
+      "question": "The weather's gotten more worse.",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 336,
+      "checkpoint_id": 20,
+      "rule_id": 403,
+      "question": "I want an office on the fifty floor.",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 352,
+      "checkpoint_id": 21,
+      "rule_id": 413,
+      "question": "I'm sorry. You've been replaced.",
+      "answer": 1,
+      "position": 15
+    },
+    {
+      "id": 370,
+      "checkpoint_id": 22,
+      "rule_id": 428,
+      "question": "Please don't talk while the movie!",
+      "answer": 0,
+      "position": 15
+    },
+    {
+      "id": 399,
+      "checkpoint_id": 24,
+      "rule_id": 444,
+      "question": "We had to share a tiny room with no TV.",
+      "answer": 1,
+      "position": 15
+    },
+    {
+      "id": 16,
+      "checkpoint_id": 1,
+      "rule_id": 193,
+      "question": "My parents have a big car.",
+      "answer": 1,
+      "position": 16
+    },
+    {
+      "id": 37,
+      "checkpoint_id": 2,
+      "rule_id": 205,
+      "question": "What food do you like? - I like pizza and burgers.",
+      "answer": 1,
+      "position": 16
+    },
+    {
+      "id": 115,
+      "checkpoint_id": 7,
+      "rule_id": 252,
+      "question": "They work on the two floor.",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 147,
+      "checkpoint_id": 9,
+      "rule_id": 270,
+      "question": "She can't sings.",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 164,
+      "checkpoint_id": 10,
+      "rule_id": 280,
+      "question": "A cats don't eat fruit.",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 183,
+      "checkpoint_id": 11,
+      "rule_id": 293,
+      "question": "Tomorrow we'll be eat pizza and drink wine on the beach.",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 201,
+      "checkpoint_id": 12,
+      "rule_id": 307,
+      "question": "We need you to help us.",
+      "answer": 1,
+      "position": 16
+    },
+    {
+      "id": 220,
+      "checkpoint_id": 13,
+      "rule_id": 320,
+      "question": "Did you build this house myself?",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 239,
+      "checkpoint_id": 14,
+      "rule_id": 331,
+      "question": "You’re our twelfth customer today.",
+      "answer": 1,
+      "position": 16
+    },
+    {
+      "id": 268,
+      "checkpoint_id": 16,
+      "rule_id": 349,
+      "question": "Have we meet before?",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 287,
+      "checkpoint_id": 17,
+      "rule_id": 362,
+      "question": "Had you ever cooked before you opened your restaurant?",
+      "answer": 1,
+      "position": 16
+    },
+    {
+      "id": 304,
+      "checkpoint_id": 18,
+      "rule_id": 377,
+      "question": "You must to change your password now.",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 321,
+      "checkpoint_id": 19,
+      "rule_id": 393,
+      "question": "You need to go further.",
+      "answer": 1,
+      "position": 16
+    },
+    {
+      "id": 337,
+      "checkpoint_id": 20,
+      "rule_id": 403,
+      "question": "It's my grandpa's eightieth birthday.",
+      "answer": 1,
+      "position": 16
+    },
+    {
+      "id": 353,
+      "checkpoint_id": 21,
+      "rule_id": 414,
+      "question": "Were you ever have fired?",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 371,
+      "checkpoint_id": 22,
+      "rule_id": 429,
+      "question": "Call me as soon as you'll reach Moscow.",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 400,
+      "checkpoint_id": 24,
+      "rule_id": 445,
+      "question": "You'll have ask my boss about that.",
+      "answer": 0,
+      "position": 16
+    },
+    {
+      "id": 17,
+      "checkpoint_id": 1,
+      "rule_id": 193,
+      "question": "You has a brother.",
+      "answer": 0,
+      "position": 17
+    },
+    {
+      "id": 38,
+      "checkpoint_id": 2,
+      "rule_id": 206,
+      "question": "Who does lives here?",
+      "answer": 0,
+      "position": 17
+    },
+    {
+      "id": 116,
+      "checkpoint_id": 7,
+      "rule_id": 252,
+      "question": "This is your seventh drink.",
+      "answer": 1,
+      "position": 17
+    },
+    {
+      "id": 148,
+      "checkpoint_id": 9,
+      "rule_id": 270,
+      "question": "Excuse me, you cannot smoke here.",
+      "answer": 1,
+      "position": 17
+    },
+    {
+      "id": 165,
+      "checkpoint_id": 10,
+      "rule_id": 281,
+      "question": "I visit my the parents every summer.",
+      "answer": 0,
+      "position": 17
+    },
+    {
+      "id": 184,
+      "checkpoint_id": 11,
+      "rule_id": 294,
+      "question": "What will you wearing?",
+      "answer": 0,
+      "position": 17
+    },
+    {
+      "id": 202,
+      "checkpoint_id": 12,
+      "rule_id": 308,
+      "question": "She enjoys travel and cook.",
+      "answer": 0,
+      "position": 17
+    },
+    {
+      "id": 221,
+      "checkpoint_id": 13,
+      "rule_id": 320,
+      "question": "Ask yourself this question.",
+      "answer": 1,
+      "position": 17
+    },
+    {
+      "id": 240,
+      "checkpoint_id": 14,
+      "rule_id": 331,
+      "question": "I live on the seventeenth floor.",
+      "answer": 1,
+      "position": 17
+    },
+    {
+      "id": 269,
+      "checkpoint_id": 16,
+      "rule_id": 349,
+      "question": "She's already left.",
+      "answer": 1,
+      "position": 17
+    },
+    {
+      "id": 288,
+      "checkpoint_id": 17,
+      "rule_id": 363,
+      "question": "I had never have a cold until last week.",
+      "answer": 0,
+      "position": 17
+    },
+    {
+      "id": 305,
+      "checkpoint_id": 18,
+      "rule_id": 378,
+      "question": "We mustn't tell anybody.",
+      "answer": 1,
+      "position": 17
+    },
+    {
+      "id": 354,
+      "checkpoint_id": 21,
+      "rule_id": 415,
+      "question": "We haven't be officially introduced yet.",
+      "answer": 0,
+      "position": 17
+    },
+    {
+      "id": 372,
+      "checkpoint_id": 22,
+      "rule_id": 429,
+      "question": "We can watch something after you finish work.",
+      "answer": 1,
+      "position": 17
+    },
+    {
+      "id": 401,
+      "checkpoint_id": 24,
+      "rule_id": 445,
+      "question": "You won't have to pay for anything.",
+      "answer": 1,
+      "position": 17
+    },
+    {
+      "id": 18,
+      "checkpoint_id": 1,
+      "rule_id": 194,
+      "question": "My sister have children.",
+      "answer": 0,
+      "position": 18
+    },
+    {
+      "id": 39,
+      "checkpoint_id": 2,
+      "rule_id": 206,
+      "question": "Who wants coffee?",
+      "answer": 1,
+      "position": 18
+    },
+    {
+      "id": 166,
+      "checkpoint_id": 10,
+      "rule_id": 282,
+      "question": "We never swim in the Black sea",
+      "answer": 1,
+      "position": 18
+    },
+    {
+      "id": 185,
+      "checkpoint_id": 11,
+      "rule_id": 295,
+      "question": "We won't be using our computers there.",
+      "answer": 1,
+      "position": 18
+    },
+    {
+      "id": 203,
+      "checkpoint_id": 12,
+      "rule_id": 308,
+      "question": "Why do you keep saying that?",
+      "answer": 1,
+      "position": 18
+    },
+    {
+      "id": 222,
+      "checkpoint_id": 13,
+      "rule_id": 321,
+      "question": "We can pay for our.",
+      "answer": 0,
+      "position": 18
+    },
+    {
+      "id": 270,
+      "checkpoint_id": 16,
+      "rule_id": 350,
+      "question": "He hasn't sleep since Monday.",
+      "answer": 0,
+      "position": 18
+    },
+    {
+      "id": 355,
+      "checkpoint_id": 21,
+      "rule_id": 416,
+      "question": "The receptionist told us our flight had been delayed.",
+      "answer": 1,
+      "position": 18
+    },
+    {
+      "id": 19,
+      "checkpoint_id": 1,
+      "rule_id": 194,
+      "question": "He a job has.",
+      "answer": 0,
+      "position": 19
+    },
+    {
+      "id": 40,
+      "checkpoint_id": 2,
+      "rule_id": 207,
+      "question": "Do you like funny movies? - Yes, like.",
+      "answer": 0,
+      "position": 19
+    },
+    {
+      "id": 167,
+      "checkpoint_id": 10,
+      "rule_id": 282,
+      "question": "I live in the Moscow.",
+      "answer": 0,
+      "position": 19
+    },
+    {
+      "id": 204,
+      "checkpoint_id": 12,
+      "rule_id": 309,
+      "question": "Eating a lot of sugar is not good for you.",
+      "answer": 1,
+      "position": 19
+    },
+    {
+      "id": 223,
+      "checkpoint_id": 13,
+      "rule_id": 322,
+      "question": "She can defend himself.",
+      "answer": 0,
+      "position": 19
+    },
+    {
+      "id": 271,
+      "checkpoint_id": 16,
+      "rule_id": 350,
+      "question": "I've make you some coffee.",
+      "answer": 0,
+      "position": 19
+    },
+    {
+      "id": 20,
+      "checkpoint_id": 1,
+      "rule_id": 195,
+      "question": "Do she have a sister?",
+      "answer": 0,
+      "position": 20
+    },
+    {
+      "id": 41,
+      "checkpoint_id": 2,
+      "rule_id": 190,
+      "question": "Does he always wake up late? - Yes, he do.",
+      "answer": 0,
+      "position": 20
+    },
+    {
+      "id": 21,
+      "checkpoint_id": 1,
+      "rule_id": 196,
+      "question": "We not have dogs.",
+      "answer": 0,
+      "position": 21
+    },
+    {
+      "id": 42,
+      "checkpoint_id": 2,
+      "rule_id": 208,
+      "question": "Do you have a car? - No, not have.",
+      "answer": 0,
+      "position": 21
+    },
+    {
+      "id": 43,
+      "checkpoint_id": 2,
+      "rule_id": 208,
+      "question": "Does she work here? - No, she doesn’t.",
+      "answer": 1,
+      "position": 22
+    },
+    {
+      "id": 44,
+      "checkpoint_id": 2,
+      "rule_id": 209,
+      "question": "Are you a vegetarian? - Yes, I am.",
+      "answer": 1,
+      "position": 23
+    },
+    {
+      "id": 45,
+      "checkpoint_id": 2,
+      "rule_id": 209,
+      "question": "Is she married? - No, she doesn’t.",
+      "answer": 0,
+      "position": 24
+    }
+  ]
+}

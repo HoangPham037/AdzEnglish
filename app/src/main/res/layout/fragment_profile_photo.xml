@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tool="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:paddingHorizontal="@dimen/_16dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_50dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:text="@string/txt_add_profile_photo"
+        android:textColor="@color/blue_02"
+        android:textSize="@dimen/_16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvUniCoin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:textSize="@dimen/_16sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvTitle"
+        tool:text="Bạn sẽ được thưởng: "
+        tool:textColor="@color/gray_01" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:textSize="@dimen/_16sp"
+        app:layout_constraintStart_toEndOf="@id/tvUniCoin"
+        app:layout_constraintTop_toTopOf="@id/tvUniCoin"
+        app:layout_constraintBottom_toBottomOf="@id/tvUniCoin"
+        tool:text="10 Unicoin"
+        tool:textColor="@color/yellow" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/ivAvatar"
+        android:layout_width="@dimen/_170dp"
+        android:layout_height="@dimen/_170dp"
+        android:layout_marginTop="@dimen/_100dp"
+        android:background="@drawable/bg_avatar"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tvUniCoin" />
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_10dp"
+        android:elevation="@dimen/_5dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:textSize="@dimen/_64sp"
+        app:layout_constraintBottom_toBottomOf="@id/ivAvatar"
+        app:layout_constraintEnd_toEndOf="@id/ivAvatar"
+        app:layout_constraintStart_toStartOf="@id/ivAvatar"
+        app:layout_constraintTop_toTopOf="@id/ivAvatar"
+        tool:text="o"
+        tool:textColor="@color/gray_01" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_8dp"
+        android:elevation="@dimen/_5dp"
+        android:src="@drawable/ic_edit"
+        app:layout_constraintEnd_toEndOf="@id/ivAvatar"
+        app:layout_constraintTop_toTopOf="@id/ivAvatar"
+        tool:ignore="ContentDescription" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="-15dp"
+        android:background="@drawable/bg_answer"
+        android:drawableEnd="@drawable/ic_gold"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:gravity="center"
+        android:paddingHorizontal="@dimen/_15dp"
+        android:text="@string/txt_10_gold"
+        android:textAlignment="center"
+        android:elevation="@dimen/_5dp"
+        android:textColor="@color/yellow_01"
+        android:textSize="@dimen/_24sp"
+        app:layout_constraintBottom_toBottomOf="@id/ivAvatar"
+        app:layout_constraintEnd_toEndOf="@id/ivAvatar"
+        app:layout_constraintStart_toStartOf="@id/ivAvatar"
+        tool:ignore="UseCompatTextViewDrawableXml" />
+
+    <TextView
+        android:id="@+id/tvContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_20dp"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:gravity="center"
+        android:lineSpacingExtra="@dimen/_5dp"
+        android:text="@string/txt_content_add_profile"
+        android:textSize="@dimen/_16sp"
+        app:layout_constraintBottom_toTopOf="@id/btnAddPhoto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tool:textColor="@color/gray_01" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btnAddPhoto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_text_view"
+        android:paddingVertical="@dimen/_18dp"
+        android:text="@string/txt_add_photo"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_16sp"
+        app:layout_constraintBottom_toTopOf="@id/tvNoReward"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/tvNoReward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_40dp"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:padding="@dimen/_16dp"
+        android:text="@string/txt_reward_no"
+        android:textColor="@color/green_01"
+        android:textSize="@dimen/_16sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_app"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".ui.intro.IntroNineFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/plusjakartasans_bold"
+        android:paddingHorizontal="@dimen/_32dp"
+        android:text="@string/title_intro_nine"
+        android:textAlignment="center"
+        android:textColor="@color/blue_01"
+        android:textSize="@dimen/_24sp"
+        app:layout_constraintBottom_toTopOf="@+id/customCircleProgressBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.adzenglish.adzenglish.customview.CustomCircleProgressBar
+        android:id="@+id/customCircleProgressBar"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
+        android:layout_marginVertical="@dimen/_32dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/appCompatImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/img_intro_nine"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/customCircleProgressBar" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

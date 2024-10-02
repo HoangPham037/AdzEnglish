@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/tvAnswerOne"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_answer"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:gravity="center"
+        android:padding="@dimen/_16dp"
+        android:textColor="@color/blue_01"
+        app:layout_constraintBottom_toTopOf="@id/tvAnswerTwo"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Cà phê" />
+
+    <TextView
+        android:id="@+id/tvAnswerTwo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_40dp"
+        android:background="@drawable/bg_answer"
+        android:fontFamily="@font/plusjakartasans_regular"
+        android:gravity="center"
+        android:padding="@dimen/_16dp"
+        android:textColor="@color/blue_01"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:text="Rượu vang" />
+
+    <include
+        android:id="@+id/layoutStateAnswer"
+        layout="@layout/state_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_16dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toTopOf="@+id/layoutBtnNext"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <include
+        android:id="@+id/layoutBtnNext"
+        layout="@layout/button_next"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_16dp"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

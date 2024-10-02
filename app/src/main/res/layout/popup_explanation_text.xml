@@ -1,0 +1,19 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bgr_txt_explain"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="@dimen/_8dp"
+    tools:ignore="MissingDefaultResource">
+
+    <TextView
+        android:id="@+id/tvExplain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5dp"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_12sp"
+        tools:text="hi" />
+</LinearLayout>
